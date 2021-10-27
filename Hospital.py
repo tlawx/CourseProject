@@ -1,4 +1,4 @@
-import Treatment
+from Treatment import Treatment
 
 
 class Hospital:
