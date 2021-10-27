@@ -1,5 +1,5 @@
 class Treatment:
-    def __init__(self, treatment_name, treatment_price):
+    def __init__(self, treatment_name, treatment_price=0.0):
         self.treatment_name = treatment_name
         self.treatment_price = treatment_price
 
