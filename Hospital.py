@@ -3,12 +3,20 @@ from Treatment import Treatment
 
 class Hospital:
 
-    def __init__(self, name, address, link="", treatments=[], ranking=0):
+    def __init__(self, id, name, address=None, link="", treatments=None, ranking=0):
+        self.hospital_id = id
         self.name = name
         self.address = address
         self.link = link
-        self.treatments = treatments
+        self.treatments = [] # tuples of treatment_id, treatment_object?
         self.ranking = ranking
+
+        # Might move these later to address class
+        self.city = None
+        self.state = None
+
+    def set_hospital_id(self, id):
+        self.hospital_id = id
 
     def set_name(self, name):
         self.name = name
@@ -45,3 +53,9 @@ class Hospital:
 
     def get_ranking(self):
         return self.ranking
+
+    def __str__(self):
+        return f"id: {self.hospital_id}, name: {self.name}"
+
+    def __repr__(self):
+        return f"id: {self.hospital_id}, name: {self.name}"
