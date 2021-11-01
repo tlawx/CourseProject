@@ -2,12 +2,12 @@ from Treatment import Treatment
 
 
 class Patient:
-    def __init__(self, name):
+    def __init__(self, name, state):
         self.name = name
+        self.state = state
 
     treatments_needed = []
     queries = []
-    preferred_locations = []
     selected_hospitals = []
 
     def set_name(self, name):
@@ -15,6 +15,12 @@ class Patient:
 
     def get_name(self):
         return self.name
+
+    def set_state(self, state):
+        self.state = state
+
+    def get_state(self):
+        return self.state
 
     def add_query(self, new_query):
         self.queries.append(new_query)
@@ -30,3 +36,6 @@ class Patient:
 
     def get_treatments(self):
         return self.treatments_needed
+
+    def add_hospital(self, hospital):
+        self.selected_hospitals.append(hospital)
