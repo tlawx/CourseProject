@@ -1,14 +1,10 @@
 class Treatment:
-    def __init__(self, treatment_name, treatment_price=0.0, category=""):
-        self.category = category
+    def __init__(self, concept_id, concept_code, vocabulary_id, treatment_name, treatment_price=0.0):
+        self.concept_id = concept_id
+        self.concept_code = concept_code
+        self.vocabulary_id = vocabulary_id
         self.treatment_name = treatment_name
         self.treatment_price = treatment_price
-
-    def set_category(self, category):
-        self.category = category
-
-    def get_category(self):
-        return self.category
 
     def set_treatment_name(self, name):
         self.treatment_name = name
