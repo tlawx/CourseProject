@@ -1,5 +1,5 @@
 class Treatment:
-    def __init__(self, category, treatment_name, treatment_price=0.0):
+    def __init__(self, treatment_name, treatment_price=0.0, category=""):
         self.category = category
         self.treatment_name = treatment_name
         self.treatment_price = treatment_price
