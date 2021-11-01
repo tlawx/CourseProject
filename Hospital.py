@@ -3,12 +3,14 @@ from Treatment import Treatment
 
 class Hospital:
 
-    def __init__(self, name, address, link="", treatments=[], ranking=0):
+    def __init__(self, name, city, state, affiliation, link="", treatments=[], rating=0):
         self.name = name
-        self.address = address
+        self.city = city
+        self.state = state
+        self.affiliation = affiliation
         self.link = link
         self.treatments = treatments
-        self.ranking = ranking
+        self.rating = rating
 
     def set_name(self, name):
         self.name = name
@@ -16,11 +18,23 @@ class Hospital:
     def get_name(self):
         return self.name
 
-    def set_address(self, address):
-        self.address = address
+    def set_city(self, city):
+        self.city = city
 
-    def get_address(self):
-        return self.address
+    def get_city(self):
+        return self.city
+
+    def set_state(self, state):
+        self.state = state
+
+    def get_state(self):
+        return self.state
+
+    def set_affiliation(self, affiliation):
+        self.affiliation = affiliation
+
+    def get_affiliation(self):
+        return self.affiliation
 
     def set_link(self, link):
         self.link = link
@@ -40,8 +54,8 @@ class Hospital:
     def get_treatments(self):
         return self.treatments
 
-    def set_ranking(self, ranking):
-        self.ranking = ranking
+    def set_rating(self, rating):
+        self.rating = rating
 
-    def get_ranking(self):
-        return self.ranking
+    def get_rating(self):
+        return self.rating
