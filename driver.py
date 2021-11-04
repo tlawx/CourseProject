@@ -25,21 +25,73 @@ class Driver:
         
         hospital_object_list = []
         for h in hospitals:
-            hospital = driver.create_hospital_object(h)
-            hospital_object_list.append(hospital)
+            hospital_object_list.append(driver.create_hospital_object(h))
 
         return hospital_object_list
 
     @staticmethod
-    def add_treatment_price_data_to_hospitals(price_dataset):
-        treatments = CSVParser.readfile_to_dict(price_dataset)
+    def add_treatment_price_data_to_hospitals(prices_dataset, hospital_index):
+        prices_treatments = CSVParser.readfile_to_dict(prices_dataset)
 
-        # add logic to map all price data to treatment ids belonging to each hospital
+        # for entry in prices_treatments:
+        #     # each entry is a dict e.g {'hospital_id': '1', 'concept_id': '2101827', 'price': 'gross', 'amount': '9221'}
+        #     if 'hospital_id' in entry.keys():
+        #         if entry['hospital_id'] in hospital_index.keys():
+        #             hospital = hospital_index[entry['hospital_id']]
+        #             hospital.add_new_treatment_by_id(entry['concept_id'])
+
         
+    @staticmethod
+    def create_treatment_list(treatment_dataset):
+        treatments = CSVParser.readfile_to_dict(treatment_dataset)
 
-    def add_treatment_data_to_hospitals(treatment_dataset):
+        treatment_obj_list = []
+        for t in treatments:
+            treatment_obj_list.append(Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name']))
 
-         # add logic to map all concept ids to hospital ids
+        return treatment_obj_list
+
+
+    @staticmethod
+    def create_treatment_index(treatment_obj_list):
+        """
+        Creates a dict of treatment_id (keys) and treatment objects (values)
+        """
+        treatment_index = {}
+
+        for treatment_obj in treatment_obj_list:
+            treatment_index[treatment_obj.concept_id] = treatment_obj
+
+        return treatment_index
+
+    @staticmethod
+    def create_hospital_index(hospital_obj_list):
+        """
+        Creates an index (dict) of hospital_id (keys) and hospital objects (values)
+        """
+        hospital_index = {}
+
+        for hospital_obj in hospital_obj_list:
+            hospital_index[hospital_obj.hospital_id] = hospital_obj
+
+        return hospital_index
+
+
+    @staticmethod
+    def create_index_with_given_key(id_field, obj_list):
+        """
+        Creates a dict with specified key and matching object id as value
+        """
+        index = {}
+
+        for obj in obj_list:
+            index[obj.__dataclass_fields__[id_field]] = obj
+
+        return index
+
+
+    @staticmethod
+    def get_hospital_by_id(hospital_id):
         pass
 
 
@@ -48,9 +100,20 @@ if __name__ == '__main__':
     
     driver = Driver()
     
-    # add proper path checking and move these values to config 
+    # Add proper path checking and move these values to config 
     driver.hospital_dataset = 'data/hospital.csv'
     driver.prices_dataset = 'data/price.csv'
     driver.concepts_dataset = 'data/concept.csv'
 
     hospital_list = driver.create_hospital_list(driver.hospital_dataset)
+    treatment_list = driver.create_treatment_list(driver.concepts_dataset)
+
+    hospital_index = hospital_index = driver.create_hospital_index(hospital_list)
+    treatment_index = treatment_index = driver.create_treatment_index(treatment_list)
+    #driver.add_treatment_price_data_to_hospitals(driver.prices_dataset, hospital_index)
+
+
+    # Output for logging and debugging
+    print(hospital_index['1'])
+    print(treatment_index['43533189'])
+
