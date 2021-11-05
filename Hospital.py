@@ -1,4 +1,4 @@
-from Treatment import Treatment
+#from Treatment import Treatment
 
 
 class Hospital:
@@ -49,8 +49,8 @@ class Hospital:
     def add_treatment_object(self, treatment):
         self.treatments.append(treatment)
 
-    def add_new_treatment(self, concept_id, concept_code, vocabulary_id, treatment_name, treatment_price):
-        self.treatments.append(Treatment(concept_id, concept_code, vocabulary_id, treatment_name, treatment_price))
+    # def add_new_treatment(self, concept_id, concept_code, vocabulary_id, treatment_name, treatment_price):
+    #     self.treatments.append(Treatment(concept_id, concept_code, vocabulary_id, treatment_name, treatment_price))
 
     def set_treatments(self, treatments):
         self.treatments = treatments
@@ -65,7 +65,7 @@ class Hospital:
         return self.rating
 
     def __str__(self):
-        return f"id: {self.hospital_id}, name: {self.name}"
+        return "fid: {self.hospital_id}, name: {self.name}"
 
     def __repr__(self):
-        return f"id: {self.hospital_id}, name: {self.name}"
+        return "fid: {self.hospital_id}, name: {self.name}"
