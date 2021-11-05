@@ -35,5 +35,5 @@ class Treatment:
     def add_new_hospital(self, hospital_id, name, city=None, state=None, affiliation=None, link="", treatments=None, rating=0):
         self.hospital = Hospital(hospital_id, name, city, state, affiliation, link, treatments, rating)
 
-    def get_hospital(self, hospital):
+    def get_hospital(self):
         return self.hospital
