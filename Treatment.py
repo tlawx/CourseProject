@@ -2,7 +2,7 @@ from Hospital import Hospital
 
 
 class Treatment:
-    def __init__(self, concept_id, concept_code, vocabulary_id, hospital, treatment_name, treatment_price=0.0, category=""):
+    def __init__(self, concept_id, concept_code, vocabulary_id, hospital, treatment_name="", treatment_price=0.0, category=""):
         self.concept_id = concept_id
         self.concept_code = concept_code
         self.vocabulary_id = vocabulary_id
