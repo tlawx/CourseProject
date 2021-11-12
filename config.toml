@@ -1,0 +1,17 @@
+prefix = "."
+stop-words = "meta/stopwords.txt"
+
+dataset = "treatments"
+corpus = "line.toml"
+index = "idx"
+
+[[analyzers]]
+method = "ngram-word"
+ngram = 1
+filter = "default-unigram-chain"
+
+[ranker]
+method = "bm25"
+k1 = 1.2
+b = 0.75
+k3 = 500

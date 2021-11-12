@@ -7,4 +7,7 @@ Healthcare costs make up one of individuals and employers largest expenses and p
 This project allows users to query/search of medical service and provide a list of hospitals that are ranked according to reported prices and their ratings 
 
 
+### Dataset  
 
+* dolthub Hospital Price Transparency [link](https://www.dolthub.com/repositories/dolthub/hospital-price-transparency)
+* Kaggle Dataset hospital-price-transparency [link](https://www.kaggle.com/natesutton/hospitalpricetransparency?select=concept.csv)
