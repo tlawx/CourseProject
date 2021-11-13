@@ -14,3 +14,11 @@ class Meta:
     def add_query(self, q):
         query = metapy.index.Document()
         query.content(q)
+
+    def search_inverted_index(self, q, num_results=20):
+        """
+        Return a ranked list of (doc_id, score) pairs
+        """
+        query = self.add_query(q)
+        top_docs = self.ranker.score(self.idx, query, num_results)
+        return top_docs
