@@ -10,6 +10,7 @@ class Driver:
         self.hospital_dataset = ''
         self.prices_dataset = ''
         self.concepts_dataset = ''
+        self.categories_dataset = ''
 
     @staticmethod
     def create_hospital_object(hospital_row):
@@ -46,6 +47,7 @@ class Driver:
         treatments = CSVParser.readfile_to_dict(treatment_dataset)
 
         treatment_obj_list = []
+
         for t in treatments:
             treatment_obj_list.append(Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name']))
 
@@ -53,7 +55,27 @@ class Driver:
 
 
     @staticmethod
-    def create_treatment_index(treatment_obj_list):
+    def create_category_treatment_dict(category_dataset, treatment_dataset):
+        """
+        Creates a dict of dicts. Category_letters (keys) and treatment_dict (values) with treatment_id (keys) and treatment objects (values)
+        """
+        categories = CSVParser.readfile_to_dict(category_dataset)
+        treatments = CSVParser.readfile_to_dict(treatment_dataset)
+
+        category_dict = {}
+
+        for c in categories:
+            category_dict[c['category_letter']] = {}
+
+        for t in treatments:
+            current_hcpcs_code = t['concept_code'][:1] 
+            if current_hcpcs_code in category_dict: # Only add treatments in established categories
+                category_dict[current_hcpcs_code[:1]][t['concept_id']] = Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name'])
+
+        return category_dict
+
+    @staticmethod
+    def create_treatment_index(treatment_obj_list): 
         """
         Creates a dict of treatment_id (keys) and treatment objects (values)
         """
@@ -101,19 +123,23 @@ if __name__ == '__main__':
     driver = Driver()
     
     # Add proper path checking and move these values to config 
+    driver.categories_dataset = 'data/hcpcs_categories.csv'
     driver.hospital_dataset = 'data/hospital.csv'
     driver.prices_dataset = 'data/price.csv'
     driver.concepts_dataset = 'data/concept.csv'
-
-    hospital_list = driver.create_hospital_list(driver.hospital_dataset)
+    
     treatment_list = driver.create_treatment_list(driver.concepts_dataset)
-
+    hospital_list = driver.create_hospital_list(driver.hospital_dataset)
+    
+    category_treatment_dict = driver.create_category_treatment_dict(driver.categories_dataset, driver.concepts_dataset)
+    
     hospital_index = hospital_index = driver.create_hospital_index(hospital_list)
     treatment_index = treatment_index = driver.create_treatment_index(treatment_list)
+    
     #driver.add_treatment_price_data_to_hospitals(driver.prices_dataset, hospital_index)
 
-
     # Output for logging and debugging
+    print(category_treatment_dict['A']['2614981'])
     print(hospital_index['1'])
     print(treatment_index['43533189'])
 
