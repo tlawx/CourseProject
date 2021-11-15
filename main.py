@@ -70,8 +70,7 @@ def main():
     query = raw_input("What kind of " + category_name + " are you looking for? ")
 
     # call a function that outputs a ranked and relevant list of treatments and their hospitals
-    s = Search()
-    s.new_query(category_code, category_name, query)
+    s = Search(category_code, query)
     s.find_possible_treatments()
 
 if __name__ == "__main__":
