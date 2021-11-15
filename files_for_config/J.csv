@@ -1,0 +1,810 @@
+J0120 Tetracyclin injection Injection tetracycline up to 250 mg 
+J0121 Inj. omadacycline 1 mg Injection omadacycline 1 mg 
+J0122 Inj. eravacycline 1 mg Injection eravacycline 1 mg 
+J0129 Abatacept injection Injection abatacept 10 mg (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self administered) 
+J0130 Abciximab injection Injection abciximab 10 mg 
+J0131 Acetaminophen injection Injection acetaminophen 10 mg 
+J0132 Acetylcysteine injection Injection acetylcysteine 100 mg 
+J0133 Acyclovir injection Injection acyclovir 5 mg 
+J0135 Adalimumab injection Injection adalimumab 20 mg 
+J0150 Injection adenosine 6 mg Injection adenosine for therapeutic use  6 mg (not to be used to report any adenosine phosphate compounds instead use a9270) 
+J0151 Inj adenosine diag 1mg Injection adenosine for diagnostic use 1 mg (not to be used to report any adenosine phosphate compounds instead use a9270) 
+J0153 Adenosine inj 1mg Injection adenosine 1 mg (not to be used to report any adenosine phosphate compounds) 
+J0171 Adrenalin epinephrine inject Injection adrenalin epinephrine 0.1 mg 
+J0178 Aflibercept injection Injection aflibercept 1 mg 
+J0179 Inj brolucizumab-dbll 1 mg Injection brolucizumab-dbll 1 mg 
+J0180 Agalsidase beta injection Injection agalsidase beta 1 mg 
+J0185 Inj. aprepitant 1 mg Injection aprepitant 1 mg 
+J0190 Inj biperiden lactate/5 mg Injection biperiden lactate per 5 mg 
+J0200 Alatrofloxacin mesylate Injection alatrofloxacin mesylate 100 mg 
+J0202 Injection alemtuzumab Injection alemtuzumab 1 mg 
+J0205 Alglucerase injection Injection alglucerase per 10 units 
+J0207 Amifostine Injection amifostine 500 mg 
+J0210 Methyldopate hcl injection Injection methyldopate hcl up to 250 mg 
+J0215 Alefacept Injection alefacept 0.5 mg 
+J0220 Alglucosidase alfa injection Injection alglucosidase alfa 10 mg not otherwise specified 
+J0221 Lumizyme injection Injection alglucosidase alfa (lumizyme) 10 mg 
+J0222 Inj. patisiran 0.1 mg Injection patisiran 0.1 mg 
+J0256 Alpha 1 proteinase inhibitor Injection alpha 1 proteinase inhibitor (human) not otherwise specified 10 mg 
+J0257 Glassia injection Injection alpha 1 proteinase inhibitor (human) (glassia) 10 mg 
+J0270 Alprostadil for injection Injection alprostadil 1.25 mcg (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self administered) 
+J0275 Alprostadil urethral suppos Alprostadil urethral suppository (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self administered) 
+J0278 Amikacin sulfate injection Injection amikacin sulfate 100 mg 
+J0280 Aminophyllin 250 mg inj Injection aminophyllin up to 250 mg 
+J0282 Amiodarone hcl Injection amiodarone hydrochloride 30 mg 
+J0285 Amphotericin b Injection amphotericin b 50 mg 
+J0287 Amphotericin b lipid complex Injection amphotericin b lipid complex 10 mg 
+J0288 Ampho b cholesteryl sulfate Injection amphotericin b cholesteryl sulfate complex 10 mg 
+J0289 Amphotericin b liposome inj Injection amphotericin b liposome 10 mg 
+J0290 Ampicillin 500 mg inj Injection ampicillin sodium 500 mg 
+J0291 Inj. plazomicin 5 mg Injection plazomicin 5 mg 
+J0295 Ampicillin sulbactam 1.5 gm Injection ampicillin sodium/sulbactam sodium per 1.5 gm 
+J0300 Amobarbital 125 mg inj Injection amobarbital up to 125 mg 
+J0330 Succinycholine chloride inj Injection succinylcholine chloride up to 20 mg 
+J0348 Anidulafungin injection Injection anidulafungin 1 mg 
+J0350 Injection anistreplase 30 u Injection anistreplase per 30 units 
+J0360 Hydralazine hcl injection Injection hydralazine hcl up to 20 mg 
+J0364 Apomorphine hydrochloride Injection apomorphine hydrochloride 1 mg 
+J0365 Aprotonin 10000 kiu Injection aprotonin 10000 kiu 
+J0380 Inj metaraminol bitartrate Injection metaraminol bitartrate per 10 mg 
+J0390 Chloroquine injection Injection chloroquine hydrochloride up to 250 mg 
+J0395 Arbutamine hcl injection Injection arbutamine hcl 1 mg 
+J0400 Aripiprazole injection Injection aripiprazole intramuscular 0.25 mg 
+J0401 Inj aripiprazole ext rel 1mg Injection aripiprazole extended release 1 mg 
+J0456 Azithromycin Injection azithromycin 500 mg 
+J0461 Atropine sulfate injection Injection atropine sulfate 0.01 mg 
+J0470 Dimecaprol injection Injection dimercaprol per 100 mg 
+J0475 Baclofen 10 mg injection Injection baclofen 10 mg 
+J0476 Baclofen intrathecal trial Injection baclofen 50 mcg for intrathecal trial 
+J0480 Basiliximab Injection basiliximab 20 mg 
+J0485 Belatacept injection Injection belatacept 1 mg 
+J0490 Belimumab injection Injection belimumab 10 mg 
+J0500 Dicyclomine injection Injection dicyclomine hcl up to 20 mg 
+J0515 Inj benztropine mesylate Injection benztropine mesylate per 1 mg 
+J0517 Inj. benralizumab 1 mg Injection benralizumab 1 mg 
+J0520 Bethanechol chloride inject Injection bethanechol chloride myotonachol or urecholine up to 5 mg 
+J0558 Peng benzathine/procaine inj Injection penicillin g benzathine and penicillin g procaine 100000 units 
+J0561 Penicillin g benzathine inj Injection penicillin g benzathine 100000 units 
+J0565 Inj bezlotoxumab 10 mg Injection bezlotoxumab 10 mg 
+J0567 Inj. cerliponase alfa 1 mg Injection cerliponase alfa 1 mg 
+J0570 Buprenorphine implant 74.2mg Buprenorphine implant 74.2 mg 
+J0571 Buprenorphine oral 1mg Buprenorphine oral 1 mg 
+J0572 Bupren/nal up to 3mg bupreno Buprenorphine/naloxone oral less than or equal to 3 mg buprenorphine 
+J0573 Bupren/nal 3.1 to 6mg bupren Buprenorphine/naloxone oral greater than 3 mg but less than or equal to 6 mg buprenorphine 
+J0574 Bupren/nal 6.1 to 10mg bupre Buprenorphine/naloxone oral greater than 6 mg but less than or equal to 10 mg buprenorphine 
+J0575 Bupren/nal over 10mg bupreno Buprenorphine/naloxone oral greater than 10 mg buprenorphine 
+J0583 Bivalirudin Injection bivalirudin 1 mg 
+J0584 Injection burosumab-twza 1m Injection burosumab-twza 1 mg 
+J0585 Injectiononabotulinumtoxina Injection onabotulinumtoxina 1 unit 
+J0586 Abobotulinumtoxina Injection abobotulinumtoxina 5 units 
+J0587 Inj rimabotulinumtoxinb Injection rimabotulinumtoxinb 100 units 
+J0588 Incobotulinumtoxin a Injection incobotulinumtoxin a 1 unit 
+J0592 Buprenorphine hydrochloride Injection buprenorphine hydrochloride 0.1 mg 
+J0593 Inj. lanadelumab-flyo 1 mg Injection lanadelumab-flyo 1 mg (code may be used for medicare when drug administered under direct supervision of a physician not for use when drug is self-administered) 
+J0594 Busulfan injection injection busulfan 1 mg 
+J0595 Butorphanol tartrate 1 mg Injection butorphanol tartrate 1 mg 
+J0596 Injection ruconest Injection c1 esterase inhibitor (recombinant) ruconest 10 units 
+J0597 C-1 esterase berinert Injection c-1 esterase inhibitor (human) berinert 10 units 
+J0598 C-1 esterase cinryze Injection c-1 esterase inhibitor (human) cinryze 10 units 
+J0599 Inj. haegarda 10 units Injection c-1 esterase inhibitor (human) (haegarda) 10 units 
+J0600 Edetate calcium disodium inj Injection edetate calcium disodium up to 1000 mg 
+J0604 Cinacalcet esrd on dialysis Cinacalcet oral 1 mg (for esrd on dialysis) 
+J0606 Inj etelcalcetide 0.1 mg Injection etelcalcetide 0.1 mg 
+J0610 Calcium gluconate injection Injection calcium gluconate per 10 ml 
+J0620 Calcium glycer & lact/10 ml Injection calcium glycerophosphate and calcium lactate per 10 ml 
+J0630 Calcitonin salmon injection Injection calcitonin salmon up to 400 units 
+J0636 Inj calcitriol per 0.1 mcg Injection calcitriol 0.1 mcg 
+J0637 Caspofungin acetate Injection caspofungin acetate 5 mg 
+J0638 Canakinumab injection Injection canakinumab 1 mg 
+J0640 Leucovorin calcium injection Injection leucovorin calcium per 50 mg 
+J0641 Inj levoleucovorin nos 0.5mg Injection levoleucovorin not otherwise specified 0.5 mg 
+J0642 Injection khapzory 0.5 mg Injection levoleucovorin (khapzory) 0.5 mg 
+J0670 Inj mepivacaine hcl/10 ml Injection mepivacaine hydrochloride per 10 ml 
+J0690 Cefazolin sodium injection Injection cefazolin sodium 500 mg 
+J0692 Cefepime hcl for injection Injection cefepime hydrochloride 500 mg 
+J0694 Cefoxitin sodium injection Injection cefoxitin sodium 1 gm 
+J0695 Inj ceftolozane tazobactam Injection ceftolozane 50 mg and tazobactam 25 mg 
+J0696 Ceftriaxone sodium injection Injection ceftriaxone sodium per 250 mg 
+J0697 Sterile cefuroxime injection Injection sterile cefuroxime sodium per 750 mg 
+J0698 Cefotaxime sodium injection Injection cefotaxime sodium per gm 
+J0702 Betamethasone acet&sod phosp Injection betamethasone acetate 3 mg and betamethasone sodium phosphate 3 mg 
+J0706 Caffeine citrate injection Injection caffeine citrate 5 mg 
+J0710 Cephapirin sodium injection Injection cephapirin sodium up to 1 gm 
+J0712 Ceftaroline fosamil inj Injection ceftaroline fosamil 10 mg 
+J0713 Inj ceftazidime per 500 mg Injection ceftazidime per 500 mg 
+J0714 Ceftazidime and avibactam Injection ceftazidime and avibactam 0.5 g/0.125 g 
+J0715 Ceftizoxime sodium / 500 mg Injection ceftizoxime sodium per 500 mg 
+J0716 Centruroides immune f(ab) Injection centruroides immune f(ab)2 up to 120 milligrams 
+J0717 Certolizumab pegol inj 1mg Injection certolizumab pegol 1 mg (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self administered) 
+J0720 Chloramphenicol sodium injec Injection chloramphenicol sodium succinate up to 1 gm 
+J0725 Chorionic gonadotropin/1000u Injection chorionic gonadotropin per 1000 usp units 
+J0735 Clonidine hydrochloride Injection clonidine hydrochloride 1 mg 
+J0740 Cidofovir injection Injection cidofovir 375 mg 
+J0743 Cilastatin sodium injection Injection cilastatin sodium; imipenem per 250 mg 
+J0744 Ciprofloxacin iv Injection ciprofloxacin for intravenous infusion 200 mg 
+J0745 Inj codeine phosphate /30 mg Injection codeine phosphate per 30 mg 
+J0760 Colchicine injection Injection colchicine per 1 mg 
+J0770 Colistimethate sodium inj Injection colistimethate sodium up to 150 mg 
+J0775 Collagenase clost hist inj Injection collagenase clostridium histolyticum 0.01 mg 
+J0780 Prochlorperazine injection Injection prochlorperazine up to 10 mg 
+J0795 Corticorelin ovine triflutal Injection corticorelin ovine triflutate 1 microgram 
+J0800 Corticotropin injection Injection corticotropin up to 40 units 
+J0833 Cosyntropin injection nos Injection cosyntropin not otherwise specified 0.25 mg 
+J0834 Inj. cosyntropin 0.25 mg Injection cosyntropin 0.25 mg 
+J0840 Crotalidae poly immune fab Injection crotalidae polyvalent immune fab (ovine) up to 1 gram 
+J0841 Inj crotalidae im f(ab')2 eq Injection crotalidae immune f(ab')2 (equine) 120 mg 
+J0850 Cytomegalovirus imm iv /vial Injection cytomegalovirus immune globulin intravenous (human) per vial 
+J0875 Injection dalbavancin Injection dalbavancin 5 mg 
+J0878 Daptomycin injection Injection daptomycin 1 mg 
+J0881 Darbepoetin alfa non-esrd Injection darbepoetin alfa 1 microgram (non-esrd use) 
+J0882 Darbepoetin alfa esrd use Injection darbepoetin alfa 1 microgram (for esrd on dialysis) 
+J0883 Argatroban nonesrd use 1mg Injection argatroban 1 mg (for non-esrd use) 
+J0884 Argatroban esrd dialysis 1mg Injection argatroban 1 mg (for esrd on dialysis) 
+J0885 Epoetin alfa non-esrd Injection epoetin alfa (for non-esrd use) 1000 units 
+J0886 Epoetin alfa 1000 units esrd Injection epoetin alfa 1000 units (for esrd on dialysis) 
+J0887 Epoetin beta esrd use Injection epoetin beta 1 microgram (for esrd on dialysis) 
+J0888 Epoetin beta non esrd Injection epoetin beta 1 microgram (for non esrd use) 
+J0890 Peginesatide injection Injection peginesatide 0.1 mg (for esrd on dialysis) 
+J0894 Decitabine injection Injection decitabine 1 mg 
+J0895 Deferoxamine mesylate inj Injection deferoxamine mesylate 500 mg 
+J0897 Denosumab injection Injection denosumab 1 mg 
+J0900 Testosterone enanthate inj Injection testosterone enanthate and estradiol valerate up to 1 cc 
+J0945 Brompheniramine maleate inj Injection brompheniramine maleate per 10 mg 
+J1000 Depo-estradiol cypionate inj Injection depo-estradiol cypionate up to 5 mg 
+J1020 Methylprednisolone 20 mg inj Injection methylprednisolone acetate 20 mg 
+J1030 Methylprednisolone 40 mg inj Injection methylprednisolone acetate 40 mg 
+J1040 Methylprednisolone 80 mg inj Injection methylprednisolone acetate 80 mg 
+J1050 Medroxyprogesterone acetate Injection medroxyprogesterone acetate 1 mg 
+J1060 Testosterone cypionate 1 ml Injection testosterone cypionate and estradiol cypionate up to 1 ml 
+J1070 Testosterone cypionat 100 mg Injection testosterone cypionate up to 100 mg 
+J1071 Inj testosterone cypionate Injection testosterone cypionate 1 mg 
+J1080 Testosterone cypionat 200 mg Injection testosterone cypionate 1 cc 200 mg 
+J1094 Inj dexamethasone acetate Injection dexamethasone acetate 1 mg 
+J1095 Injection dexamethasone 9% Injection dexamethasone 9 percent intraocular 1 microgram 
+J1096 Dexametha opth insert 0.1 mg Dexamethasone lacrimal ophthalmic insert 0.1 mg 
+J1097 Phenylep ketorolac opth soln Phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution 1 ml 
+J1100 Dexamethasone sodium phos Injection dexamethasone sodium phosphate 1 mg 
+J1110 Inj dihydroergotamine mesylt Injection dihydroergotamine mesylate per 1 mg 
+J1120 Acetazolamid sodium injectio Injection acetazolamide sodium up to 500 mg 
+J1130 Inj diclofenac sodium 0.5mg Injection diclofenac sodium 0.5 mg 
+J1160 Digoxin injection Injection digoxin up to 0.5 mg 
+J1162 Digoxin immune fab (ovine) Injection digoxin immune fab (ovine) per vial 
+J1165 Phenytoin sodium injection Injection phenytoin sodium per 50 mg 
+J1170 Hydromorphone injection Injection hydromorphone up to 4 mg 
+J1180 Dyphylline injection Injection dyphylline up to 500 mg 
+J1190 Dexrazoxane hcl injection Injection dexrazoxane hydrochloride per 250 mg 
+J1200 Diphenhydramine hcl injectio Injection diphenhydramine hcl up to 50 mg 
+J1205 Chlorothiazide sodium inj Injection chlorothiazide sodium per 500 mg 
+J1212 Dimethyl sulfoxide 50% 50 ml Injection dmso dimethyl sulfoxide 50% 50 ml 
+J1230 Methadone injection Injection methadone hcl up to 10 mg 
+J1240 Dimenhydrinate injection Injection dimenhydrinate up to 50 mg 
+J1245 Dipyridamole injection Injection dipyridamole per 10 mg 
+J1250 Inj dobutamine hcl/250 mg Injection dobutamine hydrochloride per 250 mg 
+J1260 Dolasetron mesylate Injection dolasetron mesylate 10 mg 
+J1265 Dopamine injection Injection dopamine hcl 40 mg 
+J1267 Doripenem injection Injection doripenem 10 mg 
+J1270 Injection doxercalciferol Injection doxercalciferol 1 mcg 
+J1290 Ecallantide injection Injection ecallantide 1 mg 
+J1300 Eculizumab injection Injection eculizumab 10 mg 
+J1301 Injection edaravone 1 mg Injection edaravone 1 mg 
+J1303 Inj. ravulizumab-cwvz 10 mg Injection ravulizumab-cwvz 10 mg 
+J1320 Amitriptyline injection Injection amitriptyline hcl up to 20 mg 
+J1322 Elosulfase alfa injection Injection elosulfase alfa 1 mg 
+J1324 Enfuvirtide injection Injection enfuvirtide 1 mg 
+J1325 Epoprostenol injection Injection epoprostenol 0.5 mg 
+J1327 Eptifibatide injection Injection eptifibatide 5 mg 
+J1330 Ergonovine maleate injection Injection ergonovine maleate up to 0.2 mg 
+J1335 Ertapenem injection Injection ertapenem sodium 500 mg 
+J1364 Erythro lactobionate /500 mg Injection erythromycin lactobionate per 500 mg 
+J1380 Estradiol valerate 10 mg inj Injection estradiol valerate up to 10 mg 
+J1410 Inj estrogen conjugate 25 mg Injection estrogen conjugated per 25 mg 
+J1428 Inj eteplirsen 10 mg Injection eteplirsen 10 mg 
+J1430 Ethanolamine oleate 100 mg Injection ethanolamine oleate 100 mg 
+J1435 Injection estrone per 1 mg Injection estrone per 1 mg 
+J1436 Etidronate disodium inj Injection etidronate disodium per 300 mg 
+J1438 Etanercept injection Injection etanercept 25 mg (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self administered) 
+J1439 Inj ferric carboxymaltos 1mg Injection ferric carboxymaltose 1 mg 
+J1442 Inj filgrastim excl biosimil Injection filgrastim (g-csf) excludes biosimilars 1 microgram 
+J1443 Inj ferric pyrophosphate cit Injection ferric pyrophosphate citrate solution 0.1 mg of iron 
+J1444 Fe pyro cit pow 0.1 mg iron Injection ferric pyrophosphate citrate powder 0.1 mg of iron 
+J1446 Inj tbo-filgrastim 5 mcg Injection tbo-filgrastim 5 micrograms 
+J1447 Inj tbo filgrastim 1 microg Injection tbo-filgrastim 1 microgram 
+J1450 Fluconazole Injection fluconazole 200 mg 
+J1451 Fomepizole 15 mg Injection fomepizole 15 mg 
+J1452 Intraocular fomivirsen na Injection fomivirsen sodium intraocular 1.65 mg 
+J1453 Fosaprepitant injection Injection fosaprepitant 1 mg 
+J1454 Inj fosnetupitant palonoset Injection fosnetupitant 235 mg and palonosetron 0.25 mg 
+J1455 Foscarnet sodium injection Injection foscarnet sodium per 1000 mg 
+J1457 Gallium nitrate injection Injection gallium nitrate 1 mg 
+J1458 Galsulfase injection Injection galsulfase 1 mg 
+J1459 Inj ivig privigen 500 mg Injection immune globulin (privigen) intravenous non-lyophilized (e.g. liquid) 500 mg 
+J1460 Gamma globulin 1 cc inj Injection gamma globulin intramuscular 1 cc 
+J1555 Inj cuvitru 100 mg Injection immune globulin (cuvitru) 100 mg 
+J1556 Inj imm glob bivigam 500mg Injection immune globulin (bivigam) 500 mg 
+J1557 Gammaplex injection Injection immune globulin (gammaplex) intravenous non-lyophilized (e.g. liquid) 500 mg 
+J1559 Hizentra injection Injection immune globulin (hizentra) 100 mg 
+J1560 Gamma globulin > 10 cc inj Injection gamma globulin intramuscular over 10 cc 
+J1561 Gamunex-c/gammaked Injection immune globulin (gamunex-c/gammaked) non-lyophilized (e.g. liquid) 500 mg 
+J1562 Vivaglobin inj Injection immune globulin (vivaglobin) 100 mg 
+J1566 Immune globulin powder Injection immune globulin intravenous lyophilized (e.g. powder) not otherwise specified 500 mg 
+J1568 Octagam injection Injection immune globulin (octagam) intravenous non-lyophilized (e.g. liquid) 500 mg 
+J1569 Gammagard liquid injection Injection immune globulin (gammagard liquid) non-lyophilized (e.g. liquid) 500 mg 
+J1570 Ganciclovir sodium injection Injection ganciclovir sodium 500 mg 
+J1571 Hepagam b im injection Injection hepatitis b immune globulin (hepagam b) intramuscular 0.5 ml 
+J1572 Flebogamma injection Injection immune globulin (flebogamma/flebogamma dif) intravenous non-lyophilized (e.g. liquid) 500 mg 
+J1573 Hepagam b intravenous inj Injection hepatitis b immune globulin (hepagam b) intravenous 0.5 ml 
+J1575 Hyqvia 100mg immuneglobulin Injection immune globulin/hyaluronidase (hyqvia) 100 mg immuneglobulin 
+J1580 Garamycin gentamicin inj Injection garamycin gentamicin up to 80 mg 
+J1590 Gatifloxacin injection Injection gatifloxacin 10 mg 
+J1595 Injection glatiramer acetate Injection glatiramer acetate 20 mg 
+J1599 Ivig non-lyophilized nos Injection immune globulin intravenous non-lyophilized (e.g. liquid) not otherwise specified 500 mg 
+J1600 Gold sodium thiomaleate inj Injection gold sodium thiomalate up to 50 mg 
+J1602 Golimumab for iv use 1mg Injection golimumab 1 mg for intravenous use 
+J1610 Glucagon hydrochloride/1 mg Injection glucagon hydrochloride per 1 mg 
+J1620 Gonadorelin hydroch/ 100 mcg Injection gonadorelin hydrochloride per 100 mcg 
+J1626 Granisetron hcl injection Injection granisetron hydrochloride 100 mcg 
+J1627 Inj granisetron xr 0.1 mg Injection granisetron extended-release 0.1 mg 
+J1628 Inj. guselkumab 1 mg Injection guselkumab 1 mg 
+J1630 Haloperidol injection Injection haloperidol up to 5 mg 
+J1631 Haloperidol decanoate inj Injection haloperidol decanoate per 50 mg 
+J1640 Hemin 1 mg Injection hemin 1 mg 
+J1642 Inj heparin sodium per 10 u Injection heparin sodium (heparin lock flush) per 10 units 
+J1644 Inj heparin sodium per 1000u Injection heparin sodium per 1000 units 
+J1645 Dalteparin sodium Injection dalteparin sodium per 2500 iu 
+J1650 Inj enoxaparin sodium Injection enoxaparin sodium 10 mg 
+J1652 Fondaparinux sodium Injection fondaparinux sodium 0.5 mg 
+J1655 Tinzaparin sodium injection Injection tinzaparin sodium 1000 iu 
+J1670 Tetanus immune globulin inj Injection tetanus immune globulin human up to 250 units 
+J1675 Histrelin acetate Injection histrelin acetate 10 micrograms 
+J1700 Hydrocortisone acetate inj Injection hydrocortisone acetate up to 25 mg 
+J1710 Hydrocortisone sodium ph inj Injection hydrocortisone sodium phosphate up to 50 mg 
+J1720 Hydrocortisone sodium succ i Injection hydrocortisone sodium succinate up to 100 mg 
+J1725 Hydroxyprogesterone caproate Injection hydroxyprogesterone caproate 1 mg 
+J1726 Makena 10 mg Injection hydroxyprogesterone caproate (makena) 10 mg 
+J1729 Inj hydroxyprogst capoat nos Injection hydroxyprogesterone caproate not otherwise specified 10 mg 
+J1730 Diazoxide injection Injection diazoxide up to 300 mg 
+J1740 Ibandronate sodium injection Injection ibandronate sodium 1 mg 
+J1741 Ibuprofen injection Injection ibuprofen 100 mg 
+J1742 Ibutilide fumarate injection Injection ibutilide fumarate 1 mg 
+J1743 Idursulfase injection Injection idursulfase 1 mg 
+J1744 Icatibant injection Injection icatibant 1 mg 
+J1745 Infliximab not biosimil 10mg Injection infliximab excludes biosimilar 10 mg 
+J1746 Inj. ibalizumab-uiyk 10 mg Injection ibalizumab-uiyk 10 mg 
+J1750 Inj iron dextran Injection iron dextran 50 mg 
+J1756 Iron sucrose injection Injection iron sucrose 1 mg 
+J1786 Imuglucerase injection Injection imiglucerase 10 units 
+J1790 Droperidol injection Injection droperidol up to 5 mg 
+J1800 Propranolol injection Injection propranolol hcl up to 1 mg 
+J1810 Droperidol/fentanyl inj Injection droperidol and fentanyl citrate up to 2 ml ampule 
+J1815 Insulin injection Injection insulin per 5 units 
+J1817 Insulin for insulin pump use Insulin for administration through dme (i.e. insulin pump) per 50 units 
+J1826 Interferon beta-1a inj Injection interferon beta-1a 30 mcg 
+J1830 Interferon beta-1b / .25 mg Injection interferon beta-1b 0.25 mg (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self administered) 
+J1833 Injection isavuconazonium Injection isavuconazonium 1 mg 
+J1835 Itraconazole injection Injection itraconazole 50 mg 
+J1840 Kanamycin sulfate 500 mg inj Injection kanamycin sulfate up to 500 mg 
+J1850 Kanamycin sulfate 75 mg inj Injection kanamycin sulfate up to 75 mg 
+J1885 Ketorolac tromethamine inj Injection ketorolac tromethamine per 15 mg 
+J1890 Cephalothin sodium injection Injection cephalothin sodium up to 1 gram 
+J1930 Lanreotide injection Injection lanreotide 1 mg 
+J1931 Laronidase injection Injection laronidase 0.1 mg 
+J1940 Furosemide injection Injection furosemide up to 20 mg 
+J1942 Aripiprazole lauroxil 1mg Injection aripiprazole lauroxil 1 mg 
+J1943 Inj. aristada initio 1 mg Injection aripiprazole lauroxil (aristada initio) 1 mg 
+J1944 Aripirazole lauroxil 1 mg Injection aripiprazole lauroxil (aristada) 1 mg 
+J1945 Lepirudin Injection lepirudin 50 mg 
+J1950 Leuprolide acetate /3.75 mg Injection leuprolide acetate (for depot suspension) per 3.75 mg 
+J1953 Levetiracetam injection Injection levetiracetam 10 mg 
+J1955 Inj levocarnitine per 1 gm Injection levocarnitine per 1 gm 
+J1956 Levofloxacin injection Injection levofloxacin 250 mg 
+J1960 Levorphanol tartrate inj Injection levorphanol tartrate up to 2 mg 
+J1980 Hyoscyamine sulfate inj Injection hyoscyamine sulfate up to 0.25 mg 
+J1990 Chlordiazepoxide injection Injection chlordiazepoxide hcl up to 100 mg 
+J2001 Lidocaine injection Injection lidocaine hcl for intravenous infusion 10 mg 
+J2010 Lincomycin injection Injection lincomycin hcl up to 300 mg 
+J2020 Linezolid injection Injection linezolid 200 mg 
+J2060 Lorazepam injection Injection lorazepam 2 mg 
+J2062 Loxapine for inhalation 1 mg Loxapine for inhalation 1 mg 
+J2150 Mannitol injection Injection mannitol 25% in 50 ml 
+J2170 Mecasermin injection Injection mecasermin 1 mg 
+J2175 Meperidine hydrochl /100 mg Injection meperidine hydrochloride per 100 mg 
+J2180 Meperidine/promethazine inj Injection meperidine and promethazine hcl up to 50 mg 
+J2182 Injection mepolizumab 1mg Injection mepolizumab 1 mg 
+J2185 Meropenem Injection meropenem 100 mg 
+J2186 Inj. meropenem vaborbactam Injection meropenem and vaborbactam 10mg/10mg (20mg) 
+J2210 Methylergonovin maleate inj Injection methylergonovine maleate up to 0.2 mg 
+J2212 Methylnaltrexone injection Injection methylnaltrexone 0.1 mg 
+J2248 Micafungin sodium injection Injection micafungin sodium 1 mg 
+J2250 Inj midazolam hydrochloride Injection midazolam hydrochloride per 1 mg 
+J2260 Inj milrinone lactate / 5 mg Injection milrinone lactate 5 mg 
+J2265 Minocycline hydrochloride Injection minocycline hydrochloride 1 mg 
+J2270 Morphine sulfate injection Injection morphine sulfate up to 10 mg 
+J2271 Morphine so4 injection 100mg Injection morphine sulfate 100mg 
+J2274 Inj morphine pf epid ithc Injection morphine sulfate preservative-free for epidural or intrathecal use 10 mg 
+J2275 Morphine sulfate injection Injection morphine sulfate (preservative-free sterile solution) per 10 mg 
+J2278 Ziconotide injection Injection ziconotide 1 microgram 
+J2280 Inj moxifloxacin 100 mg Injection moxifloxacin 100 mg 
+J2300 Inj nalbuphine hydrochloride Injection nalbuphine hydrochloride per 10 mg 
+J2310 Inj naloxone hydrochloride Injection naloxone hydrochloride per 1 mg 
+J2315 Naltrexone depot form Injection naltrexone depot form 1 mg 
+J2320 Nandrolone decanoate 50 mg Injection nandrolone decanoate up to 50 mg 
+J2323 Natalizumab injection Injection natalizumab 1 mg 
+J2325 Nesiritide injection Injection nesiritide 0.1 mg 
+J2326 Inj nusinersen 0.1mg Injection nusinersen 0.1 mg 
+J2350 Injection ocrelizumab 1 mg Injection ocrelizumab 1 mg 
+J2353 Octreotide injection depot Injection octreotide depot form for intramuscular injection 1 mg 
+J2354 Octreotide inj non-depot Injection octreotide non-depot form for subcutaneous or intravenous injection 25 mcg 
+J2355 Oprelvekin injection Injection oprelvekin 5 mg 
+J2357 Omalizumab injection Injection omalizumab 5 mg 
+J2358 Olanzapine long-acting inj Injection olanzapine long-acting 1 mg 
+J2360 Orphenadrine injection Injection orphenadrine citrate up to 60 mg 
+J2370 Phenylephrine hcl injection Injection phenylephrine hcl up to 1 ml 
+J2400 Chloroprocaine hcl injection Injection chloroprocaine hydrochloride per 30 ml 
+J2405 Ondansetron hcl injection Injection ondansetron hydrochloride per 1 mg 
+J2407 Injection oritavancin Injection oritavancin 10 mg 
+J2410 Oxymorphone hcl injection Injection oxymorphone hcl up to 1 mg 
+J2425 Palifermin injection Injection palifermin 50 micrograms 
+J2426 Paliperidone palmitate inj Injection paliperidone palmitate extended release 1 mg 
+J2430 Pamidronate disodium /30 mg Injection pamidronate disodium per 30 mg 
+J2440 Papaverin hcl injection Injection papaverine hcl up to 60 mg 
+J2460 Oxytetracycline injection Injection oxytetracycline hcl up to 50 mg 
+J2469 Palonosetron hcl Injection palonosetron hcl 25 mcg 
+J2501 Paricalcitol Injection paricalcitol 1 mcg 
+J2502 Inj pasireotide long acting Injection pasireotide long acting 1 mg 
+J2503 Pegaptanib sodium injection Injection pegaptanib sodium 0.3 mg 
+J2504 Pegademase bovine 25 iu Injection pegademase bovine 25 iu 
+J2505 Injection pegfilgrastim 6mg Injection pegfilgrastim 6 mg 
+J2507 Pegloticase injection Injection pegloticase 1 mg 
+J2510 Penicillin g procaine inj Injection penicillin g procaine aqueous up to 600000 units 
+J2513 Pentastarch 10% solution Injection pentastarch 10% solution 100 ml 
+J2515 Pentobarbital sodium inj Injection pentobarbital sodium per 50 mg 
+J2540 Penicillin g potassium inj Injection penicillin g potassium up to 600000 units 
+J2543 Piperacillin/tazobactam Injection piperacillin sodium/tazobactam sodium 1 gram/0.125 grams (1.125 grams) 
+J2545 Pentamidine non-comp unit Pentamidine isethionate inhalation solution fda-approved final product non-compounded administered through dme unit dose form per 300 mg 
+J2547 Injection peramivir Injection peramivir 1 mg 
+J2550 Promethazine hcl injection Injection promethazine hcl up to 50 mg 
+J2560 Phenobarbital sodium inj Injection phenobarbital sodium up to 120 mg 
+J2562 Plerixafor injection Injection plerixafor 1 mg 
+J2590 Oxytocin injection Injection oxytocin up to 10 units 
+J2597 Inj desmopressin acetate Injection desmopressin acetate per 1 mcg 
+J2650 Prednisolone acetate inj Injection prednisolone acetate up to 1 ml 
+J2670 Totazoline hcl injection Injection tolazoline hcl up to 25 mg 
+J2675 Inj progesterone per 50 mg Injection progesterone per 50 mg 
+J2680 Fluphenazine decanoate 25 mg Injection fluphenazine decanoate up to 25 mg 
+J2690 Procainamide hcl injection Injection procainamide hcl up to 1 gm 
+J2700 Oxacillin sodium injeciton Injection oxacillin sodium up to 250 mg 
+J2704 Inj propofol 10 mg Injection propofol 10 mg 
+J2710 Neostigmine methylslfte inj Injection neostigmine methylsulfate up to 0.5 mg 
+J2720 Inj protamine sulfate/10 mg Injection protamine sulfate per 10 mg 
+J2724 Protein c concentrate Injection protein c concentrate intravenous human 10 iu 
+J2725 Inj protirelin per 250 mcg Injection protirelin per 250 mcg 
+J2730 Pralidoxime chloride inj Injection pralidoxime chloride up to 1 gm 
+J2760 Phentolaine mesylate inj Injection phentolamine mesylate up to 5 mg 
+J2765 Metoclopramide hcl injection Injection metoclopramide hcl up to 10 mg 
+J2770 Quinupristin/dalfopristin Injection quinupristin/dalfopristin 500 mg (150/350) 
+J2778 Ranibizumab injection Injection ranibizumab 0.1 mg 
+J2780 Ranitidine hydrochloride inj Injection ranitidine hydrochloride 25 mg 
+J2783 Rasburicase Injection rasburicase 0.5 mg 
+J2785 Regadenoson injection Injection regadenoson 0.1 mg 
+J2786 Injection reslizumab 1mg Injection reslizumab 1 mg 
+J2787 Riboflavin 5'phos opth<=3ml Riboflavin 5'-phosphate ophthalmic solution up to 3 ml 
+J2788 Rho d immune globulin 50 mcg Injection rho d immune globulin human minidose 50 micrograms (250 i.u.) 
+J2790 Rho d immune globulin inj Injection rho d immune globulin human full dose 300 micrograms (1500 i.u.) 
+J2791 Rhophylac injection Injection rho(d) immune globulin (human) (rhophylac) intramuscular or intravenous 100 iu 
+J2792 Rho(d) immune globulin h sd Injection rho d immune globulin intravenous human solvent detergent 100 iu 
+J2793 Rilonacept injection Injection rilonacept 1 mg 
+J2794 Inj risperdal consta 0.5 mg Injection risperidone (risperdal consta) 0.5 mg 
+J2795 Ropivacaine hcl injection Injection ropivacaine hydrochloride 1 mg 
+J2796 Romiplostim injection Injection romiplostim 10 micrograms 
+J2797 Inj. rolapitant 0.5 mg Injection rolapitant 0.5 mg 
+J2798 Inj. perseris 0.5 mg Injection risperidone (perseris) 0.5 mg 
+J2800 Methocarbamol injection Injection methocarbamol up to 10 ml 
+J2805 Sincalide injection Injection sincalide 5 micrograms 
+J2810 Inj theophylline per 40 mg Injection theophylline per 40 mg 
+J2820 Sargramostim injection Injection sargramostim (gm-csf) 50 mcg 
+J2840 Inj sebelipase alfa 1 mg Injection sebelipase alfa 1 mg 
+J2850 Inj secretin synthetic human Injection secretin synthetic human 1 microgram 
+J2860 Injection siltuximab Injection siltuximab 10 mg 
+J2910 Aurothioglucose injeciton Injection aurothioglucose up to 50 mg 
+J2916 Na ferric gluconate complex Injection sodium ferric gluconate complex in sucrose injection 12.5 mg 
+J2920 Methylprednisolone injection Injection methylprednisolone sodium succinate up to 40 mg 
+J2930 Methylprednisolone injection Injection methylprednisolone sodium succinate up to 125 mg 
+J2940 Somatrem injection Injection somatrem 1 mg 
+J2941 Somatropin injection Injection somatropin 1 mg 
+J2950 Promazine hcl injection Injection promazine hcl up to 25 mg 
+J2993 Reteplase injection Injection reteplase 18.1 mg 
+J2995 Inj streptokinase /250000 iu Injection streptokinase per 250000 iu 
+J2997 Alteplase recombinant Injection alteplase recombinant 1 mg 
+J3000 Streptomycin injection Injection streptomycin up to 1 gm 
+J3010 Fentanyl citrate injection Injection fentanyl citrate 0.1 mg 
+J3030 Sumatriptan succinate / 6 mg Injection sumatriptan succinate 6 mg (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self administered) 
+J3031 Inj. fremanezumab-vfrm 1 mg Injection fremanezumab-vfrm 1 mg (code may be used for medicare when drug administered under the direct supervision of a physician not for use when drug is self-administered) 
+J3060 Inj taliglucerase alfa 10 u Injection taliglucerase alfa 10 units 
+J3070 Pentazocine injection Injection pentazocine 30 mg 
+J3090 Inj tedizolid phosphate Injection tedizolid phosphate 1 mg 
+J3095 Telavancin injection Injection telavancin 10 mg 
+J3101 Tenecteplase injection Injection tenecteplase 1 mg 
+J3105 Terbutaline sulfate inj Injection terbutaline sulfate up to 1 mg 
+J3110 Teriparatide injection Injection teriparatide 10 mcg 
+J3111 Inj. romosozumab-aqqg 1 mg Injection romosozumab-aqqg 1 mg 
+J3120 Testosterone enanthate inj Injection testosterone enanthate up to 100 mg 
+J3121 Inj testostero enanthate 1mg Injection testosterone enanthate 1 mg 
+J3130 Testosterone enanthate inj Injection testosterone enanthate up to 200 mg 
+J3140 Testosterone suspension inj Injection testosterone suspension up to 50 mg 
+J3145 Testosterone undecanoate 1mg Injection testosterone undecanoate 1 mg 
+J3150 Testosteron propionate inj Injection testosterone propionate up to 100 mg 
+J3230 Chlorpromazine hcl injection Injection chlorpromazine hcl up to 50 mg 
+J3240 Thyrotropin injection Injection thyrotropin alpha 0.9 mg provided in 1.1 mg vial 
+J3243 Tigecycline injection Injection tigecycline 1 mg 
+J3245 Inj. tildrakizumab 1 mg Injection tildrakizumab 1 mg 
+J3246 Tirofiban hcl Injection tirofiban hcl 0.25 mg 
+J3250 Trimethobenzamide hcl inj Injection trimethobenzamide hcl up to 200 mg 
+J3260 Tobramycin sulfate injection Injection tobramycin sulfate up to 80 mg 
+J3262 Tocilizumab injection Injection tocilizumab 1 mg 
+J3265 Injection torsemide 10 mg/ml Injection torsemide 10 mg/ml 
+J3280 Thiethylperazine maleate inj Injection thiethylperazine maleate up to 10 mg 
+J3285 Treprostinil injection Injection treprostinil 1 mg 
+J3300 Triamcinolone a inj prs-free Injection triamcinolone acetonide preservative free 1 mg 
+J3301 Triamcinolone acet inj nos Injection triamcinolone acetonide not otherwise specified 10 mg 
+J3302 Triamcinolone diacetate inj Injection triamcinolone diacetate per 5 mg 
+J3303 Triamcinolone hexacetonl inj Injection triamcinolone hexacetonide per 5 mg 
+J3304 Inj triamcinolone ace xr 1mg Injection triamcinolone acetonide preservative-free extended-release microsphere formulation 1 mg 
+J3305 Inj trimetrexate glucoronate Injection trimetrexate glucuronate per 25 mg 
+J3310 Perphenazine injeciton Injection perphenazine up to 5 mg 
+J3315 Triptorelin pamoate Injection triptorelin pamoate 3.75 mg 
+J3316 Inj. triptorelin xr 3.75 mg Injection triptorelin extended-release 3.75 mg 
+J3320 Spectinomycn di-hcl inj Injection spectinomycin dihydrochloride up to 2 gm 
+J3350 Urea injection Injection urea up to 40 gm 
+J3355 Urofollitropin 75 iu Injection urofollitropin 75 iu 
+J3357 Ustekinumab sub cu inj 1 mg Ustekinumab for subcutaneous injection 1 mg 
+J3358 Ustekinumab iv inject 1 mg Ustekinumab for intravenous injection 1 mg 
+J3360 Diazepam injection Injection diazepam up to 5 mg 
+J3364 Urokinase 5000 iu injection Injection urokinase 5000 iu vial 
+J3365 Urokinase 250000 iu inj Injection iv urokinase 250000 i.u. vial 
+J3370 Vancomycin hcl injection Injection vancomycin hcl 500 mg 
+J3380 Injection vedolizumab Injection vedolizumab 1 mg 
+J3385 Velaglucerase alfa Injection velaglucerase alfa 100 units 
+J3396 Verteporfin injection Injection verteporfin 0.1 mg 
+J3397 Inj. vestronidase alfa-vjbk Injection vestronidase alfa-vjbk 1 mg 
+J3398 Inj luxturna 1 billion vec g Injection voretigene neparvovec-rzyl 1 billion vector genomes 
+J3400 Triflupromazine hcl inj Injection triflupromazine hcl up to 20 mg 
+J3410 Hydroxyzine hcl injection Injection hydroxyzine hcl up to 25 mg 
+J3411 Thiamine hcl 100 mg Injection thiamine hcl 100 mg 
+J3415 Pyridoxine hcl 100 mg Injection pyridoxine hcl 100 mg 
+J3420 Vitamin b12 injection Injection vitamin b-12 cyanocobalamin up to 1000 mcg 
+J3430 Vitamin k phytonadione inj Injection phytonadione (vitamin k) per 1 mg 
+J3465 Injection voriconazole Injection voriconazole 10 mg 
+J3470 Hyaluronidase injection Injection hyaluronidase up to 150 units 
+J3471 Ovine up to 999 usp units Injection hyaluronidase ovine preservative free per 1 usp unit (up to 999 usp units) 
+J3472 Ovine 1000 usp units Injection hyaluronidase ovine preservative free per 1000 usp units 
+J3473 Hyaluronidase recombinant Injection hyaluronidase recombinant 1 usp unit 
+J3475 Inj magnesium sulfate Injection magnesium sulfate per 500 mg 
+J3480 Inj potassium chloride Injection potassium chloride per 2 meq 
+J3485 Zidovudine Injection zidovudine 10 mg 
+J3486 Ziprasidone mesylate Injection ziprasidone mesylate 10 mg 
+J3489 Zoledronic acid 1mg Injection zoledronic acid 1 mg 
+J3490 Drugs unclassified injection Unclassified drugs 
+J3520 Edetate disodium per 150 mg Edetate disodium per 150 mg 
+J3530 Nasal vaccine inhalation Nasal vaccine inhalation 
+J3535 Metered dose inhaler drug Drug administered through a metered dose inhaler 
+J3570 Laetrile amygdalin vit b17 Laetrile amygdalin vitamin b17 
+J3590 Unclassified biologics Unclassified biologics 
+J3591 Esrd on dialysi drug/bio noc Unclassified drug or biological used for esrd on dialysis 
+J7030 Normal saline solution infus Infusion normal saline solution  1000 cc 
+J7040 Normal saline solution infus Infusion normal saline solution sterile (500 ml = 1 unit) 
+J7042 5% dextrose/normal saline 5% dextrose/normal saline (500 ml = 1 unit) 
+J7050 Normal saline solution infus Infusion normal saline solution 250 cc 
+J7060 5% dextrose/water 5% dextrose/water (500 ml = 1 unit) 
+J7070 D5w infusion Infusion d5w 1000 cc 
+J7100 Dextran 40 infusion Infusion dextran 40 500 ml 
+J7110 Dextran 75 infusion Infusion dextran 75 500 ml 
+J7120 Ringers lactate infusion Ringers lactate infusion up to 1000 cc 
+J7121 5% dextrose in lac ringers 5% dextrose in lactated ringers infusion up to 1000 cc 
+J7131 Hypertonic saline sol Hypertonic saline solution 1 ml 
+J7170 Inj. emicizumab-kxwh 0.5 mg Injection emicizumab-kxwh 0.5 mg 
+J7175 Inj factor x (human) 1iu Injection factor x (human) 1 i.u. 
+J7177 Inj. fibryga 1 mg Injection human fibrinogen concentrate (fibryga) 1 mg 
+J7178 Inj human fibrinogen con nos Injection human fibrinogen concentrate not otherwise specified 1 mg 
+J7179 Vonvendi inj 1 iu vwf:rco Injection von willebrand factor (recombinant) (vonvendi) 1 i.u. vwf:rco 
+J7180 Factor xiii anti-hem factor Injection factor xiii (antihemophilic factor human) 1 i.u. 
+J7181 Factor xiii recomb a-subunit Injection factor xiii a-subunit (recombinant) per iu 
+J7182 Factor viii recomb novoeight Injection factor viii (antihemophilic factor recombinant) (novoeight) per iu 
+J7183 Wilate injection Injection von willebrand factor complex (human) wilate 1 i.u. vwf:rco 
+J7185 Xyntha inj Injection factor viii (antihemophilic factor recombinant) (xyntha) per i.u. 
+J7186 Antihemophilic viii/vwf comp Injection antihemophilic factor viii/von willebrand factor complex (human) per factor viii i.u. 
+J7187 Humate-p inj Injection von willebrand factor complex (humate-p) per iu vwf:rco 
+J7188 Factor viii recomb obizur Injection factor viii (antihemophilic factor recombinant) (obizur) per i.u. 
+J7189 Factor viia Factor viia (antihemophilic factor recombinant) per 1 microgram 
+J7190 Factor viii Factor viii (antihemophilic factor human) per i.u. 
+J7191 Factor viii (porcine) Factor viii (antihemophilic factor (porcine)) per i.u. 
+J7192 Factor viii recombinant nos Factor viii (antihemophilic factor recombinant) per i.u. not otherwise specified 
+J7193 Factor ix non-recombinant Factor ix (antihemophilic factor purified non-recombinant) per i.u. 
+J7194 Factor ix complex Factor ix complex per i.u. 
+J7195 Factor ix recombinant nos Injection factor ix (antihemophilic factor recombinant) per iu not otherwise specified 
+J7196 Antithrombin recombinant Injection antithrombin recombinant 50 i.u. 
+J7197 Antithrombin iii injection Antithrombin iii (human) per i.u. 
+J7198 Anti-inhibitor Anti-inhibitor per i.u. 
+J7199 Hemophilia clot factor noc Hemophilia clotting factor not otherwise classified 
+J7200 Factor ix recombinan rixubis Injection factor ix (antihemophilic factor recombinant) rixubis per iu 
+J7201 Factor ix alprolix recomb Injection factor ix fc fusion protein (recombinant) alprolix 1 i.u. 
+J7202 Factor ix idelvion inj Injection factor ix albumin fusion protein (recombinant) idelvion 1 i.u. 
+J7203 Factor ix recomb gly rebinyn Injection factor ix (antihemophilic factor recombinant) glycopegylated (rebinyn) 1 iu 
+J7205 Factor viii fc fusion recomb Injection factor viii fc fusion protein (recombinant) per iu 
+J7207 Factor viii pegylated recomb Injection factor viii (antihemophilic factor recombinant) pegylated 1 i.u. 
+J7208 Inj. jivi 1 iu Injection factor viii (antihemophilic factor recombinant) pegylated-aucl (jivi) 1 i.u. 
+J7209 Factor viii nuwiq recomb 1iu Injection factor viii (antihemophilic factor recombinant) (nuwiq) 1 i.u. 
+J7210 Inj afstyla 1 i.u. Injection factor viii (antihemophilic factor recombinant) (afstyla) 1 i.u. 
+J7211 Inj kovaltry 1 i.u. Injection factor viii (antihemophilic factor recombinant) (kovaltry) 1 i.u. 
+J7296 Kyleena 19.5 mg Levonorgestrel-releasing intrauterine contraceptive system (kyleena) 19.5 mg 
+J7297 Liletta 52 mg Levonorgestrel-releasing intrauterine contraceptive system (liletta) 52 mg 
+J7298 Mirena 52 mg Levonorgestrel-releasing intrauterine contraceptive system (mirena) 52 mg 
+J7300 Intraut copper contraceptive Intrauterine copper contraceptive 
+J7301 Skyla 13.5 mg Levonorgestrel-releasing intrauterine contraceptive system (skyla) 13.5 mg 
+J7302 Levonorgestrel iu 52 mg Levonorgestrel-releasing intrauterine contraceptive system 52 mg 
+J7303 Contraceptive vaginal ring Contraceptive supply hormone containing vaginal ring each 
+J7304 Contraceptive hormone patch Contraceptive supply hormone containing patch each 
+J7306 Levonorgestrel implant sys Levonorgestrel (contraceptive) implant system including implants and supplies 
+J7307 Etonogestrel implant system Etonogestrel (contraceptive) implant system including implant and supplies 
+J7308 Aminolevulinic acid hcl top Aminolevulinic acid hcl for topical administration 20% single unit dosage form (354 mg) 
+J7309 Methyl aminolevulinate top Methyl aminolevulinate (mal) for topical administration 16.8% 1 gram 
+J7310 Ganciclovir long act implant Ganciclovir 4.5 mg long-acting implant 
+J7311 Inj. retisert 0.01 mg Injection fluocinolone acetonide intravitreal implant (retisert) 0.01 mg 
+J7312 Dexamethasone intra implant Injection dexamethasone intravitreal implant 0.1 mg 
+J7313 Inj. iluvien 0.01 mg Injection fluocinolone acetonide intravitreal implant (iluvien) 0.01 mg 
+J7314 Inj. yutiq 0.01 mg Injection fluocinolone acetonide intravitreal implant (yutiq) 0.01 mg 
+J7315 Ophthalmic mitomycin Mitomycin ophthalmic 0.2 mg 
+J7316 Inj ocriplasmin 0.125 mg Injection ocriplasmin 0.125 mg 
+J7318 Inj durolane 1 mg Hyaluronan or derivative durolane for intra-articular injection 1 mg 
+J7320 Genvisc 850 inj 1mg Hyaluronan or derivitive genvisc 850 for intra-articular injection 1 mg 
+J7321 Hyalgan supartz visco-3 dose Hyaluronan or derivative hyalgan supartz or visco-3 for intra-articular injection per dose 
+J7322 Hymovis injection 1 mg Hyaluronan or derivative hymovis for intra-articular injection 1 mg 
+J7323 Euflexxa inj per dose Hyaluronan or derivative euflexxa for intra-articular injection per dose 
+J7324 Orthovisc inj per dose Hyaluronan or derivative orthovisc for intra-articular injection per dose 
+J7325 Synvisc or synvisc-one Hyaluronan or derivative synvisc or synvisc-one for intra-articular injection 1 mg 
+J7326 Gel-one Hyaluronan or derivative gel-one for intra-articular injection per dose 
+J7327 Monovisc inj per dose Hyaluronan or derivative monovisc for intra-articular injection per dose 
+J7328 Gelsyn-3 injection 0.1 mg Hyaluronan or derivative gelsyn-3 for intra-articular injection 0.1 mg 
+J7329 Inj trivisc 1 mg Hyaluronan or derivative trivisc for intra-articular injection 1 mg 
+J7330 Cultured chondrocytes implnt Autologous cultured chondrocytes implant 
+J7331 Synojoynt inj. 1 mg Hyaluronan or derivative synojoynt for intra-articular injection 1 mg 
+J7332 Inj. triluron 1 mg Hyaluronan or derivative triluron for intra-articular injection 1 mg 
+J7335 Capsaicin 8% patch Capsaicin 8% patch per 10 square centimeters 
+J7336 Capsaicin 8% patch Capsaicin 8% patch per square centimeter 
+J7340 Carbidopa levodopa ent 100ml Carbidopa 5 mg/levodopa 20 mg enteral suspension 100 ml 
+J7342 Ciprofloxacin otic susp 6 mg Instillation ciprofloxacin otic suspension 6 mg 
+J7345 Aminolevulinic acid 10% gel Aminolevulinic acid hcl for topical administration 10% gel 10 mg 
+J7401 Mometasone furoate sinus imp Mometasone furoate sinus implant 10 micrograms 
+J7500 Azathioprine oral 50mg Azathioprine oral 50 mg 
+J7501 Azathioprine parenteral Azathioprine parenteral 100 mg 
+J7502 Cyclosporine oral 100 mg Cyclosporine oral 100 mg 
+J7503 Tacrol envarsus ex rel oral Tacrolimus extended release (envarsus xr) oral 0.25 mg 
+J7504 Lymphocyte immune globulin Lymphocyte immune globulin antithymocyte globulin equine parenteral 250 mg 
+J7505 Monoclonal antibodies Muromonab-cd3 parenteral 5 mg 
+J7506 Prednisone oral Prednisone oral per 5 mg 
+J7507 Tacrolimus imme rel oral 1mg Tacrolimus immediate release oral 1 mg 
+J7508 Tacrol astagraf ex rel oral Tacrolimus extended release (astagraf xl) oral 0.1 mg 
+J7509 Methylprednisolone oral Methylprednisolone oral per 4 mg 
+J7510 Prednisolone oral per 5 mg Prednisolone oral per 5 mg 
+J7511 Antithymocyte globuln rabbit Lymphocyte immune globulin antithymocyte globulin rabbit parenteral 25 mg 
+J7512 Prednisone ir or dr oral 1mg Prednisone immediate release or delayed release oral 1 mg 
+J7513 Daclizumab parenteral Daclizumab parenteral 25 mg 
+J7515 Cyclosporine oral 25 mg Cyclosporine oral 25 mg 
+J7516 Cyclosporin parenteral 250mg Cyclosporin parenteral 250 mg 
+J7517 Mycophenolate mofetil oral Mycophenolate mofetil oral 250 mg 
+J7518 Mycophenolic acid Mycophenolic acid oral 180 mg 
+J7520 Sirolimus oral Sirolimus oral 1 mg 
+J7525 Tacrolimus injection Tacrolimus parenteral 5 mg 
+J7527 Oral everolimus Everolimus oral 0.25 mg 
+J7599 Immunosuppressive drug noc Immunosuppressive drug not otherwise classified 
+J7604 Acetylcysteine comp unit Acetylcysteine inhalation solution compounded product administered through dme unit dose form per gram 
+J7605 Arformoterol non-comp unit Arformoterol inhalation solution fda approved final product non-compounded administered through dme unit dose form 15 micrograms 
+J7606 Formoterol fumarate inh Formoterol fumarate inhalation solution fda approved final product non-compounded administered through dme unit dose form 20 micrograms 
+J7607 Levalbuterol comp con Levalbuterol inhalation solution compounded product administered through dme concentrated form 0.5 mg 
+J7608 Acetylcysteine non-comp unit Acetylcysteine inhalation solution fda-approved final product non-compounded administered through dme unit dose form per gram 
+J7609 Albuterol comp unit Albuterol inhalation solution compounded product administered through dme unit dose 1 mg 
+J7610 Albuterol comp con Albuterol inhalation solution compounded product administered through dme concentrated form 1 mg 
+J7611 Albuterol non-comp con Albuterol inhalation solution fda-approved final product non-compounded administered through dme concentrated form 1 mg 
+J7612 Levalbuterol non-comp con Levalbuterol inhalation solution fda-approved final product non-compounded administered through dme concentrated form 0.5 mg 
+J7613 Albuterol non-comp unit Albuterol inhalation solution fda-approved final product non-compounded administered through dme unit dose 1 mg 
+J7614 Levalbuterol non-comp unit Levalbuterol inhalation solution fda-approved final product non-compounded administered through dme unit dose 0.5 mg 
+J7615 Levalbuterol comp unit Levalbuterol inhalation solution compounded product administered through dme unit dose 0.5 mg 
+J7620 Albuterol ipratrop non-comp Albuterol up to 2.5 mg and ipratropium bromide up to 0.5 mg fda-approved final product non-compounded administered through dme 
+J7622 Beclomethasone comp unit Beclomethasone inhalation solution compounded product administered through dme unit dose form per milligram 
+J7624 Betamethasone comp unit Betamethasone inhalation solution compounded product administered through dme unit dose form per milligram 
+J7626 Budesonide non-comp unit Budesonide inhalation solution fda-approved final product non-compounded administered through dme unit dose form up to 0.5 mg 
+J7627 Budesonide comp unit Budesonide inhalation solution compounded product administered through dme unit dose form up to 0.5 mg 
+J7628 Bitolterol mesylate comp con Bitolterol mesylate inhalation solution compounded product administered through dme concentrated form per milligram 
+J7629 Bitolterol mesylate comp unt Bitolterol mesylate inhalation solution compounded product administered through dme unit dose form per milligram 
+J7631 Cromolyn sodium noncomp unit Cromolyn sodium inhalation solution fda-approved final product non-compounded administered through dme unit dose form per 10 milligrams 
+J7632 Cromolyn sodium comp unit Cromolyn sodium inhalation solution compounded product administered through dme unit dose form per 10 milligrams 
+J7633 Budesonide non-comp con Budesonide inhalation solution fda-approved final product non-compounded administered through dme concentrated form per 0.25 milligram 
+J7634 Budesonide comp con Budesonide inhalation solution compounded product administered through dme concentrated form per 0.25 milligram 
+J7635 Atropine comp con Atropine inhalation solution compounded product administered through dme concentrated form per milligram 
+J7636 Atropine comp unit Atropine inhalation solution compounded product administered through dme unit dose form per milligram 
+J7637 Dexamethasone comp con Dexamethasone inhalation solution compounded product administered through dme concentrated form per milligram 
+J7638 Dexamethasone comp unit Dexamethasone inhalation solution compounded product administered through dme unit dose form per milligram 
+J7639 Dornase alfa non-comp unit Dornase alfa inhalation solution fda-approved final product non-compounded administered through dme unit dose form per milligram 
+J7640 Formoterol comp unit Formoterol inhalation solution compounded product administered through dme unit dose form 12 micrograms 
+J7641 Flunisolide comp unit Flunisolide inhalation solution compounded product administered through dme unit dose per milligram 
+J7642 Glycopyrrolate comp con Glycopyrrolate inhalation solution compounded product administered through dme concentrated form per milligram 
+J7643 Glycopyrrolate comp unit Glycopyrrolate inhalation solution compounded product administered through dme unit dose form per milligram 
+J7644 Ipratropium bromide non-comp Ipratropium bromide inhalation solution fda-approved final product non-compounded administered through dme unit dose form per milligram 
+J7645 Ipratropium bromide comp Ipratropium bromide inhalation solution compounded product administered through dme unit dose form per milligram 
+J7647 Isoetharine comp con Isoetharine hcl inhalation solution compounded product administered through dme concentrated form per milligram 
+J7648 Isoetharine non-comp con Isoetharine hcl inhalation solution fda-approved final product non-compounded administered through dme concentrated form per milligram 
+J7649 Isoetharine non-comp unit Isoetharine hcl inhalation solution fda-approved final product non-compounded administered through dme unit dose form per milligram 
+J7650 Isoetharine comp unit Isoetharine hcl inhalation solution compounded product administered through dme unit dose form per milligram 
+J7657 Isoproterenol comp con Isoproterenol hcl inhalation solution compounded product administered through dme concentrated form per milligram 
+J7658 Isoproterenol non-comp con Isoproterenol hcl inhalation solution fda-approved final product non-compounded administered through dme concentrated form per milligram 
+J7659 Isoproterenol non-comp unit Isoproterenol hcl inhalation solution fda-approved final product non-compounded administered through dme unit dose form per milligram 
+J7660 Isoproterenol comp unit Isoproterenol hcl inhalation solution compounded product administered through dme unit dose form per milligram 
+J7665 Mannitol for inhaler Mannitol administered through an inhaler 5 mg 
+J7667 Metaproterenol comp con Metaproterenol sulfate inhalation solution compounded product concentrated form per 10 milligrams 
+J7668 Metaproterenol non-comp con Metaproterenol sulfate inhalation solution fda-approved final product non-compounded administered through dme concentrated form per 10 milligrams 
+J7669 Metaproterenol non-comp unit Metaproterenol sulfate inhalation solution fda-approved final product non-compounded administered through dme unit dose form per 10 milligrams 
+J7670 Metaproterenol comp unit Metaproterenol sulfate inhalation solution compounded product administered through dme unit dose form per 10 milligrams 
+J7674 Methacholine chloride neb Methacholine chloride administered as inhalation solution through a nebulizer per 1 mg 
+J7676 Pentamidine comp unit dose Pentamidine isethionate inhalation solution compounded product administered through dme unit dose form per 300 mg 
+J7677 Revefenacin inh non-com 1mcg Revefenacin inhalation solution fda-approved final product non-compounded administered through dme 1 microgram 
+J7680 Terbutaline sulf comp con Terbutaline sulfate inhalation solution compounded product administered through dme concentrated form per milligram 
+J7681 Terbutaline sulf comp unit Terbutaline sulfate inhalation solution compounded product administered through dme unit dose form per milligram 
+J7682 Tobramycin non-comp unit Tobramycin inhalation solution fda-approved final product non-compounded unit dose form administered through dme per 300 milligrams 
+J7683 Triamcinolone comp con Triamcinolone inhalation solution compounded product administered through dme concentrated form per milligram 
+J7684 Triamcinolone comp unit Triamcinolone inhalation solution compounded product administered through dme unit dose form per milligram 
+J7685 Tobramycin comp unit Tobramycin inhalation solution compounded product administered through dme unit dose form per 300 milligrams 
+J7686 Treprostinil non-comp unit Treprostinil inhalation solution fda-approved final product non-compounded administered through dme unit dose form 1.74 mg 
+J7699 Inhalation solution for dme Noc drugs inhalation solution administered through dme 
+J7799 Non-inhalation drug for dme Noc drugs other than inhalation drugs administered through dme 
+J7999 Compounded drug noc Compounded drug not otherwise classified 
+J8498 Antiemetic rectal/supp nos Antiemetic drug rectal/suppository not otherwise specified 
+J8499 Oral prescrip drug non chemo Prescription drug oral non chemotherapeutic nos 
+J8501 Oral aprepitant Aprepitant oral 5 mg 
+J8510 Oral busulfan Busulfan; oral 2 mg 
+J8515 Cabergoline oral 0.25mg Cabergoline oral 0.25 mg 
+J8520 Capecitabine oral 150 mg Capecitabine oral 150 mg 
+J8521 Capecitabine oral 500 mg Capecitabine oral 500 mg 
+J8530 Cyclophosphamide oral 25 mg Cyclophosphamide; oral 25 mg 
+J8540 Oral dexamethasone Dexamethasone oral 0.25 mg 
+J8560 Etoposide oral 50 mg Etoposide; oral 50 mg 
+J8562 Oral fludarabine phosphate Fludarabine phosphate oral 10 mg 
+J8565 Gefitinib oral Gefitinib oral 250 mg 
+J8597 Antiemetic drug oral nos Antiemetic drug oral not otherwise specified 
+J8600 Melphalan oral 2 mg Melphalan; oral 2 mg 
+J8610 Methotrexate oral 2.5 mg Methotrexate; oral 2.5 mg 
+J8650 Nabilone oral Nabilone oral 1 mg 
+J8655 Oral netupitant palonosetro Netupitant 300 mg and palonosetron 0.5 mg oral 
+J8670 Rolapitant oral 1mg Rolapitant oral 1 mg 
+J8700 Temozolomide Temozolomide oral 5 mg 
+J8705 Topotecan oral Topotecan oral 0.25 mg 
+J8999 Oral prescription drug chemo Prescription drug oral chemotherapeutic nos 
+J9000 Doxorubicin hcl injection Injection doxorubicin hydrochloride 10 mg 
+J9010 Alemtuzumab injection Injection alemtuzumab 10 mg 
+J9015 Aldesleukin injection Injection aldesleukin per single use vial 
+J9017 Arsenic trioxide injection Injection arsenic trioxide 1 mg 
+J9019 Erwinaze injection Injection asparaginase (erwinaze) 1000 iu 
+J9020 Asparaginase nos Injection asparaginase not otherwise specified 10000 units 
+J9022 Inj atezolizumab10 mg Injection atezolizumab 10 mg 
+J9023 Injection avelumab 10 mg Injection avelumab 10 mg 
+J9025 Azacitidine injection Injection azacitidine 1 mg 
+J9027 Clofarabine injection Injection clofarabine 1 mg 
+J9030 Bcg live intravesical 1mg Bcg live intravesical instillation 1 mg 
+J9031 Bcg live intravesical vac Bcg (intravesical) per instillation 
+J9032 Injection belinostat 10mg Injection belinostat 10 mg 
+J9033 Inj. treanda 1 mg Injection bendamustine hcl (treanda) 1 mg 
+J9034 Inj. bendeka 1 mg Injection bendamustine hcl (bendeka) 1 mg 
+J9035 Bevacizumab injection Injection bevacizumab 10 mg 
+J9036 Inj. belrapzo/bendamustine Injection bendamustine hydrochloride (belrapzo/bendamustine) 1 mg 
+J9039 Injection blinatumomab Injection blinatumomab 1 microgram 
+J9040 Bleomycin sulfate injection Injection bleomycin sulfate 15 units 
+J9041 Inj. velcade 0.1 mg Injection bortezomib (velcade) 0.1 mg 
+J9042 Brentuximab vedotin inj Injection brentuximab vedotin 1 mg 
+J9043 Cabazitaxel injection Injection cabazitaxel 1 mg 
+J9044 Inj bortezomib nos 0.1 mg Injection bortezomib not otherwise specified 0.1 mg 
+J9045 Carboplatin injection Injection carboplatin 50 mg 
+J9047 Injection carfilzomib 1 mg Injection carfilzomib 1 mg 
+J9050 Carmustine injection Injection carmustine 100 mg 
+J9055 Cetuximab injection Injection cetuximab 10 mg 
+J9057 Inj. copanlisib 1 mg Injection copanlisib 1 mg 
+J9060 Cisplatin 10 mg injection Injection cisplatin powder or solution 10 mg 
+J9065 Inj cladribine per 1 mg Injection cladribine per 1 mg 
+J9070 Cyclophosphamide 100 mg inj Cyclophosphamide 100 mg 
+J9098 Cytarabine liposome inj Injection cytarabine liposome 10 mg 
+J9100 Cytarabine hcl 100 mg inj Injection cytarabine 100 mg 
+J9118 Inj. calaspargase pegol-mknl Injection calaspargase pegol-mknl 10 units 
+J9119 Inj. cemiplimab-rwlc 1 mg Injection cemiplimab-rwlc 1 mg 
+J9120 Dactinomycin injection Injection dactinomycin 0.5 mg 
+J9130 Dacarbazine 100 mg inj Dacarbazine 100 mg 
+J9145 Injection daratumumab 10 mg Injection daratumumab 10 mg 
+J9150 Daunorubicin injection Injection daunorubicin 10 mg 
+J9151 Daunorubicin citrate inj Injection daunorubicin citrate liposomal formulation 10 mg 
+J9153 Inj daunorubicin cytarabine Injection liposomal 1 mg daunorubicin and 2.27 mg cytarabine 
+J9155 Degarelix injection Injection degarelix 1 mg 
+J9160 Denileukin diftitox inj Injection denileukin diftitox 300 micrograms 
+J9165 Diethylstilbestrol injection Injection diethylstilbestrol diphosphate 250 mg 
+J9171 Docetaxel injection Injection docetaxel 1 mg 
+J9173 Inj. durvalumab 10 mg Injection durvalumab 10 mg 
+J9175 Elliotts b solution per ml Injection elliotts' b solution 1 ml 
+J9176 Injection elotuzumab 1mg Injection elotuzumab 1 mg 
+J9178 Inj epirubicin hcl 2 mg Injection epirubicin hcl 2 mg 
+J9179 Eribulin mesylate injection Injection eribulin mesylate 0.1 mg 
+J9181 Etoposide injection Injection etoposide 10 mg 
+J9185 Fludarabine phosphate inj Injection fludarabine phosphate 50 mg 
+J9190 Fluorouracil injection Injection fluorouracil 500 mg 
+J9199 Injection infugem 200 mg Injection gemcitabine hydrochloride (infugem) 200 mg 
+J9200 Floxuridine injection Injection floxuridine 500 mg 
+J9201 In gemcitabine hcl nos 200mg Injection gemcitabine hydrochloride not otherwise specified 200 mg 
+J9202 Goserelin acetate implant Goserelin acetate implant per 3.6 mg 
+J9203 Gemtuzumab ozogamicin 0.1 mg Injection gemtuzumab ozogamicin 0.1 mg 
+J9204 Inj mogamulizumab-kpkc 1 mg Injection mogamulizumab-kpkc 1 mg 
+J9205 Inj irinotecan liposome 1 mg Injection irinotecan liposome 1 mg 
+J9206 Irinotecan injection Injection irinotecan 20 mg 
+J9207 Ixabepilone injection Injection ixabepilone 1 mg 
+J9208 Ifosfamide injection Injection ifosfamide 1 gram 
+J9209 Mesna injection Injection mesna 200 mg 
+J9210 Inj. emapalumab-lzsg 1 mg Injection emapalumab-lzsg 1 mg 
+J9211 Idarubicin hcl injection Injection idarubicin hydrochloride 5 mg 
+J9212 Interferon alfacon-1 inj Injection interferon alfacon-1 recombinant 1 microgram 
+J9213 Interferon alfa-2a inj Injection interferon alfa-2a recombinant 3 million units 
+J9214 Interferon alfa-2b inj Injection interferon alfa-2b recombinant 1 million units 
+J9215 Interferon alfa-n3 inj Injection interferon alfa-n3 (human leukocyte derived) 250000 iu 
+J9216 Interferon gamma 1-b inj Injection interferon gamma 1-b 3 million units 
+J9217 Leuprolide acetate suspnsion Leuprolide acetate (for depot suspension) 7.5 mg 
+J9218 Leuprolide acetate injeciton Leuprolide acetate per 1 mg 
+J9219 Leuprolide acetate implant Leuprolide acetate implant 65 mg 
+J9225 Vantas implant Histrelin implant (vantas) 50 mg 
+J9226 Supprelin la implant Histrelin implant (supprelin la) 50 mg 
+J9228 Ipilimumab injection Injection ipilimumab 1 mg 
+J9229 Inj inotuzumab ozogam 0.1 mg Injection inotuzumab ozogamicin 0.1 mg 
+J9230 Mechlorethamine hcl inj Injection mechlorethamine hydrochloride (nitrogen mustard) 10 mg 
+J9245 Inj melphalan hydrochl 50 mg Injection melphalan hydrochloride 50 mg 
+J9250 Methotrexate sodium inj Methotrexate sodium 5 mg 
+J9260 Methotrexate sodium inj Methotrexate sodium 50 mg 
+J9261 Nelarabine injection Injection nelarabine 50 mg 
+J9262 Inj omacetaxine mep 0.01mg Injection omacetaxine mepesuccinate 0.01 mg 
+J9263 Oxaliplatin Injection oxaliplatin 0.5 mg 
+J9264 Paclitaxel protein bound Injection paclitaxel protein-bound particles 1 mg 
+J9265 Paclitaxel injection Injection paclitaxel 30 mg 
+J9266 Pegaspargase injection Injection pegaspargase per single dose vial 
+J9267 Paclitaxel injection Injection paclitaxel 1 mg 
+J9268 Pentostatin injection Injection pentostatin 10 mg 
+J9269 Inj. tagraxofusp-erzs 10 mcg Injection tagraxofusp-erzs 10 micrograms 
+J9270 Plicamycin (mithramycin) inj Injection plicamycin 2.5 mg 
+J9271 Inj pembrolizumab Injection pembrolizumab 1 mg 
+J9280 Mitomycin injection Injection mitomycin 5 mg 
+J9285 Inj olaratumab 10 mg Injection olaratumab 10 mg 
+J9293 Mitoxantrone hydrochl / 5 mg Injection mitoxantrone hydrochloride per 5 mg 
+J9295 Injection necitumumab 1 mg Injection necitumumab 1 mg 
+J9299 Injection nivolumab Injection nivolumab 1 mg 
+J9300 Gemtuzumab ozogamicin inj Injection gemtuzumab ozogamicin 5 mg 
+J9301 Obinutuzumab inj Injection obinutuzumab 10 mg 
+J9302 Ofatumumab injection Injection ofatumumab 10 mg 
+J9303 Panitumumab injection Injection panitumumab 10 mg 
+J9305 Pemetrexed injection Injection pemetrexed 10 mg 
+J9306 Injection pertuzumab 1 mg Injection pertuzumab 1 mg 
+J9307 Pralatrexate injection Injection pralatrexate 1 mg 
+J9308 Injection ramucirumab Injection ramucirumab 5 mg 
+J9309 Inj polatuzumab vedotin 1mg Injection polatuzumab vedotin-piiq 1 mg 
+J9310 Rituximab injection Injection rituximab 100 mg 
+J9311 Inj rituximab hyaluronidase Injection rituximab 10 mg and hyaluronidase 
+J9312 Inj. rituximab 10 mg Injection rituximab 10 mg 
+J9313 Inj. lumoxiti 0.01 mg Injection moxetumomab pasudotox-tdfk 0.01 mg 
+J9315 Romidepsin injection Injection romidepsin 1 mg 
+J9320 Streptozocin injection Injection streptozocin 1 gram 
+J9325 Inj talimogene laherparepvec Injection talimogene laherparepvec per 1 million plaque forming units 
+J9328 Temozolomide injection Injection temozolomide 1 mg 
+J9330 Temsirolimus injection Injection temsirolimus 1 mg 
+J9340 Thiotepa injection Injection thiotepa 15 mg 
+J9351 Topotecan injection Injection topotecan 0.1 mg 
+J9352 Injection trabectedin 0.1mg Injection trabectedin 0.1 mg 
+J9354 Inj ado-trastuzumab emt 1mg Injection ado-trastuzumab emtansine 1 mg 
+J9355 Inj trastuzumab excl biosimi Injection trastuzumab excludes biosimilar 10 mg 
+J9356 Inj. herceptin hylecta 10mg Injection trastuzumab 10 mg and hyaluronidase-oysk 
+J9357 Valrubicin injection Injection valrubicin intravesical 200 mg 
+J9360 Vinblastine sulfate inj Injection vinblastine sulfate 1 mg 
+J9370 Vincristine sulfate 1 mg inj Vincristine sulfate 1 mg 
+J9371 Inj vincristine sul lip 1mg Injection vincristine sulfate liposome 1 mg 
+J9390 Vinorelbine tartrate inj Injection vinorelbine tartrate 10 mg 
+J9395 Injection fulvestrant Injection fulvestrant 25 mg 
+J9400 Inj ziv-aflibercept 1mg Injection ziv-aflibercept 1 mg 
+J9600 Porfimer sodium injection Injection porfimer sodium 75 mg 
+J9999 Chemotherapy drug Not otherwise classified antineoplastic drugs 

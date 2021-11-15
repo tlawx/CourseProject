@@ -2,7 +2,8 @@ from Treatment import Treatment
 
 
 class Category:
-    def __init__(self, name, treatments=[]):
+    def __init__(self, name, letter, treatments=[]):
+        self.letter = letter
         self.name = name
         self.treatments = treatments
 
@@ -11,6 +12,12 @@ class Category:
 
     def get_name(self):
         return self.name
+
+    def set_letter(self, letter):
+        self.letter = letter
+
+    def get_letter(self):
+        return self.letter   
 
     def add_treatment_object(self, treatment):
         self.treatments.append(treatment)

@@ -44,7 +44,7 @@ class Search:
 
 
 def get_treatments_in_category(category_code):
-    # TODO: for given category code return list of treatments
+    # TODO: for given category code return list of treatments 
     category_treatments = []
     return category_treatments
 

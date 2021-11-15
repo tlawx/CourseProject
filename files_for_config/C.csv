@@ -1,0 +1,350 @@
+C1300 Hyperbaric oxygen Hyperbaric oxygen under pressure full body chamber per 30 minute interval 
+C1713 Anchor/screw bn/bntis/bn Anchor/screw for opposing bone-to-bone or soft tissue-to-bone (implantable) 
+C1714 Cath trans atherectomy dir Catheter transluminal atherectomy directional 
+C1715 Brachytherapy needle Brachytherapy needle 
+C1716 Brachytx non-str gold-198 Brachytherapy source non-stranded gold-198 per source 
+C1717 Brachytx non-strhdr ir-192 Brachytherapy source non-stranded high dose rate iridium-192 per source 
+C1719 Brachytx ns non-hdrir-192 Brachytherapy source non-stranded non-high dose rate iridium-192 per source 
+C1721 Aicd dual chamber Cardioverter-defibrillator dual chamber (implantable) 
+C1722 Aicd single chamber Cardioverter-defibrillator single chamber (implantable) 
+C1724 Cath trans atherecrotation Catheter transluminal atherectomy rotational 
+C1725 Cath translumin non-laser Catheter transluminal angioplasty non-laser (may include guidance infusion/perfusion capability) 
+C1726 Cath bal dil non-vascular Catheter balloon dilatation non-vascular 
+C1727 Cath bal tis dis non-vas Catheter balloon tissue dissector non-vascular (insertable) 
+C1728 Cath brachytx seed adm Catheter brachytherapy seed administration 
+C1729 Cath drainage Catheter drainage 
+C1730 Cath ep 19 or few elect Catheter electrophysiology diagnostic other than 3d mapping (19 or fewer electrodes) 
+C1731 Cath ep 20 or more elec Catheter electrophysiology diagnostic other than 3d mapping (20 or more electrodes) 
+C1732 Cath ep diag/abl 3d/vect Catheter electrophysiology diagnostic/ablation 3d or vector mapping 
+C1733 Cath ep othr than cool-tip Catheter electrophysiology diagnostic/ablation other than 3d or vector mapping other than cool-tip 
+C1734 Orth/devic/drug bn/bntis/bn Orthopedic/device/drug matrix for opposing bone-to-bone or soft tissue-to bone (implantable) 
+C1749 Endo colon retro imaging Endoscope retrograde imaging/illumination colonoscope device (implantable) 
+C1750 Cath hemodialysislong-term Catheter hemodialysis/peritoneal long-term 
+C1751 Cath inf per/cent/midline Catheter infusion inserted peripherally centrally or midline (other than hemodialysis) 
+C1752 Cathhemodialysisshort-term Catheter hemodialysis/peritoneal short-term 
+C1753 Cath intravas ultrasound Catheter intravascular ultrasound 
+C1754 Catheter intradiscal Catheter intradiscal 
+C1755 Catheter intraspinal Catheter intraspinal 
+C1756 Cath pacing transesoph Catheter pacing transesophageal 
+C1757 Cath thrombectomy/embolect Catheter thrombectomy/embolectomy 
+C1758 Catheter ureteral Catheter ureteral 
+C1759 Cath intra echocardiography Catheter intracardiac echocardiography 
+C1760 Closure dev vasc Closure device vascular (implantable/insertable) 
+C1762 Conn tiss human(inc fascia) Connective tissue human (includes fascia lata) 
+C1763 Conn tiss non-human Connective tissue non-human (includes synthetic) 
+C1764 Event recorder cardiac Event recorder cardiac (implantable) 
+C1765 Adhesion barrier Adhesion barrier 
+C1766 Intro/sheathstrblenon-peel Introducer/sheath guiding intracardiac electrophysiological steerable other than peel-away 
+C1767 Generator neuro non-recharg Generator neurostimulator (implantable) non-rechargeable 
+C1768 Graft vascular Graft vascular 
+C1769 Guide wire Guide wire 
+C1770 Imaging coil mr insertable Imaging coil magnetic resonance (insertable) 
+C1771 Rep dev urinary w/sling Repair device urinary incontinence with sling graft 
+C1772 Infusion pump programmable Infusion pump programmable (implantable) 
+C1773 Ret dev insertable Retrieval device insertable (used to retrieve fractured medical devices) 
+C1776 Joint device (implantable) Joint device (implantable) 
+C1777 Lead aicd endo single coil Lead cardioverter-defibrillator endocardial single coil (implantable) 
+C1778 Lead neurostimulator Lead neurostimulator (implantable) 
+C1779 Lead pmkr transvenous vdd Lead pacemaker transvenous vdd single pass 
+C1780 Lens intraocular (new tech) Lens intraocular (new technology) 
+C1781 Mesh (implantable) Mesh (implantable) 
+C1782 Morcellator Morcellator 
+C1783 Ocular imp aqueous drain de Ocular implant aqueous drainage assist device 
+C1784 Ocular dev intraop det ret Ocular device intraoperative detached retina 
+C1785 Pmkr dual rate-resp Pacemaker dual chamber rate-responsive (implantable) 
+C1786 Pmkr single rate-resp Pacemaker single chamber rate-responsive (implantable) 
+C1787 Patient progr neurostim Patient programmer neurostimulator 
+C1788 Port indwelling imp Port indwelling (implantable) 
+C1789 Prosthesis breast imp Prosthesis breast (implantable) 
+C1813 Prosthesis penile inflatab Prosthesis penile inflatable 
+C1814 Retinal tamp silicone oil Retinal tamponade device silicone oil 
+C1815 Pros urinary sph imp Prosthesis urinary sphincter (implantable) 
+C1816 Receiver/transmitter neuro Receiver and/or transmitter neurostimulator (implantable) 
+C1817 Septal defect imp sys Septal defect implant system intracardiac 
+C1818 Integrated keratoprosthesis Integrated keratoprosthesis 
+C1819 Tissue localization-excision Surgical tissue localization and excision device (implantable) 
+C1820 Generator neuro rechg bat sy Generator neurostimulator (implantable) with rechargeable battery and charging system 
+C1821 Interspinous implant Interspinous process distraction device (implantable) 
+C1822 Gen neuro hf rechg bat Generator neurostimulator (implantable) high frequency with rechargeable battery and charging system 
+C1823 Gen neuro trans sen/stim Generator neurostimulator (implantable) non-rechargeable with transvenous sensing and stimulation leads 
+C1824 Generator ccm implant Generator cardiac contractility modulation (implantable) 
+C1830 Power bone marrow bx needle Powered bone marrow biopsy needle 
+C1839 Iris prosthesis Iris prosthesis 
+C1840 Telescopic intraocular lens Lens intraocular (telescopic) 
+C1841 Retinal prosth int/ext comp Retinal prosthesis includes all internal and external components 
+C1842 Retinal prosth add-on Retinal prosthesis includes all internal and external components; add-on to c1841 
+C1874 Stent coated/cov w/del sys Stent coated/covered with delivery system 
+C1875 Stent coated/cov w/o del sy Stent coated/covered without delivery system 
+C1876 Stent non-coa/non-cov w/del Stent non-coated/non-covered with delivery system 
+C1877 Stent non-coat/cov w/o del Stent non-coated/non-covered without delivery system 
+C1878 Matrl for vocal cord Material for vocal cord medialization synthetic (implantable) 
+C1880 Vena cava filter Vena cava filter 
+C1881 Dialysis access system Dialysis access system (implantable) 
+C1882 Aicd other than sing/dual Cardioverter-defibrillator other than single or dual chamber (implantable) 
+C1883 Adapt/ext pacing/neuro lead Adapter/extension pacing lead or neurostimulator lead (implantable) 
+C1884 Embolization protect syst Embolization protective system 
+C1885 Cath translumin angio laser Catheter transluminal angioplasty laser 
+C1886 Catheter ablation Catheter extravascular tissue ablation any modality (insertable) 
+C1887 Catheter guiding Catheter guiding (may include infusion/perfusion capability) 
+C1888 Endovas non-cardiac abl cath Catheter ablation non-cardiac endovascular (implantable) 
+C1889 Implant/insert device noc Implantable/insertable device not otherwise classified 
+C1890 No device w/dev-intensive px No implantable/insertable device used with device-intensive procedures 
+C1891 Infusion pumpnon-prog perm Infusion pump non-programmable permanent (implantable) 
+C1892 Intro/sheathfixedpeel-away Introducer/sheath guiding intracardiac electrophysiological fixed-curve peel-away 
+C1893 Intro/sheath fixednon-peel Introducer/sheath guiding intracardiac electrophysiological fixed-curve other than peel-away 
+C1894 Intro/sheath non-laser Introducer/sheath other than guiding other than intracardiac electrophysiological non-laser 
+C1895 Lead aicd endo dual coil Lead cardioverter-defibrillator endocardial dual coil (implantable) 
+C1896 Lead aicd non sing/dual Lead cardioverter-defibrillator other than endocardial single or dual coil (implantable) 
+C1897 Lead neurostim test kit Lead neurostimulator test kit (implantable) 
+C1898 Lead pmkr other than trans Lead pacemaker other than transvenous vdd single pass 
+C1899 Lead pmkr/aicd combination Lead pacemaker/cardioverter-defibrillator combination (implantable) 
+C1900 Lead coronary venous Lead left ventricular coronary venous system 
+C1982 Cath pressurevalve-occlu Catheter pressure-generating one-way valve intermittently occlusive 
+C2596 Probe robotic water-jet Probe image-guided robotic waterjet ablation 
+C2613 Lung bx plug w/del sys Lung biopsy plug with delivery system 
+C2614 Probe perc lumb disc Probe percutaneous lumbar discectomy 
+C2615 Sealant pulmonary liquid Sealant pulmonary liquid 
+C2616 Brachytx non-stryttrium-90 Brachytherapy source non-stranded yttrium-90 per source 
+C2617 Stent non-cor tem w/o del Stent non-coronary temporary without delivery system 
+C2618 Probe/needle cryo Probe/needle cryoablation 
+C2619 Pmkr dual non rate-resp Pacemaker dual chamber non rate-responsive (implantable) 
+C2620 Pmkr single non rate-resp Pacemaker single chamber non rate-responsive (implantable) 
+C2621 Pmkr other than sing/dual Pacemaker other than single or dual chamber (implantable) 
+C2622 Prosthesis penile non-inf Prosthesis penile non-inflatable 
+C2623 Cath translumin drug-coat Catheter transluminal angioplasty drug-coated non-laser 
+C2624 Wireless pressure sensor Implantable wireless pulmonary artery pressure sensor with delivery catheter including all system components 
+C2625 Stent non-cor tem w/del sy Stent non-coronary temporary with delivery system 
+C2626 Infusion pump non-progtemp Infusion pump non-programmable temporary (implantable) 
+C2627 Cath suprapubic/cystoscopic Catheter suprapubic/cystoscopic 
+C2628 Catheter occlusion Catheter occlusion 
+C2629 Intro/sheath laser Introducer/sheath other than guiding other than intracardiac electrophysiological laser 
+C2630 Cath ep cool-tip Catheter electrophysiology diagnostic/ablation other than 3d or vector mapping cool-tip 
+C2631 Rep dev urinary w/o sling Repair device urinary incontinence without sling graft 
+C2634 Brachytx non-str ha i-125 Brachytherapy source non-stranded high activity iodine-125 greater than 1.01 mci (nist) per source 
+C2635 Brachytx non-str ha p-103 Brachytherapy source non-stranded high activity palladium-103 greater than 2.2 mci (nist) per source 
+C2636 Brachy linear non-strp-103 Brachytherapy linear source non-stranded palladium-103 per 1 mm 
+C2637 Brachynon-strytterbium-169 Brachytherapy source non-stranded ytterbium-169 per source 
+C2638 Brachytx stranded i-125 Brachytherapy source stranded iodine-125 per source 
+C2639 Brachytx non-strandedi-125 Brachytherapy source non-stranded iodine-125 per source 
+C2640 Brachytx stranded p-103 Brachytherapy source stranded palladium-103 per source 
+C2641 Brachytx non-strandedp-103 Brachytherapy source non-stranded palladium-103 per source 
+C2642 Brachytx stranded c-131 Brachytherapy source stranded cesium-131 per source 
+C2643 Brachytx non-strandedc-131 Brachytherapy source non-stranded cesium-131 per source 
+C2644 Brachytx cesium-131 chloride Brachytherapy source cesium-131 chloride solution per millicurie 
+C2645 Brachytx planar p-103 Brachytherapy planar source palladium-103 per square millimeter 
+C2698 Brachytx stranded nos Brachytherapy source stranded not otherwise specified per source 
+C2699 Brachytx non-stranded nos Brachytherapy source non-stranded not otherwise specified per source 
+C5271 Low cost skin substitute app Application of low cost skin substitute graft to trunk arms legs total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area 
+C5272 Low cost skin substitute app Application of low cost skin substitute graft to trunk arms legs total wound surface area up to 100 sq cm; each additional 25 sq cm wound surface area or part thereof (list separately in addition to code for primary procedure) 
+C5273 Low cost skin substitute app Application of low cost skin substitute graft to trunk arms legs total wound surface area greater than or equal to 100 sq cm; first 100 sq cm wound surface area or 1% of body area of infants and children 
+C5274 Low cost skin substitute app Application of low cost skin substitute graft to trunk arms legs total wound surface area greater than or equal to 100 sq cm; each additional 100 sq cm wound surface area or part thereof or each additional 1% of body area of infants and children or part thereof (list separately in addition to code for primary procedure) 
+C5275 Low cost skin substitute app Application of low cost skin substitute graft to face scalp eyelids mouth neck ears orbits genitalia hands feet and/or multiple digits total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area 
+C5276 Low cost skin substitute app Application of low cost skin substitute graft to face scalp eyelids mouth neck ears orbits genitalia hands feet and/or multiple digits total wound surface area up to 100 sq cm; each additional 25 sq cm wound surface area or part thereof (list separately in addition to code for primary procedure) 
+C5277 Low cost skin substitute app Application of low cost skin substitute graft to face scalp eyelids mouth neck ears orbits genitalia hands feet and/or multiple digits total wound surface area greater than or equal to 100 sq cm; first 100 sq cm wound surface area or 1% of body area of infants and children 
+C5278 Low cost skin substitute app Application of low cost skin substitute graft to face scalp eyelids mouth neck ears orbits genitalia hands feet and/or multiple digits total wound surface area greater than or equal to 100 sq cm; each additional 100 sq cm wound surface area or part thereof or each additional 1% of body area of infants and children or part thereof (list separately in addition to code for primary procedure) 
+C8900 Mra w/cont abd Magnetic resonance angiography with contrast abdomen 
+C8901 Mra w/o cont abd Magnetic resonance angiography without contrast abdomen 
+C8902 Mra w/o fol w/cont abd Magnetic resonance angiography without contrast followed by with contrast abdomen 
+C8903 Mri w/cont breast  uni Magnetic resonance imaging with contrast breast; unilateral 
+C8904 Mri w/o cont breast uni Magnetic resonance imaging without contrast breast; unilateral 
+C8905 Mri w/o fol w/cont brst un Magnetic resonance imaging without contrast followed by with contrast breast; unilateral 
+C8906 Mri w/cont breast  bi Magnetic resonance imaging with contrast breast; bilateral 
+C8907 Mri w/o cont breast bi Magnetic resonance imaging without contrast breast; bilateral 
+C8908 Mri w/o fol w/cont breast Magnetic resonance imaging without contrast followed by with contrast breast; bilateral 
+C8909 Mra w/cont chest Magnetic resonance angiography with contrast chest (excluding myocardium) 
+C8910 Mra w/o cont chest Magnetic resonance angiography without contrast chest (excluding myocardium) 
+C8911 Mra w/o fol w/cont chest Magnetic resonance angiography without contrast followed by with contrast chest (excluding myocardium) 
+C8912 Mra w/cont lwr ext Magnetic resonance angiography with contrast lower extremity 
+C8913 Mra w/o cont lwr ext Magnetic resonance angiography without contrast lower extremity 
+C8914 Mra w/o fol w/cont lwr ext Magnetic resonance angiography without contrast followed by with contrast lower extremity 
+C8918 Mra w/cont pelvis Magnetic resonance angiography with contrast pelvis 
+C8919 Mra w/o cont pelvis Magnetic resonance angiography without contrast pelvis 
+C8920 Mra w/o fol w/cont pelvis Magnetic resonance angiography without contrast followed by with contrast pelvis 
+C8921 Tte w or w/o fol w/cont com Transthoracic echocardiography with contrast or without contrast followed by with contrast for congenital cardiac anomalies; complete 
+C8922 Tte w or w/o fol w/cont f/u Transthoracic echocardiography with contrast or without contrast followed by with contrast for congenital cardiac anomalies; follow-up or limited study 
+C8923 2d tte w or w/o fol w/conco Transthoracic echocardiography with contrast or without contrast followed by with contrast real-time with image documentation (2d) includes m-mode recording when performed complete without spectral or color doppler echocardiography 
+C8924 2d tte w or w/o fol w/confu Transthoracic echocardiography with contrast or without contrast followed by with contrast real-time with image documentation (2d) includes m-mode recording when performed follow-up or limited study 
+C8925 2d tee w or w/o fol w/conin Transesophageal echocardiography (tee) with contrast or without contrast followed by with contrast real time with image documentation (2d) (with or without m-mode recording); including probe placement image acquisition interpretation and report 
+C8926 Tee w or w/o fol w/contcong Transesophageal echocardiography (tee) with contrast or without contrast followed by with contrast for congenital cardiac anomalies; including probe placement image acquisition interpretation and report 
+C8927 Tee w or w/o fol w/cont mon Transesophageal echocardiography (tee) with contrast or without contrast followed by with contrast for monitoring purposes including probe placement real time 2-dimensional image acquisition and interpretation leading to ongoing (continuous) assessment of (dynamically changing) cardiac pumping function and to therapeutic measures on an immediate time basis 
+C8928 Tte w or w/o fol w/constres Transthoracic echocardiography with contrast or without contrast followed by with contrast real-time with image documentation (2d) includes m-mode recording when performed during rest and cardiovascular stress test using treadmill bicycle exercise and/or pharmacologically induced stress with interpretation and report 
+C8929 Tte w or wo fol wcondoppler Transthoracic echocardiography with contrast or without contrast followed by with contrast real-time with image documentation (2d) includes m-mode recording when performed complete with spectral doppler echocardiography and with color flow doppler echocardiography 
+C8930 Tte w or w/o contr cont ecg Transthoracic echocardiography with contrast or without contrast followed by with contrast real-time with image documentation (2d) includes m-mode recording when performed during rest and cardiovascular stress test using treadmill bicycle exercise and/or pharmacologically induced stress with interpretation and report; including performance of continuous electrocardiographic monitoring with physician supervision 
+C8931 Mra w/dye spinal canal Magnetic resonance angiography with contrast spinal canal and contents 
+C8932 Mra w/o dye spinal canal Magnetic resonance angiography without contrast spinal canal and contents 
+C8933 Mra w/o&w/dye spinal canal Magnetic resonance angiography without contrast followed by with contrast spinal canal and contents 
+C8934 Mra w/dye upper extremity Magnetic resonance angiography with contrast upper extremity 
+C8935 Mra w/o dye upper extr Magnetic resonance angiography without contrast upper extremity 
+C8936 Mra w/o&w/dye upper extr Magnetic resonance angiography without contrast followed by with contrast upper extremity 
+C8937 Cad breast mri Computer-aided detection including computer algorithm analysis of breast mri image data for lesion detection/characterization pharmacokinetic analysis with further physician review for interpretation (list separately in addition to code for primary procedure) 
+C8957 Prolonged iv inf req pump Intravenous infusion for therapy/diagnosis; initiation of prolonged infusion (more than 8 hours) requiring use of portable or implantable pump 
+C9014 Injection cerliponase alfa Injection cerliponase alfa 1 mg 
+C9015 C-1 esterase haegarda Injection c-1 esterase inhibitor (human) haegarda 10 units 
+C9016 Inj triptorelin ext rel Injection triptorelin extended release 3.75 mg 
+C9021 Injection obinutuzumab Injection obinutuzumab 10 mg 
+C9022 Injection elosulfase alfa Injection elosulfase alfa 1mg 
+C9023 Inj testosterone undecanoate Injection testosterone undecanoate 1 mg 
+C9024 Inj daunorubicin-cytarabine Injection liposomal 1 mg daunorubicin and 2.27 mg cytarabine 
+C9025 Injection ramucirumab Injection ramucirumab 5 mg 
+C9026 Injection vedolizumab Injection vedolizumab 1 mg 
+C9027 Injection pembrolizumab Injection pembrolizumab 1 mg 
+C9028 Inj. inotuzumab ozogamicin Injection inotuzumab ozogamicin 0.1 mg 
+C9029 Injection guselkumab Injection guselkumab 1 mg 
+C9030 Inj copanlisib Injection copanlisib 1 mg 
+C9031 Lutetium lu 177 dotatate tx Lutetium lu 177 dotatate therapeutic 1 mci 
+C9032 Voretigene neparvovec-rzyl Injection voretigene neparvovec-rzyl 1 billion vector genome 
+C9033 Inj akynzeo Injection fosnetupitant 235 mg and palonosetron 0.25 mg 
+C9034 Injection dexamethasone 9% Injection dexamethasone 9% intraocular 1 mcg 
+C9035 Injection aristada initio Injection aripiprazole lauroxil (aristada initio) 1 mg 
+C9036 Injection patisiran Injection patisiran 0.1 mg 
+C9037 Injection risperidone Injection risperidone (perseris) 0.5 mg 
+C9038 Inj mogamulizumab-kpkc Injection mogamulizumab-kpkc 1 mg 
+C9039 Injection plazomicin Injection plazomicin 5 mg 
+C9040 Injection fremanezumab-vfrm Injection fremanezumab-vfrm 1mg 
+C9041 Inj coagulation factor xa Injection coagulation factor xa (recombinant) inactivated (andexxa) 10 mg 
+C9042 Inj. belrapzo 1 mg Injection bendamustine hcl (belrapzo) 1 mg 
+C9043 Injection levoleucovorin Injection levoleucovorin 1 mg 
+C9044 Injection cemiplimab-rwlc Injection cemiplimab-rwlc 1 mg 
+C9045 Moxetumomab pasudotox-tdfk Injection moxetumomab pasudotox-tdfk 0.01 mg 
+C9046 Cocaine hcl nasal solution Cocaine hydrochloride nasal solution for topical administration 1 mg 
+C9047 Injection caplacizumab-yhdp Injection caplacizumab-yhdp 1 mg 
+C9048 Dexamethasone ophth insert Dexamethasone lacrimal ophthalmic insert 0.1 mg 
+C9049 Injection tagraxofusp-erzs Injection tagraxofusp-erzs 10 mcg 
+C9050 Injection emapalumab-lzsg Injection emapalumab-lzsg 1 mg 
+C9051 Injection omadacycline Injection omadacycline 1 mg 
+C9052 Injection ravulizumab-cwv Injection ravulizumab-cwvz 10 mg 
+C9054 Injection lefamulin Injection lefamulin (xenleta) 1 mg 
+C9055 Inj brexanolone Injection brexanolone 1mg 
+C9113 Inj pantoprazole sodium via Injection pantoprazole sodium per vial 
+C9121 Injection argatroban Injection argatroban per 5 mg 
+C9132 Kcentra per i.u. Prothrombin complex concentrate (human) kcentra per i.u. of factor ix activity 
+C9133 Factor ix recombinant Factor ix (antihemophilic factor recombinant) rixubis per i.u. 
+C9134 Factor xiii a-subunit recomb Factor xiii (antihemophilic factor recombinant) tretten per 10 i.u. 
+C9135 Factor ix (alprolix) Factor ix (antihemophilic factor recombinant) alprolix per i.u. 
+C9136 Factor viii (eloctate) Injection factor viii fc fusion protein (recombinant) per i.u. 
+C9137 Adynovate factor viii recom Injection factor viii (antihemophilic factor recombinant) pegylated 1 i.u. 
+C9138 Nuwiq factor viii recomb Injection factor viii (antihemophilic factor recombinant) (nuwiq) 1 i.u. 
+C9139 Idelvion 1 i.u. Injection factor ix albumin fusion protein (recombinant) idelvion 1 i.u. 
+C9140 Afstyla factor viii recomb Injection factor viii (antihemophilic factor recombinant) (afstyla) 1 i.u. 
+C9141 Factor viii pegylated-aucl Injection factor viii (antihemophilic factor recombinant) pegylated-aucl (jivi) 1 i.u. 
+C9248 Inj clevidipine butyrate Injection clevidipine butyrate 1 mg 
+C9250 Artiss fibrin sealant Human plasma fibrin sealant vapor-heated solvent-detergent (artiss) 2 ml 
+C9254 Injection lacosamide Injection lacosamide 1 mg 
+C9257 Bevacizumab injection Injection bevacizumab 0.25 mg 
+C9275 Hexaminolevulinate hcl Injection hexaminolevulinate hydrochloride 100 mg per study dose 
+C9285 Patch lidocaine/tetracaine Lidocaine 70 mg/tetracaine 70 mg per patch 
+C9290 Inj bupivacaine liposome Injection bupivacaine liposome 1 mg 
+C9293 Injection glucarpidase Injection glucarpidase 10 units 
+C9349 Puraply puraply antimic Puraply and puraply antimicrobial any type per square centimeter 
+C9352 Neuragen nerve guide per cm Microporous collagen implantable tube (neuragen nerve guide) per centimeter length 
+C9353 Neurawrap nerve protectorcm Microporous collagen implantable slit tube (neurawrap nerve protector) per centimeter length 
+C9354 Veritas collagen matrix cm2 Acellular pericardial tissue matrix of non-human origin (veritas) per square centimeter 
+C9355 Neuromatrix nerve cuff cm Collagen nerve cuff (neuromatrix) per 0.5 centimeter length 
+C9356 Tenoglide tendon prot cm2 Tendon porous matrix of cross-linked collagen and glycosaminoglycan matrix (tenoglide tendon protector sheet) per square centimeter 
+C9358 Surgimend fetal Dermal substitute native non-denatured collagen fetal bovine origin (surgimend collagen matrix) per 0.5 square centimeters 
+C9359 Implntbon void filler-putty Porous purified collagen matrix bone void filler (integra mozaik osteoconductive scaffold putty integra os osteoconductive scaffold putty) per 0.5 cc 
+C9360 Surgimend neonatal Dermal substitute native non-denatured collagen neonatal bovine origin (surgimend collagen matrix) per 0.5 square centimeters 
+C9361 Neuromend nerve wrap Collagen matrix nerve wrap (neuromend collagen nerve wrap) per 0.5 centimeter length 
+C9362 Implntbon void filler-strip Porous purified collagen matrix bone void filler (integra mozaik osteoconductive scaffold strip) per 0.5 cc 
+C9363 Integra meshed bil wound mat Skin substitute integra meshed bilayer wound matrix per square centimeter 
+C9364 Porcine implant permacol Porcine implant permacol per square centimeter 
+C9399 Unclassified drugs or biolog Unclassified drugs or biologicals 
+C9407 Iodine i-131 iobenguane dx Iodine i-131 iobenguane diagnostic 1 millicurie 
+C9408 Iodine i-131 iobenguane tx Iodine i-131 iobenguane therapeutic 1 millicurie 
+C9441 Inj ferric carboxymaltose Injection ferric carboxymaltose 1 mg 
+C9442 Injection belinostat Injection belinostat 10 mg 
+C9443 Injection dalbavancin Injection dalbavancin 10 mg 
+C9444 Injection oritavancin Injection oritavancin 10 mg 
+C9445 C-1 esterase ruconest Injection c-1 esterase inhibitor (recombinant) ruconest 10 units 
+C9446 Inj tedizolid phosphate Injection tedizolid phosphate 1 mg 
+C9447 Inj phenylephrine ketorolac Injection phenylephrine and ketorolac 4 ml vial 
+C9448 Oral netupitant palonosetron Netupitant 300 mg and palonosetron 0.5 mg oral 
+C9449 Inj blinatumomab Injection blinatumomab 1 mcg 
+C9450 Fluocinolone acetonide implt Injection fluocinolone acetonide intravitreal implant 0.01 mg 
+C9451 Injection peramivir Injection peramivir 1 mg 
+C9452 Inj ceftolozane/tazobactam Injection ceftolozane 50 mg and tazobactam 25 mg 
+C9453 Injection nivolumab Injection nivolumab 1 mg 
+C9454 Inj pasireotide long acting Injection pasireotide long acting 1 mg 
+C9455 Injection siltuximab Injection siltuximab 10 mg 
+C9456 Inj isavuconazonium sulfate Injection isavuconazonium sulfate 1 mg 
+C9457 Lumason contrast agent Injection sulfur hexafluoride lipid microsphere per ml 
+C9458 Florbetaben f18 Florbetaben f18 diagnostic per study dose up to 8.1 millicuries 
+C9459 Flutemetamol f18 Flutemetamol f18 diagnostic per study dose up to 5 millicuries 
+C9460 Injection cangrelor Injection cangrelor 1 mg 
+C9461 Choline c 11 diagnostic Choline c 11 diagnostic per study dose 
+C9462 Injection delafloxacin Injection delafloxacin 1 mg 
+C9463 Injection aprepitant Injection aprepitant 1 mg 
+C9464 Injection rolapitant Injection rolapitant 0.5 mg 
+C9465 Injection durolane Hyaluronan or derivative durolane for intra-articular injection per dose 
+C9466 Injection benralizumab Injection benralizumab 1 mg 
+C9467 Inj rituximab hyaluronidase Injection rituximab and hyaluronidase 10 mg 
+C9468 Inj factor ix rebinyn Injection factor ix (antihemophilic factor recombinant) glycopegylated rebinyn 1 i.u. 
+C9469 Inj triamcinolone acetonide Injection triamcinolone acetonide preservative-free extended-release microsphere formulation 1 mg 
+C9470 Aripiprazole lauroxil im Injection aripiprazole lauroxil 1 mg 
+C9471 Hymovis 1 mg Hyaluronan or derivative hymovis for intra-articular injection 1 mg 
+C9472 Inj talimogene laherparepvec Injection talimogene laherparepvec 1 million plaque forming units (pfu) 
+C9473 Injection mepolizumab Injection mepolizumab 1 mg 
+C9474 Inj irinotecan liposome Injection irinotecan liposome 1 mg 
+C9475 Injection necitumumab Injection necitumumab 1 mg 
+C9476 Injection daratumumab Injection daratumumab 10 mg 
+C9477 Injection elotuzumab Injection elotuzumab 1 mg 
+C9478 Injection sebelipase alfa Injection sebelipase alfa 1 mg 
+C9479 Instill ciprofloxacin otic Instillation ciprofloxacin otic suspension 6 mg 
+C9480 Injection trabectedin Injection trabectedin 0.1 mg 
+C9481 Injection reslizumab Injection reslizumab 1 mg 
+C9482 Sotalol hydrochloride iv Injection sotalol hydrochloride 1 mg 
+C9483 Injection atezolizumab Injection atezolizumab 10 mg 
+C9484 Injection eteplirsen Injection eteplirsen 10 mg 
+C9485 Injection olaratumab Injection olaratumab 10 mg 
+C9486 Inj granisetron ext Injection granisetron extended release 0.1 mg 
+C9487 Ustekinumab iv inj 1 mg Ustekinumab for intravenous injection 1 mg 
+C9488 Conivaptan hcl Injection conivaptan hydrochloride 1 mg 
+C9489 Injection nusinersen Injection nusinersen 0.1 mg 
+C9490 Injection bezlotoxumab Injection bezlotoxumab 10 mg 
+C9491 Injection avelumab Injection avelumab 10 mg 
+C9492 Injection durvalumab Injection durvalumab 10 mg 
+C9493 Injection edaravone Injection edaravone 1 mg 
+C9494 Injection ocrelizumab Injection ocrelizumab 1 mg 
+C9497 Loxapine inhalation powder Loxapine inhalation powder 10 mg 
+C9600 Perc drug-el cor stent sing Percutaneous transcatheter placement of drug eluting intracoronary stent(s) with coronary angioplasty when performed; single major coronary artery or branch 
+C9601 Perc drug-el cor stent bran Percutaneous transcatheter placement of drug-eluting intracoronary stent(s) with coronary angioplasty when performed; each additional branch of a major coronary artery (list separately in addition to code for primary procedure) 
+C9602 Perc d-e cor stent ather s Percutaneous transluminal coronary atherectomy with drug eluting intracoronary stent with coronary angioplasty when performed; single major coronary artery or branch 
+C9603 Perc d-e cor stent ather br Percutaneous transluminal coronary atherectomy with drug-eluting intracoronary stent with coronary angioplasty when performed; each additional branch of a major coronary artery (list separately in addition to code for primary procedure) 
+C9604 Perc d-e cor revasc t cabg s Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary free arterial venous) any combination of drug-eluting intracoronary stent atherectomy and angioplasty including distal protection when performed; single vessel 
+C9605 Perc d-e cor revasc t cabg b Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary free arterial venous) any combination of drug-eluting intracoronary stent atherectomy and angioplasty including distal protection when performed; each additional branch subtended by the bypass graft (list separately in addition to code for primary procedure) 
+C9606 Perc d-e cor revasc w ami s Percutaneous transluminal revascularization of acute total/subtotal occlusion during acute myocardial infarction coronary artery or coronary artery bypass graft any combination of drug-eluting intracoronary stent atherectomy and angioplasty including aspiration thrombectomy when performed single vessel 
+C9607 Perc d-e cor revasc chro sin Percutaneous transluminal revascularization of chronic total occlusion coronary artery coronary artery branch or coronary artery bypass graft any combination of drug-eluting intracoronary stent atherectomy and angioplasty; single vessel 
+C9608 Perc d-e cor revasc chro add Percutaneous transluminal revascularization of chronic total occlusion coronary artery coronary artery branch or coronary artery bypass graft any combination of drug-eluting intracoronary stent atherectomy and angioplasty; each additional coronary artery coronary artery branch or bypass graft (list separately in addition to code for primary procedure) 
+C9724 Eps stomach plic Endoscopic full-thickness plication of the stomach using endoscopic plication system (eps); includes endoscopy 
+C9725 Place endorectal app Placement of endorectal intracavitary applicator for high intensity brachytherapy 
+C9726 Rxt breast appl place/remov Placement and removal (if performed) of applicator into breast for intraoperative radiation therapy add-on to primary breast procedure 
+C9727 Insert palate implants Insertion of implants into the soft palate; minimum of three implants 
+C9728 Place device/marker non pro Placement of interstitial device(s) for radiation therapy/surgery guidance (e.g. fiducial markers dosimeter) for other than the following sites (any approach): abdomen pelvis prostate retroperitoneum thorax single or multiple 
+C9733 Non-ophthalmic fva Non-ophthalmic fluorescent vascular angiography 
+C9734 U/s trtmt not leiomyomata Focused ultrasound ablation/therapeutic intervention other than uterine leiomyomata with magnetic resonance (mr) guidance 
+C9735 Anoscopy submucosal inj Anoscopy; with directed submucosal injection(s) any substance 
+C9737 Lap esoph augmentation Laparoscopy surgical esophageal sphincter augmentation with device (e.g. magnetic band) 
+C9738 Blue light cysto imag agent Adjunctive blue light cystoscopy with fluorescent imaging agent  (list separately in addition to code for primary procedure) 
+C9739 Cystoscopy prostatic imp 1-3 Cystourethroscopy with insertion of transprostatic implant; 1 to 3 implants 
+C9740 Cysto impl 4 or more Cystourethroscopy with insertion of transprostatic implant; 4 or more implants 
+C9741 Impl pressure sensor w/angio Right heart catheterization with implantation of wireless pressure sensor in the pulmonary artery including any type of measurement angiography imaging supervision interpretation and report 
+C9742 Laryngoscopy with injection Laryngoscopy flexible fiberoptic with injection into vocal cord(s) therapeutic including diagnostic laryngoscopy if performed 
+C9743 Bulking/spacer material impl Injection/implantation of bulking or spacer material (any type) with or without image guidance (not to be used if a more specific code applies) 
+C9744 Abd us w/contrast Ultrasound abdominal with contrast 
+C9745 Nasal endo eustachian tube Nasal endoscopy surgical; balloon dilation of eustachian tube 
+C9746 Trans imp balloon cont Transperineal implantation of permanent adjustable balloon continence device with cystourethroscopy when performed and/or fluoroscopy when performed 
+C9747 Ablation hifu prostate Ablation of prostate transrectal high intensity focused ultrasound (hifu) including imaging guidance 
+C9748 Prostatic rf water vapor tx Transurethral destruction of prostate tissue; by radiofrequency water vapor (steam) thermal therapy 
+C9749 Repair nasal stenosis w/imp Repair of nasal vestibular lateral wall stenosis with implant(s) 
+C9750 Ins/rem-replace compl iims Insertion or removal and replacement of intracardiac ischemia monitoring system including imaging supervision and interpretation and peri-operative interrogation and programming; complete system (includes device and electrode) 
+C9751 Microwave bronch 3d ebus Bronchoscopy rigid or flexible transbronchial ablation of lesion(s) by microwave energy including  fluoroscopic guidance when performed with computed tomography acquisition(s) and 3-d rendering computer-assisted image-guided navigation and endobronchial ultrasound (ebus) guided transtracheal and/or transbronchial sampling (eg aspiration[s]/biopsy[ies]) and all mediastinal and/or hilar lymph node stations or structures and therapeutic intervention(s) 
+C9752 Intraosseous des lumb/sacrum Destruction of intraosseous basivertebral nerve first two vertebral bodies including imaging guidance (e.g. fluoroscopy) lumbar/sacrum 
+C9753 Intraosseous destruct add'l Destruction of intraosseous basivertebral nerve each additional vertebral body including imaging guidance (e.g. fluoroscopy) lumbar/sacrum (list separately in addition to code for primary procedure) 
+C9754 Perc av fistula direct Creation of arteriovenous fistula  percutaneous; direct any site including  all imaging and radiologic supervision and interpretation when performed and secondary procedures to redirect blood flow (e.g. transluminal balloon angioplasty coil embolization when performed) 
+C9755 Rf magnetic-guide av fistula Creation of arteriovenous fistula percutaneous using magnetic-guided arterial and venous catheters and radiofrequency energy including flow-directing procedures (e.g. vascular coil embolization with radiologic supervision and interpretation when performed) and fistulogram(s) angiography venography and/or ultrasound with radiologic supervision and interpretation when performed 
+C9756 Fluorescence lymph map w/icg Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (icg) (list separately in addition to code for primary procedure) 
+C9757 Spine/lumbar disk surgery Laminotomy (hemilaminectomy) with decompression of nerve root(s) including partial facetectomy foraminotomy and excision of herniated intervertebral disc and repair of annular defect with implantation of bone anchored annular closure device including annular defect  measurement alignment and sizing assessment and image guidance; 1 interspace lumbar 
+C9758 Interatrial shunt ide Blinded procedure for nyha class iii/iv heart failure; transcatheter implantation of interatrial shunt or placebo control including right heart catheterization trans-esophageal echocardiography (tee)/intracardiac echocardiography (ice) and all imaging with or without guidance (e.g. ultrasound fluoroscopy) performed in an approved investigational device exemption (ide) study 
+C9800 Dermal filler inj px/suppl Dermal injection procedure(s) for facial lipodystrophy syndrome (lds) and provision of radiesse or sculptra dermal filler including all items and supplies 
+C9898 Inpnt stay radiolabeled item Radiolabeled product provided during a hospital inpatient stay 
+C9899 Inpt implant pros devno cov Implanted prosthetic device payable only for inpatients who do not have inpatient coverage 

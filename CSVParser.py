@@ -9,12 +9,11 @@ class CSVParser:
     @staticmethod
     def readfile_to_dict(filename):
         lines = []
-        with open(filename, mode='r', encoding='utf-8-sig') as csv_file: # changed encoding from 'UTF8' to 'utf-8-sig'
+        with open(filename, mode='r', encoding='UTF8') as csv_file: # changed encoding from 'UTF8' to 'utf-8-sig'
             csv_reader = csv.DictReader(csv_file, delimiter=',')
             for l in csv_reader:
                 lines.append(l)
         return lines
-
 
     @staticmethod
     def readfile_to_df(filename):
