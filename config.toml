@@ -1,5 +1,5 @@
 prefix = "."
-stop-words = "meta/stopwords.txt"
+stop-words = "stopwords.txt"
 
 dataset = "treatments"
 corpus = "line.toml"

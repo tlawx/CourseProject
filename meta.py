@@ -8,12 +8,13 @@ class Meta:
         if not os.path.exists(self.config):
             os.system.exit(1)
 
-        idx = metapy.index.make_inverted_index(self.config)
-        ranker = metapy.index.OkapiBM25()
+        self.idx = metapy.index.make_inverted_index(self.config)
+        self.ranker = metapy.index.OkapiBM25()
 
     def add_query(self, q):
         query = metapy.index.Document()
         query.content(q)
+        return query
 
     def search_inverted_index(self, q, num_results=20):
         """

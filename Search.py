@@ -18,7 +18,7 @@ class Search:
 
         m = Meta()
         relevant_treatments = m.search_inverted_index(self.query)
-        # print(relevant_treatments)
+        print(relevant_treatments)
 
         # 3. print out treatments, their hospitals, price, hospital link, etc, in a nice format
         # print_treatment_info(relevant_treatments)
@@ -63,7 +63,7 @@ class Search:
 
 if __name__ == "__main__":
 
-    s = Search("A", "Replacement")
+    s = Search("A", "test")
     s.find_possible_treatments()
 
     # test_treatment_codes = ['A0021', 'B4034', 'C1300'] # load list of treatment HCPCS
