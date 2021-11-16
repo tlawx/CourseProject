@@ -1,6 +1,7 @@
 import csv
 from os import stat
 import pandas
+import io
 
 class CSVParser:
     def __init__(self, filename):
@@ -9,7 +10,7 @@ class CSVParser:
     @staticmethod
     def readfile_to_dict(filename):
         lines = []
-        with open(filename, mode='r', encoding='UTF8') as csv_file: # changed encoding from 'UTF8' to 'utf-8-sig'
+        with io.open(filename,mode='r',encoding='utf-8') as csv_file: # changed encoding from 'UTF8' to 'utf-8-sig'   
             csv_reader = csv.DictReader(csv_file, delimiter=',')
             for l in csv_reader:
                 lines.append(l)

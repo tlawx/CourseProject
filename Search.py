@@ -1,4 +1,5 @@
 from meta import Meta
+from driver import Driver
 
 
 class Search:
@@ -18,7 +19,8 @@ class Search:
 
         m = Meta()
         relevant_treatments = m.search_inverted_index(self.query)
-        print(relevant_treatments)
+        #print(relevant_treatments)
+        return(relevant_treatments)
 
         # 3. print out treatments, their hospitals, price, hospital link, etc, in a nice format
         # print_treatment_info(relevant_treatments)
@@ -59,12 +61,40 @@ class Search:
     def print_treatment_info(treatments):
         # TODO: print (for each treatment) treatment name, treatment price, hospital name, hospital location, hospital link
         pass
+    
+    def get_treatment_list(self, treatments):
+        # TODO: 
+        index_list = []
+        for tup in treatments: 
+            index_list.append(tup[0])
+        return index_list
 
+        
 
 if __name__ == "__main__":
 
-    s = Search("A", "test")
-    s.find_possible_treatments()
+    driver = Driver()
+
+    driver.categories_dataset = 'data/hcpcs_categories.csv'
+    driver.concepts_dataset = 'data/concept.csv'
+    driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
+    
+    treatment_list = driver.create_treatment_list(driver.concepts_dataset)
+    category_list, category_name_set = driver.create_category_list(driver.categories_dataset)
+
+    category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, category_name_set) 
+    category_treatment_dict = driver.create_category_treatment_dict(driver.categories_dataset, driver.concepts_dataset)
+    category_treatment_dict_list = driver.create_category_treatment_list(category_treatment_dict)
+
+    print(category_dict_list_hcpcs['A'][5])
+
+    s = Search("A", "Rotary air transport")
+    rel_treatment_tuples = s.find_possible_treatments()
+    print("here")
+    rel_treatment_list = s.get_treatment_list(rel_treatment_tuples)
+    for i in rel_treatment_list: 
+        print(category_dict_list_hcpcs['A'][i]+" "+category_treatment_dict['A'][category_dict_list_hcpcs['A'][i]].treatment_name)
+
 
     # test_treatment_codes = ['A0021', 'B4034', 'C1300'] # load list of treatment HCPCS
     # test_treatment_descriptions_long = ['Ambulance service, outside state per mile, transport (medicaid only)', 'Enteral feeding supply kit; syringe fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape','Hyperbaric oxygen under pressure, full body chamber, per 30 minute interval']
