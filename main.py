@@ -2,7 +2,6 @@ from Patient import Patient
 from Search import Search
 
 def main():
-    # TODO: need to deal with spelling mistakes and capitalization
 
     print("Hello! Welcome to the Search System For Hospital Transparency Data.")
     patient_name = raw_input("Please enter your name: ")
@@ -69,7 +68,6 @@ def main():
 
     query = raw_input("What kind of " + category_name + " are you looking for? ")
 
-    # call a function that outputs a ranked and relevant list of treatments and their hospitals
     s = Search(category_code, query)
     s.find_possible_treatments()
 
