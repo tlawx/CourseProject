@@ -12,7 +12,27 @@ class Driver:
         self.prices_dataset = ''
         self.concepts_dataset = ''
         self.categories_dataset = ''
+        self.treatment_list = []
+        self.category_list = []
+        self.category_treatment_dict = []
+        self.category_treatment_list = []
 
+    @staticmethod
+    def get_treatment_list(self):
+        return self.treatment_list
+
+    @staticmethod
+    def get_category_list(self):
+        return self.category_list
+
+    @staticmethod
+    def get_category_treatment_dict(self):
+        return self.category_treatment_dict
+
+    @staticmethod
+    def get_category_treatment_dict(self):
+        return self.category_treatment_list  
+    
     @staticmethod
     def create_hospital_object(hospital_row):
         h = Hospital(hospital_row['hospital_id'], hospital_row['hospital_name'])
@@ -42,7 +62,7 @@ class Driver:
         #             hospital.add_new_treatment_by_id(entry['concept_id'])
    
     @staticmethod
-    def create_treatment_list(treatment_dataset):
+    def create_treatment_list(self, treatment_dataset):
         treatments = CSVParser.readfile_to_dict(treatment_dataset)
 
         treatment_obj_list = []
@@ -50,10 +70,11 @@ class Driver:
         for t in treatments:
             treatment_obj_list.append(Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name']))
 
+        self.treatment_list = treatment_obj_list
         return treatment_obj_list
 
     @staticmethod
-    def create_category_list(category_dataset):
+    def create_category_list(self, category_dataset):
         """
         Creates a list of category objects, setting the name and letter
         """
@@ -67,12 +88,13 @@ class Driver:
             category_name_set.add(line['category_letter'])
             category_obj_list.append(new_cat)
 
+        self.category_list = category_obj_list
         return category_obj_list, category_name_set
 
     @staticmethod
     def create_category_treatment_list(category_treatment_dict):
         """
-        Creates a dict of lists.
+        Creates a dict of lists. Category letter key and value is dict of key as line number with value as the treatment object
         """
         category_dict = {}
 
@@ -83,10 +105,11 @@ class Driver:
                 category_dict[c].insert(count,category_treatment_dict[c][t])
                 count = count + 1
 
+        self.category_treatment_list = category_dict
         return category_dict
 
     @staticmethod
-    def create_category_treatment_dict(category_dataset, treatment_dataset):
+    def create_category_treatment_dict(self, category_dataset, treatment_dataset):
         """
         Creates a dict of dicts. Category_letters (keys) and treatment_dict (values) with treatment_id (keys) and treatment objects (values)
         """
@@ -102,7 +125,8 @@ class Driver:
             current_hcpcs_code = t['concept_code'][:1] 
             if current_hcpcs_code in category_dict: # Only add treatments in established categories
                 category_dict[current_hcpcs_code[:1]][t['concept_code']] = Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name'])
-                 
+
+        self.category_treatment_dict = category_dict         
         return category_dict
 
     @staticmethod

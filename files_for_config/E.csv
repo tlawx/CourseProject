@@ -32830,3 +32830,611 @@ E2633 Mobile arm support supinator Wheelchair accessory addition to mobile arm s
 E8000 Posterior gait trainer Gait trainer pediatric size posterior support includes all accessories and components 
 E8001 Upright gait trainer Gait trainer pediatric size upright support includes all accessories and components 
 E8002 Anterior gait trainer Gait trainer pediatric size anterior support includes all accessories and components 
+E0100 Cane adjust/fixed with tip Cane includes canes of all materials adjustable or fixed with tip 
+E0105 Cane adjust/fixed quad/3 pro Cane quad or three prong includes canes of all materials adjustable or fixed with tips 
+E0110 Crutch forearm pair Crutches forearm includes crutches of various materials adjustable or fixed pair complete with tips and handgrips 
+E0111 Crutch forearm each Crutch forearm includes crutches of various materials adjustable or fixed each with tip and handgrips 
+E0112 Crutch underarm pair wood Crutches underarm wood adjustable or fixed pair with pads tips and handgrips 
+E0113 Crutch underarm each wood Crutch underarm wood adjustable or fixed each with pad tip and handgrip 
+E0114 Crutch underarm pair no wood Crutches underarm other than wood adjustable or fixed pair with pads tips and handgrips 
+E0116 Crutch underarm each no wood Crutch underarm other than wood adjustable or fixed with pad tip handgrip with or without shock absorber each 
+E0117 Underarm springassist crutch Crutch underarm articulating spring assisted each 
+E0118 Crutch substitute Crutch substitute lower leg platform with or without wheels each 
+E0130 Walker rigid adjust/fixed ht Walker rigid (pickup) adjustable or fixed height 
+E0135 Walker folding adjust/fixed Walker folding (pickup) adjustable or fixed height 
+E0140 Walker w trunk support Walker with trunk support adjustable or fixed height any type 
+E0141 Rigid wheeled walker adj/fix Walker rigid wheeled adjustable or fixed height 
+E0143 Walker folding wheeled w/o s Walker folding wheeled adjustable or fixed height 
+E0144 Enclosed walker w rear seat Walker enclosed four sided framed rigid or folding wheeled with posterior seat 
+E0147 Walker variable wheel resist Walker heavy duty multiple braking system variable wheel resistance 
+E0148 Heavyduty walker no wheels Walker heavy duty without wheels rigid or folding any type each 
+E0149 Heavy duty wheeled walker Walker heavy duty wheeled rigid or folding any type 
+E0153 Forearm crutch platform atta Platform attachment forearm crutch each 
+E0154 Walker platform attachment Platform attachment walker each 
+E0155 Walker wheel attachmentpair Wheel attachment rigid pick-up walker per pair 
+E0156 Walker seat attachment Seat attachment walker 
+E0157 Walker crutch attachment Crutch attachment walker each 
+E0158 Walker leg extenders set of4 Leg extensions for walker per set of four (4) 
+E0159 Brake for wheeled walker Brake attachment for wheeled walker replacement each 
+E0160 Sitz type bath or equipment Sitz type bath or equipment portable used with or without commode 
+E0161 Sitz bath/equipment w/faucet Sitz type bath or equipment portable used with or without commode with faucet attachment/s 
+E0162 Sitz bath chair Sitz bath chair 
+E0163 Commode chair with fixed arm Commode chair mobile or stationary with fixed arms 
+E0165 Commode chair with detacharm Commode chair mobile or stationary with detachable arms 
+E0167 Commode chair pail or pan Pail or pan for use with commode chair replacement only 
+E0168 Heavyduty/wide commode chair Commode chair extra wide and/or heavy duty stationary or mobile with or without arms any type each 
+E0170 Commode chair electric Commode chair with integrated seat lift mechanism electric any type 
+E0171 Commode chair non-electric Commode chair with integrated seat lift mechanism non-electric any type 
+E0172 Seat lift mechanism toilet Seat lift mechanism placed over or on top of toilet any type 
+E0175 Commode chair foot rest Foot rest for use with commode chair each 
+E0181 Press pad alternating w/ pum Powered pressure reducing mattress overlay/pad alternating with pump includes heavy duty 
+E0182 Replace pump alt press pad Pump for alternating pressure pad for replacement only 
+E0184 Dry pressure mattress Dry pressure mattress 
+E0185 Gel pressure mattress pad Gel or gel-like pressure pad for mattress standard mattress length and width 
+E0186 Air pressure mattress Air pressure mattress 
+E0187 Water pressure mattress Water pressure mattress 
+E0188 Synthetic sheepskin pad Synthetic sheepskin pad 
+E0189 Lambswool sheepskin pad Lambswool sheepskin pad any size 
+E0190 Positioning cushion Positioning cushion/pillow/wedge any shape or size includes all components and accessories 
+E0191 Protector heel or elbow Heel or elbow protector each 
+E0193 Powered air flotation bed Powered air flotation bed (low air loss therapy) 
+E0194 Air fluidized bed Air fluidized bed 
+E0196 Gel pressure mattress Gel pressure mattress 
+E0197 Air pressure pad for mattres Air pressure pad for mattress standard mattress length and width 
+E0198 Water pressure pad for mattr Water pressure pad for mattress standard mattress length and width 
+E0199 Dry pressure pad for mattres Dry pressure pad for mattress standard mattress length and width 
+E0200 Heat lamp without stand Heat lamp without stand (table model) includes bulb or infrared element 
+E0202 Phototherapy light w/ photom Phototherapy (bilirubin) light with photometer 
+E0203 Therapeutic lightbox tabletp Therapeutic lightbox minimum 10000 lux table top model 
+E0205 Heat lamp with stand Heat lamp with stand includes bulb or infrared element 
+E0210 Electric heat pad standard Electric heat pad standard 
+E0215 Electric heat pad moist Electric heat pad moist 
+E0217 Water circ heat pad w pump Water circulating heat pad with pump 
+E0218 Fluid circ cold pad w pump Fluid circulating cold pad with pump any type 
+E0221 Infrared heating pad system Infrared heating pad system 
+E0225 Hydrocollator unit Hydrocollator unit includes pads 
+E0231 Wound warming device Non-contact wound warming device (temperature control unit ac adapter and power cord) for use with warming card and wound cover 
+E0232 Warming card for nwt Warming card for use with the non contact wound warming device and non contact wound warming wound cover 
+E0235 Paraffin bath unit portable Paraffin bath unit portable (see medical supply code a4265 for paraffin) 
+E0236 Pump for water circulating p Pump for water circulating pad 
+E0239 Hydrocollator unit portable Hydrocollator unit portable 
+E0240 Bath/shower chair Bath/shower chair with or without wheels any size 
+E0241 Bath tub wall rail Bath tub wall rail each 
+E0242 Bath tub rail floor Bath tub rail floor base 
+E0243 Toilet rail Toilet rail each 
+E0244 Toilet seat raised Raised toilet seat 
+E0245 Tub stool or bench Tub stool or bench 
+E0246 Transfer tub rail attachment Transfer tub rail attachment 
+E0247 Trans bench w/wo comm open Transfer bench for tub or toilet with or without commode opening 
+E0248 Hdtrans bench w/wo comm open Transfer bench heavy duty for tub or toilet with or without commode opening 
+E0249 Pad water circulating heat u Pad for water circulating heat unit for replacement only 
+E0250 Hosp bed fixed ht w/ mattres Hospital bed fixed height with any type side rails with mattress 
+E0251 Hosp bed fixd ht w/o mattres Hospital bed fixed height with any type side rails without mattress 
+E0255 Hospital bed var ht w/ mattr Hospital bed variable height hi-lo with any type side rails with mattress 
+E0256 Hospital bed var ht w/o matt Hospital bed variable height hi-lo with any type side rails without mattress 
+E0260 Hosp bed semi-electr w/ matt Hospital bed semi-electric (head and foot adjustment) with any type side rails with mattress 
+E0261 Hosp bed semi-electr w/o mat Hospital bed semi-electric (head and foot adjustment) with any type side rails without mattress 
+E0265 Hosp bed total electr w/ mat Hospital bed total electric (head foot and height adjustments) with any type side rails with mattress 
+E0266 Hosp bed total elec w/o matt Hospital bed total electric (head foot and height adjustments) with any type side rails without mattress 
+E0270 Hospital bed institutional t Hospital bed institutional type includes: oscillating circulating and stryker frame with mattress 
+E0271 Mattress innerspring Mattress innerspring 
+E0272 Mattress foam rubber Mattress foam rubber 
+E0273 Bed board Bed board 
+E0274 Over-bed table Over-bed table 
+E0275 Bed pan standard Bed pan standard metal or plastic 
+E0276 Bed pan fracture Bed pan fracture metal or plastic 
+E0277 Powered pres-redu air mattrs Powered pressure-reducing air mattress 
+E0280 Bed cradle Bed cradle any type 
+E0290 Hosp bed fx ht w/o rails w/m Hospital bed fixed height without side rails with mattress 
+E0291 Hosp bed fx ht w/o rail w/o Hospital bed fixed height without side rails without mattress 
+E0292 Hosp bed var ht no sr w/matt Hospital bed variable height hi-lo without side rails with mattress 
+E0293 Hosp bed var ht no sr no mat Hospital bed variable height hi-lo without side rails without mattress 
+E0294 Hosp bed semi-elect w/ mattr Hospital bed semi-electric (head and foot adjustment) without side rails with mattress 
+E0295 Hosp bed semi-elect w/o matt Hospital bed semi-electric (head and foot adjustment) without side rails without mattress 
+E0296 Hosp bed total elect w/ matt Hospital bed total electric (head foot and height adjustments) without side rails with mattress 
+E0297 Hosp bed total elect w/o mat Hospital bed total electric (head foot and height adjustments) without side rails without mattress 
+E0300 Enclosed ped crib hosp grade Pediatric crib hospital grade fully enclosed with or without top enclosure 
+E0301 Hd hosp bed 350-600 lbs Hospital bed heavy duty extra wide with weight capacity greater than 350 pounds but less than or equal to 600 pounds with any type side rails without mattress 
+E0302 Ex hd hosp bed > 600 lbs Hospital bed extra heavy duty extra wide with weight capacity greater than 600 pounds with any type side rails without mattress 
+E0303 Hosp bed hvy dty xtra wide Hospital bed heavy duty extra wide with weight capacity greater than 350 pounds but less than or equal to 600 pounds with any type side rails with mattress 
+E0304 Hosp bed xtra hvy dty x wide Hospital bed extra heavy duty extra wide with weight capacity greater than 600 pounds with any type side rails with mattress 
+E0305 Rails bed side half length Bed side rails half length 
+E0310 Rails bed side full length Bed side rails full length 
+E0315 Bed accessory brd/tbl/supprt Bed accessory: board table or support device any type 
+E0316 Bed safety enclosure Safety enclosure frame/canopy for use with hospital bed any type 
+E0325 Urinal male jug-type Urinal; male jug-type any material 
+E0326 Urinal female jug-type Urinal; female jug-type any material 
+E0328 Ped hospital bed manual Hospital bed pediatric manual 360 degree side enclosures top of headboard footboard and side rails up to 24 inches above the spring includes mattress 
+E0329 Ped hospital bed semi/elect Hospital bed pediatric electric or semi-electric 360 degree side enclosures top of headboard footboard and side rails up to 24 inches above the spring includes mattress 
+E0350 Control unit bowel system Control unit for electronic bowel irrigation/evacuation system 
+E0352 Disposable pack w/bowel syst Disposable pack (water reservoir bag speculum valving mechanism and collection bag/box) for use with the electronic bowel irrigation/evacuation system 
+E0370 Air elevator for heel Air pressure elevator for heel 
+E0371 Nonpower mattress overlay Nonpowered advanced pressure reducing overlay for mattress standard mattress length and width 
+E0372 Powered air mattress overlay Powered air overlay for mattress standard mattress length and width 
+E0373 Nonpowered pressure mattress Nonpowered advanced pressure reducing mattress 
+E0424 Stationary compressed gas 02 Stationary compressed gaseous oxygen system rental; includes container contents regulator flowmeter humidifier nebulizer cannula or mask and tubing 
+E0425 Gas system stationary compre Stationary compressed gas system purchase; includes regulator flowmeter humidifier nebulizer cannula or mask and tubing 
+E0430 Oxygen system gas portable Portable gaseous oxygen system purchase; includes regulator flowmeter humidifier cannula or mask and tubing 
+E0431 Portable gaseous 02 Portable gaseous oxygen system rental; includes portable container regulator flowmeter humidifier cannula or mask and tubing 
+E0433 Portable liquid oxygen sys Portable liquid oxygen system rental; home liquefier used to fill portable liquid oxygen containers includes portable containers regulator flowmeter humidifier cannula or mask and tubing with or without supply reservoir and contents gauge 
+E0434 Portable liquid 02 Portable liquid oxygen system rental; includes portable container supply reservoir humidifier flowmeter refill adaptor contents gauge cannula or mask and tubing 
+E0435 Oxygen system liquid portabl Portable liquid oxygen system purchase; includes portable container supply reservoir flowmeter humidifier contents gauge cannula or mask tubing and refill adaptor 
+E0439 Stationary liquid 02 Stationary liquid oxygen system rental; includes container contents regulator flowmeter humidifier nebulizer cannula or mask & tubing 
+E0440 Oxygen system liquid station Stationary liquid oxygen system purchase; includes use of reservoir contents indicator regulator flowmeter humidifier nebulizer cannula or mask and tubing 
+E0441 Stationary o2 contents gas Stationary oxygen contents gaseous 1 month's supply = 1 unit 
+E0442 Stationary o2 contents liq Stationary oxygen contents liquid 1 month's supply = 1 unit 
+E0443 Portable 02 contents gas Portable oxygen contents gaseous 1 month's supply = 1 unit 
+E0444 Portable 02 contents liquid Portable oxygen contents liquid 1 month's supply = 1 unit 
+E0445 Oximeter non-invasive Oximeter device for measuring blood oxygen levels non-invasively 
+E0446 Topical ox deliver sys nos Topical oxygen delivery system not otherwise specified includes all supplies and accessories 
+E0447 Port o2 cont liq over 4 lpm Portable oxygen contents liquid 1 month's supply = 1 unit prescribed amount at rest or nighttime exceeds 4 liters per minute (lpm) 
+E0450 Vol control vent invasiv int Volume control ventilator without pressure support mode may include pressure control mode used with invasive interface (e.g. tracheostomy tube) 
+E0455 Oxygen tent excl croup/ped t Oxygen tent excluding croup or pediatric tents 
+E0457 Chest shell Chest shell (cuirass) 
+E0459 Chest wrap Chest wrap 
+E0460 Neg press vent portabl/statn Negative pressure ventilator; portable or stationary 
+E0461 Vol control vent noninv int Volume control ventilator without pressure support mode may include pressure control mode used with non-invasive interface (e.g. mask) 
+E0462 Rocking bed w/ or w/o side r Rocking bed with or without side rails 
+E0463 Press supp vent invasive int Pressure support ventilator with volume control mode may include pressure control mode used with invasive interface (e.g. tracheostomy tube) 
+E0464 Press supp vent noninv int Pressure support ventilator with volume control mode may include pressure control mode used with non-invasive interface (e.g. mask) 
+E0465 Home vent invasive interface Home ventilator any type used with invasive interface (e.g. tracheostomy tube) 
+E0466 Home vent non-invasive inter Home ventilator any type used with non-invasive interface (e.g. mask chest shell) 
+E0467 Home vent multi-function Home ventilator multi-function respiratory device also performs any or all of the additional functions of oxygen concentration drug nebulization aspiration and cough stimulation includes all accessories components and supplies for all functions 
+E0470 Rad w/o backup non-inv intfc Respiratory assist device bi-level pressure capability without backup rate feature used with noninvasive interface e.g. nasal or facial mask (intermittent assist device with continuous positive airway pressure device) 
+E0471 Rad w/backup non inv intrfc Respiratory assist device bi-level pressure capability with back-up rate feature used with noninvasive interface e.g. nasal or facial mask (intermittent assist device with continuous positive airway pressure device) 
+E0472 Rad w backup invasive intrfc Respiratory assist device bi-level pressure capability with backup rate feature used with invasive interface e.g. tracheostomy tube (intermittent assist device with continuous positive airway pressure device) 
+E0480 Percussor elect/pneum home m Percussor electric or pneumatic home model 
+E0481 Intrpulmnry percuss vent sys Intrapulmonary percussive ventilation system and related accessories 
+E0482 Cough stimulating device Cough stimulating device alternating positive and negative airway pressure 
+E0483 Hi freq chest wall oscil sys High frequency chest wall oscillation system includes all accessories and supplies each 
+E0484 Non-elec oscillatory pep dvc Oscillatory positive expiratory pressure device non-electric any type each 
+E0485 Oral device/appliance prefab Oral device/appliance used to reduce upper airway collapsibility adjustable or non-adjustable prefabricated includes fitting and adjustment 
+E0486 Oral device/appliance cusfab Oral device/appliance used to reduce upper airway collapsibility adjustable or non-adjustable custom fabricated includes fitting and adjustment 
+E0487 Electronic spirometer Spirometer electronic includes all accessories 
+E0500 Ippb all types Ippb machine all types with built-in nebulization; manual or automatic valves; internal or external power source 
+E0550 Humidif extens supple w ippb Humidifier durable for extensive supplemental humidification during ippb treatments or oxygen delivery 
+E0555 Humidifier for use w/ regula Humidifier durable glass or autoclavable plastic bottle type for use with regulator or flowmeter 
+E0560 Humidifier supplemental w/ i Humidifier durable for supplemental humidification during ippb treatment or oxygen delivery 
+E0561 Humidifier nonheated w pap Humidifier non-heated used with positive airway pressure device 
+E0562 Humidifier heated used w pap Humidifier heated used with positive airway pressure device 
+E0565 Compressor air power source Compressor air power source for equipment which is not self-contained or cylinder driven 
+E0570 Nebulizer with compression Nebulizer with compressor 
+E0572 Aerosol compressor adjust pr Aerosol compressor adjustable pressure light duty for intermittent use 
+E0574 Ultrasonic generator w svneb Ultrasonic/electronic aerosol generator with small volume nebulizer 
+E0575 Nebulizer ultrasonic Nebulizer ultrasonic large volume 
+E0580 Nebulizer for use w/ regulat Nebulizer durable glass or autoclavable plastic bottle type for use with regulator or flowmeter 
+E0585 Nebulizer w/ compressor & he Nebulizer with compressor and heater 
+E0600 Suction pump portab hom modl Respiratory suction pump home model portable or stationary electric 
+E0601 Cont airway pressure device Continuous positive airway pressure (cpap) device 
+E0602 Manual breast pump Breast pump manual any type 
+E0603 Electric breast pump Breast pump electric (ac and/or dc) any type 
+E0604 Hosp grade elec breast pump Breast pump hospital grade electric (ac and / or dc) any type 
+E0605 Vaporizer room type Vaporizer room type 
+E0606 Drainage board postural Postural drainage board 
+E0607 Blood glucose monitor home Home blood glucose monitor 
+E0610 Pacemaker monitr audible/vis Pacemaker monitor self-contained (checks battery depletion includes audible and visible check systems) 
+E0615 Pacemaker monitr digital/vis Pacemaker monitor self contained checks battery depletion and other pacemaker components includes digital/visible check systems 
+E0616 Cardiac event recorder Implantable cardiac event recorder with memory activator and programmer 
+E0617 Automatic ext defibrillator External defibrillator with integrated electrocardiogram analysis 
+E0618 Apnea monitor Apnea monitor without recording feature 
+E0619 Apnea monitor w recorder Apnea monitor with recording feature 
+E0620 Cap bld skin piercing laser Skin piercing device for collection of capillary blood laser each 
+E0621 Patient lift sling or seat Sling or seat patient lift canvas or nylon 
+E0625 Patient lift bathroom or toi Patient lift bathroom or toilet not otherwise classified 
+E0627 Seat lift mech electric any Seat lift mechanism electric any type 
+E0628 Seat lift for pt furn-electr Separate seat lift mechanism for use with patient owned furniture-electric 
+E0629 Seat lift mech non-electric Seat lift mechanism non-electric any type 
+E0630 Patient lift hydraulic Patient lift hydraulic or mechanical includes any seat sling strap(s) or pad(s) 
+E0635 Patient lift electric Patient lift electric with seat or sling 
+E0636 Pt support & positioning sys Multipositional patient support system with integrated lift patient accessible controls 
+E0637 Combination sit to stand sys Combination sit to stand frame/table system any size including pediatric with seat lift feature with or without wheels 
+E0638 Standing frame sys Standing frame/table system one position (e.g. upright supine or prone stander) any size including pediatric with or without wheels 
+E0639 Moveable patient lift system Patient lift moveable from room to room with disassembly and reassembly includes all components/accessories 
+E0640 Fixed patient lift system Patient lift fixed system includes all components/accessories 
+E0641 Multi-position stnd fram sys Standing frame/table system multi-position (e.g. three-way stander) any size including pediatric with or without wheels 
+E0642 Dynamic standing frame Standing frame/table system mobile (dynamic stander) any size including pediatric 
+E0650 Pneuma compresor non-segment Pneumatic compressor non-segmental home model 
+E0651 Pneum compressor segmental Pneumatic compressor segmental home model without calibrated gradient pressure 
+E0652 Pneum compres w/cal pressure Pneumatic compressor segmental home model with calibrated gradient pressure 
+E0655 Pneumatic appliance half arm Non-segmental pneumatic appliance for use with pneumatic compressor half arm 
+E0656 Segmental pneumatic trunk Segmental pneumatic appliance for use with pneumatic compressor trunk 
+E0657 Segmental pneumatic chest Segmental pneumatic appliance for use with pneumatic compressor chest 
+E0660 Pneumatic appliance full leg Non-segmental pneumatic appliance for use with pneumatic compressor full leg 
+E0665 Pneumatic appliance full arm Non-segmental pneumatic appliance for use with pneumatic compressor full arm 
+E0666 Pneumatic appliance half leg Non-segmental pneumatic appliance for use with pneumatic compressor half leg 
+E0667 Seg pneumatic appl full leg Segmental pneumatic appliance for use with pneumatic compressor full leg 
+E0668 Seg pneumatic appl full arm Segmental pneumatic appliance for use with pneumatic compressor full arm 
+E0669 Seg pneumatic appli half leg Segmental pneumatic appliance for use with pneumatic compressor half leg 
+E0670 Seg pneum int legs/trunk Segmental pneumatic appliance for use with pneumatic compressor integrated 2 full legs and trunk 
+E0671 Pressure pneum appl full leg Segmental gradient pressure pneumatic appliance full leg 
+E0672 Pressure pneum appl full arm Segmental gradient pressure pneumatic appliance full arm 
+E0673 Pressure pneum appl half leg Segmental gradient pressure pneumatic appliance half leg 
+E0675 Pneumatic compression device Pneumatic compression device high pressure rapid inflation/deflation cycle for arterial insufficiency (unilateral or bilateral system) 
+E0676 Inter limb compress dev nos Intermittent limb compression device (includes all accessories) not otherwise specified 
+E0691 Uvl pnl 2 sq ft or less Ultraviolet light therapy system includes bulbs/lamps timer and eye protection; treatment area 2 square feet or less 
+E0692 Uvl sys panel 4 ft Ultraviolet light therapy system panel includes bulbs/lamps timer and eye protection 4 foot panel 
+E0693 Uvl sys panel 6 ft Ultraviolet light therapy system panel includes bulbs/lamps timer and eye protection 6 foot panel 
+E0694 Uvl md cabinet sys 6 ft Ultraviolet multidirectional light therapy system in 6 foot cabinet includes bulbs/lamps timer and eye protection 
+E0700 Safety equipment Safety equipment device or accessory any type 
+E0705 Transfer device Transfer device any type each 
+E0710 Restraints any type Restraints any type (body chest wrist or ankle) 
+E0720 Tens two lead Transcutaneous electrical nerve stimulation (tens) device two lead localized stimulation 
+E0730 Tens four lead Transcutaneous electrical nerve stimulation (tens) device four or more leads for multiple nerve stimulation 
+E0731 Conductive garment for tens/ Form fitting conductive garment for delivery of tens or nmes (with conductive fibers separated from the patient's skin by layers of fabric) 
+E0740 Non-implant pelv flr e-stim Non-implanted pelvic floor electrical stimulator complete system 
+E0744 Neuromuscular stim for scoli Neuromuscular stimulator for scoliosis 
+E0745 Neuromuscular stim for shock Neuromuscular stimulator electronic shock unit 
+E0746 Electromyograph biofeedback Electromyography (emg) biofeedback device 
+E0747 Elec osteogen stim not spine Osteogenesis stimulator electrical non-invasive other than spinal applications 
+E0748 Elec osteogen stim spinal Osteogenesis stimulator electrical non-invasive spinal applications 
+E0749 Elec osteogen stim implanted Osteogenesis stimulator electrical surgically implanted 
+E0755 Electronic salivary reflex s Electronic salivary reflex stimulator (intra-oral/non-invasive) 
+E0760 Osteogen ultrasound stimltor Osteogenesis stimulator low intensity ultrasound non-invasive 
+E0761 Nontherm electromgntc device Non-thermal pulsed high frequency radiowaves high peak power electromagnetic energy treatment device 
+E0762 Trans elec jt stim dev sys Transcutaneous electrical joint stimulation device system includes all accessories 
+E0764 Functional neuromuscularstim Functional neuromuscular stimulation transcutaneous stimulation of sequential muscle groups of ambulation with computer control used for walking by spinal cord injured entire system after completion of training program 
+E0765 Nerve stimulator for tx n&v Fda approved nerve stimulator with replaceable batteries for treatment of nausea and vomiting 
+E0766 Elec stim cancer treatment Electrical stimulation device used for cancer treatment includes all accessories any type 
+E0769 Electric wound treatment dev Electrical stimulation or electromagnetic wound treatment device not otherwise classified 
+E0770 Functional electric stim nos Functional electrical stimulator transcutaneous stimulation of nerve and/or muscle groups any type complete system not otherwise specified 
+E0776 Iv pole Iv pole 
+E0779 Amb infusion pump mechanical Ambulatory infusion pump mechanical reusable for infusion 8 hours or greater 
+E0780 Mech amb infusion pump <8hrs Ambulatory infusion pump mechanical reusable for infusion less than 8 hours 
+E0781 External ambulatory infus pu Ambulatory infusion pump single or multiple channels electric or battery operated with administrative equipment worn by patient 
+E0782 Non-programble infusion pump Infusion pump implantable non-programmable (includes all components e.g. pump catheter connectors etc.) 
+E0783 Programmable infusion pump Infusion pump system implantable programmable (includes all components e.g. pump catheter connectors etc.) 
+E0784 Ext amb infusn pump insulin External ambulatory infusion pump insulin 
+E0785 Replacement impl pump cathet Implantable intraspinal (epidural/intrathecal) catheter used with implantable infusion pump replacement 
+E0786 Implantable pump replacement Implantable programmable infusion pump replacement (excludes implantable intraspinal catheter) 
+E0787 Cgs dose adj insulin inf pmp External ambulatory infusion pump insulin dosage rate adjustment using therapeutic continuous glucose sensing 
+E0791 Parenteral infusion pump sta Parenteral infusion pump stationary single or multi-channel 
+E0830 Ambulatory traction device Ambulatory traction device all types each 
+E0840 Tract frame attach headboard Traction frame attached to headboard cervical traction 
+E0849 Cervical pneum trac equip Traction equipment cervical free-standing stand/frame pneumatic applying traction force to other than mandible 
+E0850 Traction stand free standing Traction stand free standing cervical traction 
+E0855 Cervical traction equipment Cervical traction equipment not requiring additional stand or frame 
+E0856 Cervic collar w air bladders Cervical traction device with inflatable air bladder(s) 
+E0860 Tract equip cervical tract Traction equipment overdoor cervical 
+E0870 Tract frame attach footboard Traction frame attached to footboard extremity traction (e.g. buck's) 
+E0880 Trac stand free stand extrem Traction stand free standing extremity traction (e.g. buck's) 
+E0890 Traction frame attach pelvic Traction frame attached to footboard pelvic traction 
+E0900 Trac stand free stand pelvic Traction stand free standing pelvic traction (e.g. buck's) 
+E0910 Trapeze bar attached to bed Trapeze bars a/k/a patient helper attached to bed with grab bar 
+E0911 Hd trapeze bar attach to bed Trapeze bar heavy duty for patient weight capacity greater than 250 pounds attached to bed with grab bar 
+E0912 Hd trapeze bar free standing Trapeze bar heavy duty for patient weight capacity greater than 250 pounds free standing complete with grab bar 
+E0920 Fracture frame attached to b Fracture frame attached to bed includes weights 
+E0930 Fracture frame free standing Fracture frame free standing includes weights 
+E0935 Cont pas motion exercise dev Continuous passive motion exercise device for use on knee only 
+E0936 Cpm device other than knee Continuous passive motion exercise device for use other than knee 
+E0940 Trapeze bar free standing Trapeze bar free standing complete with grab bar 
+E0941 Gravity assisted traction de Gravity assisted traction device any type 
+E0942 Cervical head harness/halter Cervical head harness/halter 
+E0944 Pelvic belt/harness/boot Pelvic belt/harness/boot 
+E0945 Belt/harness extremity Extremity belt/harness 
+E0946 Fracture frame dual w cross Fracture frame dual with cross bars attached to bed (e.g. balken 4 poster) 
+E0947 Fracture frame attachmnts pe Fracture frame attachments for complex pelvic traction 
+E0948 Fracture frame attachmnts ce Fracture frame attachments for complex cervical traction 
+E0950 Tray Wheelchair accessory tray each 
+E0951 Loop heel Heel loop/holder any type with or without ankle strap each 
+E0952 Toe loop/holder each Toe loop/holder any type each 
+E0953 W/c lateral thigh/knee sup Wheelchair accessory lateral thigh or knee support any type including fixed mounting hardware each 
+E0954 Foot box any type each foot Wheelchair accessory foot box any type includes attachment and mounting hardware each foot 
+E0955 Cushioned headrest Wheelchair accessory headrest cushioned any type including fixed mounting hardware each 
+E0956 W/c lateral trunk/hip suppor Wheelchair accessory lateral trunk or hip support any type including fixed mounting hardware each 
+E0957 W/c medial thigh support Wheelchair accessory medial thigh support any type including fixed mounting hardware each 
+E0958 Whlchr att- conv 1 arm drive Manual wheelchair accessory one-arm drive attachment each 
+E0959 Amputee adapter Manual wheelchair accessory adapter for amputee each 
+E0960 W/c shoulder harness/straps Wheelchair accessory shoulder harness/straps or chest strap including any type mounting hardware 
+E0961 Wheelchair brake extension Manual wheelchair accessory wheel lock brake extension (handle) each 
+E0966 Wheelchair head rest extensi Manual wheelchair accessory headrest extension each 
+E0967 Man wc rim/projection rep ea Manual wheelchair accessory hand rim with projections any type replacement only each 
+E0968 Wheelchair commode seat Commode seat wheelchair 
+E0969 Wheelchair narrowing device Narrowing device wheelchair 
+E0970 Wheelchair no. 2 footplates No. 2 footplates except for elevating leg rest 
+E0971 Wheelchair anti-tipping devi Manual wheelchair accessory anti-tipping device each 
+E0973 W/ch access det adj armrest Wheelchair accessory adjustable height detachable armrest complete assembly each 
+E0974 W/ch access anti-rollback Manual wheelchair accessory anti-rollback device each 
+E0978 W/c accsaf belt pelv strap Wheelchair accessory positioning belt/safety belt/pelvic strap each 
+E0980 Wheelchair safety vest Safety vest wheelchair 
+E0981 Seat upholstery replacement Wheelchair accessory seat upholstery replacement only each 
+E0982 Back upholstery replacement Wheelchair accessory back upholstery replacement only each 
+E0983 Add pwr joystick Manual wheelchair accessory power add-on to convert manual wheelchair to motorized wheelchair joystick control 
+E0984 Add pwr tiller Manual wheelchair accessory power add-on to convert manual wheelchair to motorized wheelchair tiller control 
+E0985 W/c seat lift mechanism Wheelchair accessory seat lift mechanism 
+E0986 Man w/c push-rim powr system Manual wheelchair accessory push-rim activated power assist system 
+E0988 Lever-activated wheel drive Manual wheelchair accessory lever-activated wheel drive pair 
+E0990 Wheelchair elevating leg res Wheelchair accessory elevating leg rest complete assembly each 
+E0992 Wheelchair solid seat insert Manual wheelchair accessory solid seat insert 
+E0994 Wheelchair arm rest Arm rest each 
+E0995 Wc calf rest pad replacemnt Wheelchair accessory calf rest/pad replacement only each 
+E1002 Pwr seat tilt Wheelchair accessory power seating system tilt only 
+E1003 Pwr seat recline Wheelchair accessory power seating system recline only without shear reduction 
+E1004 Pwr seat recline mech Wheelchair accessory power seating system recline only with mechanical shear reduction 
+E1005 Pwr seat recline pwr Wheelchair accessory power seatng system recline only with power shear reduction 
+E1006 Pwr seat combo w/o shear Wheelchair accessory power seating system combination tilt and recline without shear reduction 
+E1007 Pwr seat combo w/shear Wheelchair accessory power seating system combination tilt and recline with mechanical shear reduction 
+E1008 Pwr seat combo pwr shear Wheelchair accessory power seating system combination tilt and recline with power shear reduction 
+E1009 Add mech leg elevation Wheelchair accessory addition to power seating system mechanically linked leg elevation system including pushrod and leg rest each 
+E1010 Add pwr leg elevation Wheelchair accessory addition to power seating system power leg elevation system including leg rest pair 
+E1011 Ped wc modify width adjustm Modification to pediatric size wheelchair width adjustment package (not to be dispensed with initial chair) 
+E1012 Ctr mount pwr elev leg rest Wheelchair accessory addition to power seating system center mount power elevating leg rest/platform complete system any type each 
+E1014 Reclining back add ped w/c Reclining back addition to pediatric size wheelchair 
+E1015 Shock absorber for man w/c Shock absorber for manual wheelchair each 
+E1016 Shock absorber for power w/c Shock absorber for power wheelchair each 
+E1017 Hd shck absrbr for hd man wc Heavy duty shock absorber for heavy duty or extra heavy duty manual wheelchair each 
+E1018 Hd shck absrber for hd powwc Heavy duty shock absorber for heavy duty or extra heavy duty power wheelchair each 
+E1020 Residual limb support system Residual limb support system for wheelchair any type 
+E1028 W/c manual swingaway Wheelchair accessory manual swingaway retractable or removable mounting hardware for joystick other control interface or positioning accessory 
+E1029 W/c vent tray fixed Wheelchair accessory ventilator tray fixed 
+E1030 W/c vent tray gimbaled Wheelchair accessory ventilator tray gimbaled 
+E1031 Rollabout chair with casters Rollabout chair any and all types with casters 5" or greater 
+E1035 Patient transfer system <300 Multi-positional patient transfer system with integrated seat operated by care giver patient weight capacity up to and including 300 lbs 
+E1036 Patient transfer system >300 Multi-positional patient transfer system extra-wide with integrated seat operated by caregiver patient weight capacity greater than 300 lbs 
+E1037 Transport chair ped size Transport chair pediatric size 
+E1038 Transport chair pt wt<=300lb Transport chair adult size patient weight capacity up to and including 300 pounds 
+E1039 Transport chair pt wt >300lb Transport chair adult size heavy duty patient weight capacity greater than 300 pounds 
+E1050 Whelchr fxd full length arms Fully-reclining wheelchair fixed full length arms swing away detachable elevating leg rests 
+E1060 Wheelchair detachable arms Fully-reclining wheelchair detachable arms desk or full length swing away detachable elevating legrests 
+E1070 Wheelchair detachable foot r Fully-reclining wheelchair detachable arms (desk or full length) swing away detachable footrest 
+E1083 Hemi-wheelchair fixed arms Hemi-wheelchair fixed full length arms swing away detachable elevating leg rest 
+E1084 Hemi-wheelchair detachable a Hemi-wheelchair detachable arms desk or full length arms swing away detachable elevating leg rests 
+E1085 Hemi-wheelchair fixed arms Hemi-wheelchair fixed full length arms swing away detachable foot rests 
+E1086 Hemi-wheelchair detachable a Hemi-wheelchair detachable arms desk or full length swing away detachable footrests 
+E1087 Wheelchair lightwt fixed arm High strength lightweight wheelchair fixed full length arms swing away detachable elevating leg rests 
+E1088 Wheelchair lightweight det a High strength lightweight wheelchair detachable arms desk or full length swing away detachable elevating leg rests 
+E1089 Wheelchair lightwt fixed arm High strength lightweight wheelchair fixed length arms swing away detachable footrest 
+E1090 Wheelchair lightweight det a High strength lightweight wheelchair detachable arms desk or full length swing away detachable foot rests 
+E1092 Wheelchair wide w/ leg rests Wide heavy duty wheel chair detachable arms (desk or full length) swing away detachable elevating leg rests 
+E1093 Wheelchair wide w/ foot rest Wide heavy duty wheelchair detachable arms desk or full length arms swing away detachable footrests 
+E1100 Whchr s-recl fxd arm leg res Semi-reclining wheelchair fixed full length arms swing away detachable elevating leg rests 
+E1110 Wheelchair semi-recl detach Semi-reclining wheelchair detachable arms (desk or full length) elevating leg rest 
+E1130 Whlchr stand fxd arm ft rest Standard wheelchair fixed full length arms fixed or swing away detachable footrests 
+E1140 Wheelchair standard detach a Wheelchair detachable arms desk or full length swing away detachable footrests 
+E1150 Wheelchair standard w/ leg r Wheelchair detachable arms desk or full length swing away detachable elevating legrests 
+E1160 Wheelchair fixed arms Wheelchair fixed full length arms swing away detachable elevating legrests 
+E1161 Manual adult wc w tiltinspac Manual adult size wheelchair includes tilt in space 
+E1170 Whlchr ampu fxd arm leg rest Amputee wheelchair fixed full length arms swing away detachable elevating legrests 
+E1171 Wheelchair amputee w/o leg r Amputee wheelchair fixed full length arms without footrests or legrest 
+E1172 Wheelchair amputee detach ar Amputee wheelchair detachable arms (desk or full length) without footrests or legrest 
+E1180 Wheelchair amputee w/ foot r Amputee wheelchair detachable arms (desk or full length) swing away detachable footrests 
+E1190 Wheelchair amputee w/ leg re Amputee wheelchair detachable arms (desk or full length) swing away detachable elevating legrests 
+E1195 Wheelchair amputee heavy dut Heavy duty wheelchair fixed full length arms swing away detachable elevating legrests 
+E1200 Wheelchair amputee fixed arm Amputee wheelchair fixed full length arms swing away detachable footrest 
+E1220 Whlchr special size/constrc Wheelchair; specially sized or constructed (indicate brand name model number if any) and justification 
+E1221 Wheelchair spec size w foot Wheelchair with fixed arm footrests 
+E1222 Wheelchair spec size w/ leg Wheelchair with fixed arm elevating legrests 
+E1223 Wheelchair spec size w foot Wheelchair with detachable arms footrests 
+E1224 Wheelchair spec size w/ leg Wheelchair with detachable arms elevating legrests 
+E1225 Manual semi-reclining back Wheelchair accessory manual semi-reclining back (recline greater than 15 degrees but less than 80 degrees) each 
+E1226 Manual fully reclining back Wheelchair accessory manual fully reclining back (recline greater than 80 degrees) each 
+E1227 Wheelchair spec sz spec ht a Special height arms for wheelchair 
+E1228 Wheelchair spec sz spec ht b Special back height for wheelchair 
+E1229 Pediatric wheelchair nos Wheelchair pediatric size not otherwise specified 
+E1230 Power operated vehicle Power operated vehicle (three or four wheel nonhighway) specify brand name and model number 
+E1231 Rigid ped w/c tilt-in-space Wheelchair pediatric size tilt-in-space rigid adjustable with seating system 
+E1232 Folding ped wc tilt-in-space Wheelchair pediatric size tilt-in-space folding adjustable with seating system 
+E1233 Rig ped wc tltnspc w/o seat Wheelchair pediatric size tilt-in-space rigid adjustable without seating system 
+E1234 Fld ped wc tltnspc w/o seat Wheelchair pediatric size tilt-in-space folding adjustable without seating system 
+E1235 Rigid ped wc adjustable Wheelchair pediatric size rigid adjustable with seating system 
+E1236 Folding ped wc adjustable Wheelchair pediatric size folding adjustable with seating system 
+E1237 Rgd ped wc adjstabl w/o seat Wheelchair pediatric size rigid adjustable without seating system 
+E1238 Fld ped wc adjstabl w/o seat Wheelchair pediatric size folding adjustable without seating system 
+E1239 Ped power wheelchair nos Power wheelchair pediatric size not otherwise specified 
+E1240 Whchr litwt det arm leg rest Lightweight wheelchair detachable arms (desk or full length) swing away detachable elevating legrest 
+E1250 Wheelchair lightwt fixed arm Lightweight wheelchair fixed full length arms swing away detachable footrest 
+E1260 Wheelchair lightwt foot rest Lightweight wheelchair detachable arms (desk or full length) swing away detachable footrest 
+E1270 Wheelchair lightweight leg r Lightweight wheelchair fixed full length arms swing away detachable elevating legrests 
+E1280 Whchr h-duty det arm leg res Heavy duty wheelchair detachable arms (desk or full length) elevating legrests 
+E1285 Wheelchair heavy duty fixed Heavy duty wheelchair fixed full length arms swing away detachable footrest 
+E1290 Wheelchair hvy duty detach a Heavy duty wheelchair detachable arms (desk or full length) swing away detachable footrest 
+E1295 Wheelchair heavy duty fixed Heavy duty wheelchair fixed full length arms elevating legrest 
+E1296 Wheelchair special seat heig Special wheelchair seat height from floor 
+E1297 Wheelchair special seat dept Special wheelchair seat depth by upholstery 
+E1298 Wheelchair spec seat depth/w Special wheelchair seat depth and/or width by construction 
+E1300 Whirlpool portable Whirlpool portable (overtub type) 
+E1310 Whirlpool non-portable Whirlpool non-portable (built-in type) 
+E1352 O2 flow reg pos inspir press Oxygen accessory flow regulator capable of positive inspiratory pressure 
+E1353 Oxygen supplies regulator Regulator 
+E1354 Wheeled cart port cyl/conc Oxygen accessory wheeled cart for portable cylinder or portable concentrator any type replacement only each 
+E1355 Oxygen supplies stand/rack Stand/rack 
+E1356 Batt pack/cart port conc Oxygen accessory battery pack/cartridge for portable concentrator any type replacement only each 
+E1357 Battery charger port conc Oxygen accessory battery charger for portable concentrator any type replacement only each 
+E1358 Dc power adapter port conc Oxygen accessory dc power adapter for portable concentrator any type replacement only each 
+E1372 Oxy suppl heater for nebuliz Immersion external heater for nebulizer 
+E1390 Oxygen concentrator Oxygen concentrator single delivery port capable of delivering 85 percent or greater oxygen concentration at the prescribed flow rate 
+E1391 Oxygen concentrator dual Oxygen concentrator dual delivery port capable of delivering 85 percent or greater oxygen concentration at the prescribed flow rate each 
+E1392 Portable oxygen concentrator Portable oxygen concentrator rental 
+E1399 Durable medical equipment mi Durable medical equipment miscellaneous 
+E1405 O2/water vapor enrich w/heat Oxygen and water vapor enriching system with heated delivery 
+E1406 O2/water vapor enrich w/o he Oxygen and water vapor enriching system without heated delivery 
+E1500 Centrifuge Centrifuge for dialysis 
+E1510 Kidney dialysate delivry sys Kidney dialysate delivery syst kidney machine pump recirculating air removal syst flowrate meter power off heater and temperature control with alarm i.v. poles pressure gauge concentrate container 
+E1520 Heparin infusion pump Heparin infusion pump for hemodialysis 
+E1530 Replacement air bubble detec Air bubble detector for hemodialysis each replacement 
+E1540 Replacement pressure alarm Pressure alarm for hemodialysis each replacement 
+E1550 Bath conductivity meter Bath conductivity meter for hemodialysis each 
+E1560 Replace blood leak detector Blood leak detector for hemodialysis each replacement 
+E1570 Adjustable chair for esrd pt Adjustable chair for esrd patients 
+E1575 Transducer protect/fld bar Transducer protectors/fluid barriers for hemodialysis any size per 10 
+E1580 Unipuncture control system Unipuncture control system for hemodialysis 
+E1590 Hemodialysis machine Hemodialysis machine 
+E1592 Auto interm peritoneal dialy Automatic intermittent peritoneal dialysis system 
+E1594 Cycler dialysis machine Cycler dialysis machine for peritoneal dialysis 
+E1600 Deli/install chrg hemo equip Delivery and/or installation charges for hemodialysis equipment 
+E1610 Reverse osmosis h2o puri sys Reverse osmosis water purification system for hemodialysis 
+E1615 Deionizer h2o puri system Deionizer water purification system for hemodialysis 
+E1620 Replacement blood pump Blood pump for hemodialysis replacement 
+E1625 Water softening system Water softening system for hemodialysis 
+E1630 Reciprocating peritoneal dia Reciprocating peritoneal dialysis system 
+E1632 Wearable artificial kidney Wearable artificial kidney each 
+E1634 Peritoneal dialysis clamp Peritoneal dialysis clamps each 
+E1635 Compact travel hemodialyzer Compact (portable) travel hemodialyzer system 
+E1636 Sorbent cartridges per 10 Sorbent cartridges for hemodialysis per 10 
+E1637 Hemostats for dialysis each Hemostats each 
+E1639 Scale each Scale each 
+E1699 Dialysis equipment noc Dialysis equipment not otherwise specified 
+E1700 Jaw motion rehab system Jaw motion rehabilitation system 
+E1701 Repl cushions for jaw motion Replacement cushions for jaw motion rehabilitation system pkg. of 6 
+E1702 Repl measr scales jaw motion Replacement measuring scales for jaw motion rehabilitation system pkg. of 200 
+E1800 Adjust elbow ext/flex device Dynamic adjustable elbow extension/flexion device includes soft interface material 
+E1801 Sps elbow device Static progressive stretch elbow device extension and/or flexion with or without range of motion adjustment includes all components and accessories 
+E1802 Adjst forearm pro/sup device Dynamic adjustable forearm pronation/supination device includes soft interface material 
+E1805 Adjust wrist ext/flex device Dynamic adjustable wrist extension / flexion device includes soft interface material 
+E1806 Sps wrist device Static progressive stretch wrist device flexion and/or extension with or without range of motion adjustment includes all components and accessories 
+E1810 Adjust knee ext/flex device Dynamic adjustable knee extension / flexion device includes soft interface material 
+E1811 Sps knee device Static progressive stretch knee device extension and/or flexion with or without range of motion adjustment includes all components and accessories 
+E1812 Knee ext/flex w act res ctrl Dynamic knee extension/flexion device with active resistance control 
+E1815 Adjust ankle ext/flex device Dynamic adjustable ankle extension/flexion device includes soft interface material 
+E1816 Sps ankle device Static progressive stretch ankle device flexion and/or extension with or without range of motion adjustment includes all components and accessories 
+E1818 Sps forearm device Static progressive stretch forearm pronation / supination device with or without range of motion adjustment includes all components and accessories 
+E1820 Soft interface material Replacement soft interface material dynamic adjustable extension/flexion device 
+E1821 Replacement interface spsd Replacement soft interface material/cuffs for bi-directional static progressive stretch device 
+E1825 Adjust finger ext/flex devc Dynamic adjustable finger extension/flexion device includes soft interface material 
+E1830 Adjust toe ext/flex device Dynamic adjustable toe extension/flexion device includes soft interface material 
+E1831 Static str toe dev ext/flex Static progressive stretch toe device extension and/or flexion with or without range of motion adjustment includes all components and accessories 
+E1840 Adj shoulder ext/flex device Dynamic adjustable shoulder flexion / abduction / rotation device includes soft interface material 
+E1841 Static str shldr dev rom adj Static progressive stretch shoulder device with or without range of motion adjustment includes all components and accessories 
+E1902 Aac non-electronic board Communication board non-electronic augmentative or alternative communication device 
+E2000 Gastric suction pump hme mdl Gastric suction pump home model portable or stationary electric 
+E2100 Bld glucose monitor w voice Blood glucose monitor with integrated voice synthesizer 
+E2101 Bld glucose monitor w lance Blood glucose monitor with integrated lancing/blood sample 
+E2120 Pulse gen sys tx endolymp fl Pulse generator system for tympanic treatment of inner ear endolymphatic fluid 
+E2201 Man w/ch acc seat w>=20"<24" Manual wheelchair accessory nonstandard seat frame width greater than or equal to 20 inches and less than 24 inches 
+E2202 Seat width 24-27 in Manual wheelchair accessory nonstandard seat frame width 24-27 inches 
+E2203 Frame depth less than 22 in Manual wheelchair accessory nonstandard seat frame depth 20 to less than 22 inches 
+E2204 Frame depth 22 to 25 in Manual wheelchair accessory nonstandard seat frame depth 22 to 25 inches 
+E2205 Manual wc accessory handrim Manual wheelchair accessory handrim without projections (includes ergonomic or contoured) any type replacement only each 
+E2206 Man wc whl lock comp repl ea Manual wheelchair accessory wheel lock assembly complete replacement only each 
+E2207 Crutch and cane holder Wheelchair accessory crutch and cane holder each 
+E2208 Cylinder tank carrier Wheelchair accessory cylinder tank carrier each 
+E2209 Arm trough each Accessory arm trough with or without hand support each 
+E2210 Wheelchair bearings Wheelchair accessory bearings any type replacement only each 
+E2211 Pneumatic propulsion tire Manual wheelchair accessory pneumatic propulsion tire any size each 
+E2212 Pneumatic prop tire tube Manual wheelchair accessory tube for pneumatic propulsion tire any size each 
+E2213 Pneumatic prop tire insert Manual wheelchair accessory insert for pneumatic propulsion tire (removable) any type any size each 
+E2214 Pneumatic caster tire each Manual wheelchair accessory pneumatic caster tire any size each 
+E2215 Pneumatic caster tire tube Manual wheelchair accessory tube for pneumatic caster tire any size each 
+E2216 Foam filled propulsion tire Manual wheelchair accessory foam filled propulsion tire any size each 
+E2217 Foam filled caster tire each Manual wheelchair accessory foam filled caster tire any size each 
+E2218 Foam propulsion tire each Manual wheelchair accessory foam propulsion tire any size each 
+E2219 Foam caster tire any size ea Manual wheelchair accessory foam caster tire any size each 
+E2220 Solid propuls tire repl ea Manual wheelchair accessory solid (rubber/plastic) propulsion tire any size replacement only each 
+E2221 Solid caster tire repl each Manual wheelchair accessory solid (rubber/plastic) caster tire (removable) any size replacement only each 
+E2222 Solid caster integ whl repl Manual wheelchair accessory solid (rubber/plastic) caster tire with integrated wheel any size replacement only each 
+E2224 Propulsion whl excl tire rep Manual wheelchair accessory propulsion wheel excludes tire any size replacement only each 
+E2225 Caster wheel excludes tire Manual wheelchair accessory caster wheel excludes tire any size replacement only each 
+E2226 Caster fork replacement only Manual wheelchair accessory caster fork any size replacement only each 
+E2227 Gear reduction drive wheel Manual wheelchair accessory gear reduction drive wheel each 
+E2228 Mwc acc wheelchair brake Manual wheelchair accessory wheel braking system and lock complete each 
+E2230 Manual standing system Manual wheelchair accessory manual standing system 
+E2231 Solid seat support base Manual wheelchair accessory solid seat support base (replaces sling seat) includes any type mounting hardware 
+E2291 Planar back for ped size wc Back planar for pediatric size wheelchair including fixed attaching hardware 
+E2292 Planar seat for ped size wc Seat planar for pediatric size wheelchair including fixed attaching hardware 
+E2293 Contour back for ped size wc Back contoured for pediatric size wheelchair including fixed attaching hardware 
+E2294 Contour seat for ped size wc Seat contoured for pediatric size wheelchair including fixed attaching hardware 
+E2295 Ped dynamic seating frame Manual wheelchair accessory for pediatric size wheelchair dynamic seating frame allows coordinated movement of multiple positioning features 
+E2300 Pwr seat elevation sys Wheelchair accessory power seat elevation system any type 
+E2301 Pwr standing Wheelchair accessory power standing system any type 
+E2310 Electro connect btw control Power wheelchair accessory electronic connection between wheelchair controller and one power seating system motor including all related electronics indicator feature mechanical function selection switch and fixed mounting hardware 
+E2311 Electro connect btw 2 sys Power wheelchair accessory electronic connection between wheelchair controller and two or more power seating system motors including all related electronics indicator feature mechanical function selection switch and fixed mounting hardware 
+E2312 Mini-prop remote joystick Power wheelchair accessory hand or chin control interface mini-proportional remote joystick proportional including fixed mounting hardware 
+E2313 Pwc harness expand control Power wheelchair accessory harness for upgrade to expandable controller including all fasteners connectors and mounting hardware each 
+E2321 Hand interface joystick Power wheelchair accessory hand control interface remote joystick nonproportional including all related electronics mechanical stop switch and fixed mounting hardware 
+E2322 Mult mech switches Power wheelchair accessory hand control interface multiple mechanical switches nonproportional including all related electronics mechanical stop switch and fixed mounting hardware 
+E2323 Special joystick handle Power wheelchair accessory specialty joystick handle for hand control interface prefabricated 
+E2324 Chin cup interface Power wheelchair accessory chin cup for chin control interface 
+E2325 Sip and puff interface Power wheelchair accessory sip and puff interface nonproportional including all related electronics mechanical stop switch and manual swingaway mounting hardware 
+E2326 Breath tube kit Power wheelchair accessory breath tube kit for sip and puff interface 
+E2327 Head control interface mech Power wheelchair accessory head control interface mechanical proportional including all related electronics mechanical direction change switch and fixed mounting hardware 
+E2328 Head/extremity control inter Power wheelchair accessory head control or extremity control interface electronic proportional including all related electronics and fixed mounting hardware 
+E2329 Head control nonproportional Power wheelchair accessory head control interface contact switch mechanism nonproportional including all related electronics mechanical stop switch mechanical direction change switch head array and fixed mounting hardware 
+E2330 Head control proximity switc Power wheelchair accessory head control interface proximity switch mechanism nonproportional including all related electronics mechanical stop switch mechanical direction change switch head array and fixed mounting hardware 
+E2331 Attendant control Power wheelchair accessory attendant control proportional including all related electronics and fixed mounting hardware 
+E2340 W/c wdth 20-23 in seat frame Power wheelchair accessory nonstandard seat frame width 20-23 inches 
+E2341 W/c wdth 24-27 in seat frame Power wheelchair accessory nonstandard seat frame width 24-27 inches 
+E2342 W/c dpth 20-21 in seat frame Power wheelchair accessory nonstandard seat frame depth 20 or 21 inches 
+E2343 W/c dpth 22-25 in seat frame Power wheelchair accessory nonstandard seat frame depth 22-25 inches 
+E2351 Electronic sgd interface Power wheelchair accessory electronic interface to operate speech generating device using power wheelchair control interface 
+E2358 Gr 34 nonsealed leadacid Power wheelchair accessory group 34 non-sealed lead acid battery each 
+E2359 Gr34 sealed leadacid battery Power wheelchair accessory group 34 sealed lead acid battery each (e.g. gel cell absorbed glassmat) 
+E2360 22nf nonsealed leadacid Power wheelchair accessory 22nf non-sealed lead acid battery each 
+E2361 22nf sealed leadacid battery Power wheelchair accessory 22nf sealed lead acid battery each (e.g. gel cell absorbed glassmat) 
+E2362 Gr24 nonsealed leadacid Power wheelchair accessory group 24 non-sealed lead acid battery each 
+E2363 Gr24 sealed leadacid battery Power wheelchair accessory group 24 sealed lead acid battery each (e.g. gel cell absorbed glassmat) 
+E2364 U1nonsealed leadacid battery Power wheelchair accessory u-1 non-sealed lead acid battery each 
+E2365 U1 sealed leadacid battery Power wheelchair accessory u-1 sealed lead acid battery each (e.g. gel cell absorbed glassmat) 
+E2366 Battery charger single mode Power wheelchair accessory battery charger single mode for use with only one battery type sealed or non-sealed each 
+E2367 Battery charger dual mode Power wheelchair accessory battery charger dual mode for use with either battery type sealed or non-sealed each 
+E2368 Pwr wc drivewheel motor repl Power wheelchair component drive wheel motor replacement only 
+E2369 Pwr wc drivewheel gear repl Power wheelchair component drive wheel gear box replacement only 
+E2370 Pwr wc dr wh motor/gear comb Power wheelchair component integrated drive wheel motor and gear box combination replacement only 
+E2371 Gr27 sealed leadacid battery Power wheelchair accessory group 27 sealed lead acid battery (e.g. gel cell absorbed glassmat) each 
+E2372 Gr27 non-sealed leadacid Power wheelchair accessory group 27 non-sealed lead acid battery each 
+E2373 Hand/chin ctrl spec joystick Power wheelchair accessory hand or chin control interface compact remote joystick proportional including fixed mounting hardware 
+E2374 Hand/chin ctrl std joystick Power wheelchair accessory hand or chin control interface standard remote joystick (not including controller) proportional including all related electronics and fixed mounting hardware replacement only 
+E2375 Non-expandable controller Power wheelchair accessory non-expandable controller including all related electronics and mounting hardware replacement only 
+E2376 Expandable controller repl Power wheelchair accessory expandable controller including all related electronics and mounting hardware replacement only 
+E2377 Expandable controller initl Power wheelchair accessory expandable controller including all related electronics and mounting hardware upgrade provided at initial issue 
+E2378 Pw actuator replacement Power wheelchair component actuator replacement only 
+E2381 Pneum drive wheel tire Power wheelchair accessory pneumatic drive wheel tire any size replacement only each 
+E2382 Tube pneum wheel drive tire Power wheelchair accessory tube for pneumatic drive wheel tire any size replacement only each 
+E2383 Insert pneum wheel drive Power wheelchair accessory insert for pneumatic drive wheel tire (removable) any type any size replacement only each 
+E2384 Pneumatic caster tire Power wheelchair accessory pneumatic caster tire any size replacement only each 
+E2385 Tube pneumatic caster tire Power wheelchair accessory tube for pneumatic caster tire any size replacement only each 
+E2386 Foam filled drive wheel tire Power wheelchair accessory foam filled drive wheel tire any size replacement only each 
+E2387 Foam filled caster tire Power wheelchair accessory foam filled caster tire any size replacement only each 
+E2388 Foam drive wheel tire Power wheelchair accessory foam drive wheel tire any size replacement only each 
+E2389 Foam caster tire Power wheelchair accessory foam caster tire any size replacement only each 
+E2390 Solid drive wheel tire Power wheelchair accessory solid (rubber/plastic) drive wheel tire any size replacement only each 
+E2391 Solid caster tire Power wheelchair accessory solid (rubber/plastic) caster tire (removable) any size replacement only each 
+E2392 Solid caster tire integrate Power wheelchair accessory solid (rubber/plastic) caster tire with integrated wheel any size replacement only each 
+E2394 Drive wheel excludes tire Power wheelchair accessory drive wheel excludes tire any size replacement only each 
+E2395 Caster wheel excludes tire Power wheelchair accessory caster wheel excludes tire any size replacement only each 
+E2396 Caster fork Power wheelchair accessory caster fork any size replacement only each 
+E2397 Pwc acc lith-based battery Power wheelchair accessory lithium-based battery each 
+E2398 Wc dynamic pos back hardware Wheelchair accessory dynamic positioning hardware for back 
+E2402 Neg press wound therapy pump Negative pressure wound therapy electrical pump stationary or portable 
+E2500 Sgd digitized pre-rec <=8min Speech generating device digitized speech using pre-recorded messages less than or equal to 8 minutes recording time 
+E2502 Sgd prerec msg >8min <=20min Speech generating device digitized speech using pre-recorded messages greater than 8 minutes but less than or equal to 20 minutes recording time 
+E2504 Sgd prerec msg>20min <=40min Speech generating device digitized speech using pre-recorded messages greater than 20 minutes but less than or equal to 40 minutes recording time 
+E2506 Sgd prerec msg > 40 min Speech generating device digitized speech using pre-recorded messages greater than 40 minutes recording time 
+E2508 Sgd spelling phys contact Speech generating device synthesized speech requiring message formulation by spelling and access by physical contact with the device 
+E2510 Sgd w multi methods msg/accs Speech generating device synthesized speech permitting multiple methods of message formulation and multiple methods of device access 
+E2511 Sgd sftwre prgrm for pc/pda Speech generating software program for personal computer or personal digital assistant 
+E2512 Sgd accessory mounting sys Accessory for speech generating device mounting system 
+E2599 Sgd accessory noc Accessory for speech generating device not otherwise classified 
+E2601 Gen w/c cushion wdth < 22 in General use wheelchair seat cushion width less than 22 inches any depth 
+E2602 Gen w/c cushion wdth >=22 in General use wheelchair seat cushion width 22 inches or greater any depth 
+E2603 Skin protect wc cus wd <22in Skin protection wheelchair seat cushion width less than 22 inches any depth 
+E2604 Skin protect wc cus wd>=22in Skin protection wheelchair seat cushion width 22 inches or greater any depth 
+E2605 Position wc cush wdth <22 in Positioning wheelchair seat cushion width less than 22 inches any depth 
+E2606 Position wc cush wdth>=22 in Positioning wheelchair seat cushion width 22 inches or greater any depth 
+E2607 Skin pro/pos wc cus wd <22in Skin protection and positioning wheelchair seat cushion width less than 22 inches any depth 
+E2608 Skin pro/pos wc cus wd>=22in Skin protection and positioning wheelchair seat cushion width 22 inches or greater any depth 
+E2609 Custom fabricate w/c cushion Custom fabricated wheelchair seat cushion any size 
+E2610 Powered w/c cushion Wheelchair seat cushion powered 
+E2611 Gen use back cush wdth <22in General use wheelchair back cushion width less than 22 inches any height including any type mounting hardware 
+E2612 Gen use back cush wdth>=22in General use wheelchair back cushion width 22 inches or greater any height including any type mounting hardware 
+E2613 Position back cush wd <22in Positioning wheelchair back cushion posterior width less than 22 inches any height including any type mounting hardware 
+E2614 Position back cush wd>=22in Positioning wheelchair back cushion posterior width 22 inches or greater any height including any type mounting hardware 
+E2615 Pos back post/lat wdth <22in Positioning wheelchair back cushion posterior-lateral width less than 22 inches any height including any type mounting hardware 
+E2616 Pos back post/lat wdth>=22in Positioning wheelchair back cushion posterior-lateral width 22 inches or greater any height including any type mounting hardware 
+E2617 Custom fab w/c back cushion Custom fabricated wheelchair back cushion any size including any type mounting hardware 
+E2619 Replace cover w/c seat cush Replacement cover for wheelchair seat cushion or back cushion each 
+E2620 Wc planar back cush wd <22in Positioning wheelchair back cushion planar back with lateral supports width less than 22 inches any height including any type mounting hardware 
+E2621 Wc planar back cush wd>=22in Positioning wheelchair back cushion planar back with lateral supports width 22 inches or greater any height including any type mounting hardware 
+E2622 Adj skin pro w/c cus wd<22in Skin protection wheelchair seat cushion adjustable width less than 22 inches any depth 
+E2623 Adj skin pro wc cus wd>=22in Skin protection wheelchair seat cushion adjustable width 22 inches or greater any depth 
+E2624 Adj skin pro/pos cus<22in Skin protection and positioning wheelchair seat cushion adjustable width less than 22 inches any depth 
+E2625 Adj skin pro/pos wc cus>=22 Skin protection and positioning wheelchair seat cushion adjustable width 22 inches or greater any depth 
+E2626 Seo mobile arm sup att to wc Wheelchair accessory shoulder elbow mobile arm support attached to wheelchair balanced adjustable 
+E2627 Arm supp att to wc rancho ty Wheelchair accessory shoulder elbow mobile arm support attached to wheelchair balanced adjustable rancho type 
+E2628 Mobile arm supports reclinin Wheelchair accessory shoulder elbow mobile arm support attached to wheelchair balanced reclining 
+E2629 Friction dampening arm supp Wheelchair accessory shoulder elbow mobile arm support attached to wheelchair balanced friction arm support (friction dampening to proximal and distal joints) 
+E2630 Monosuspension arm/hand supp Wheelchair accessory shoulder elbow mobile arm support monosuspension arm and hand support overhead elbow forearm hand sling support yoke type suspension support 
+E2631 Elevat proximal arm support Wheelchair accessory addition to mobile arm support elevating proximal arm 
+E2632 Offset/lat rocker arm w/ela Wheelchair accessory addition to mobile arm support offset or lateral rocker arm with elastic balance control 
+E2633 Mobile arm support supinator Wheelchair accessory addition to mobile arm support supinator 
+E8000 Posterior gait trainer Gait trainer pediatric size posterior support includes all accessories and components 
+E8001 Upright gait trainer Gait trainer pediatric size upright support includes all accessories and components 
+E8002 Anterior gait trainer Gait trainer pediatric size anterior support includes all accessories and components 
