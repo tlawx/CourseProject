@@ -49,12 +49,12 @@ if __name__ == "__main__":
     driver.concepts_dataset = 'data/concept.csv'
     driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
     
-    treatment_list = driver.create_treatment_list(driver.concepts_dataset)
-    category_list, category_name_set = driver.create_category_list(driver.categories_dataset)
+    treatment_list = driver.create_treatment_list(driver, driver.concepts_dataset)
+    category_list, category_name_set = driver.create_category_list(driver, driver.categories_dataset)
 
     category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, category_name_set) 
-    category_treatment_dict = driver.create_category_treatment_dict(driver.categories_dataset, driver.concepts_dataset)
-    category_treatment_dict_list = driver.create_category_treatment_list(category_treatment_dict)
+    category_treatment_dict = driver.create_category_treatment_dict(driver, driver.categories_dataset, driver.concepts_dataset)
+    category_treatment_dict_list = driver.create_category_treatment_list(driver, category_treatment_dict)
 
     print(category_dict_list_hcpcs['A'][5])
 

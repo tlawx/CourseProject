@@ -92,7 +92,7 @@ class Driver:
         return category_obj_list, category_name_set
 
     @staticmethod
-    def create_category_treatment_list(category_treatment_dict):
+    def create_category_treatment_list(self, category_treatment_dict):
         """
         Creates a dict of lists. Category letter key and value is dict of key as line number with value as the treatment object
         """
