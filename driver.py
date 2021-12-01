@@ -7,15 +7,45 @@ from Category import Category
 
 class Driver:
     def __init__(self):
-        self.hospital_list = []
         self.hospital_dataset = ''
         self.prices_dataset = ''
         self.concepts_dataset = ''
         self.categories_dataset = ''
+        self.category_description_dataset =''
+        self.hospital_list = []
         self.treatment_list = []
         self.category_list = []
-        self.category_treatment_dict = []
+        self.category_name_set = []
+        self.category_treatment_dict = {}
         self.category_treatment_list = []
+        self.price_dict = {}
+        self.category_treatment_dict = {}
+        self.category_treatment_dict_list = []
+        self.category_dict_list_hcpcs = {}
+
+
+    def set_treatment_list(self, treatment_list):
+        self.treatment_list = treatment_list
+
+
+    def set_category_list(self, category_list):
+        self.category_list = category_list
+    
+
+    def set_category_name_set(self, category_name_set):
+        self.category_name_set = category_name_set
+
+
+    def set_category_dict_list_hcpcs(self, category_dict_list_hcpcs):
+        self.category_dict_list_hcpcs = category_dict_list_hcpcs
+
+
+    def set_category_treatment_dict(self, category_treatment_dict):
+        self.category_treatment_dict = category_treatment_dict
+
+
+    def set_category_treatment_dict_list(self, category_treatment_dict_list):
+        self.category_treatment_dict_list = category_treatment_dict_list
 
     @staticmethod
     def get_treatment_list(self):
@@ -35,7 +65,7 @@ class Driver:
     
     @staticmethod
     def create_hospital_object(hospital_row):
-        h = Hospital(hospital_row['hospital_id'], hospital_row['hospital_name'])
+        h = Hospital(hospital_row['hospital_id'], hospital_row['hospital_name'], hospital_row['hospital_npi'])
         h.city = hospital_row['city']
         h.state = hospital_row['state']
         return h
@@ -51,30 +81,46 @@ class Driver:
         return hospital_object_list
 
     @staticmethod
-    def add_treatment_price_data_to_hospitals(prices_dataset, hospital_index):
-        prices_treatments = CSVParser.readfile_to_dict(prices_dataset)
-
-        # for entry in prices_treatments:
-        #     # each entry is a dict e.g {'hospital_id': '1', 'concept_id': '2101827', 'price': 'gross', 'amount': '9221'}
-        #     if 'hospital_id' in entry.keys():
-        #         if entry['hospital_id'] in hospital_index.keys():
-        #             hospital = hospital_index[entry['hospital_id']]
-        #             hospital.add_new_treatment_by_id(entry['concept_id'])
-   
-    @staticmethod
-    def create_treatment_list(self, treatment_dataset):
+    def create_treatment_list(treatment_dataset):
         treatments = CSVParser.readfile_to_dict(treatment_dataset)
 
         treatment_obj_list = []
 
         for t in treatments:
             treatment_obj_list.append(Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name']))
-
-        self.treatment_list = treatment_obj_list
+ 
         return treatment_obj_list
 
     @staticmethod
-    def create_category_list(self, category_dataset):
+    def create_treatment_dict(treatment_dataset):
+        """
+        Creates a dict of Treatment objects; concept_id (key) and Treatment_object (value)
+        """
+        treatments = CSVParser.readfile_to_dict(treatment_dataset)
+
+        treatment_obj_dict = {}
+
+        for t in treatments:
+            treatment_obj_dict[t['concept_id']] = Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name'])
+        
+        return treatment_obj_dict
+
+    @staticmethod
+    def create_hospital_dict(hospital_dataset):
+        """
+        Creates a dict of Treatment objects; concept_id (key) and Treatment_object (value)
+        """
+        hospitals = CSVParser.readfile_to_dict(hospital_dataset)
+
+        hospital_obj_dict = {}
+
+        for h in hospitals:
+            hospital_obj_dict[h['hospital_id']] = Hospital(h['hospital_id'], h['hospital_name'], h['hospital_npi'], h['city'], h['state'], h['affiliation'], h['disclosure'])
+        
+        return hospital_obj_dict
+
+    @staticmethod
+    def create_category_list(category_dataset):
         """
         Creates a list of category objects, setting the name and letter
         """
@@ -88,28 +134,11 @@ class Driver:
             category_name_set.add(line['category_letter'])
             category_obj_list.append(new_cat)
 
-        self.category_list = category_obj_list
         return category_obj_list, category_name_set
 
-    @staticmethod
-    def create_category_treatment_list(self, category_treatment_dict):
-        """
-        Creates a dict of lists. Category letter key and value is dict of key as line number with value as the treatment object
-        """
-        category_dict = {}
-
-        for c in category_treatment_dict:
-            count = 0
-            category_dict[c] = []
-            for t in category_treatment_dict[c]: 
-                category_dict[c].insert(count,category_treatment_dict[c][t])
-                count = count + 1
-
-        self.category_treatment_list = category_dict
-        return category_dict
 
     @staticmethod
-    def create_category_treatment_dict(self, category_dataset, treatment_dataset):
+    def create_category_treatment_dict(category_letter_set ,category_dataset, treatment_dataset):
         """
         Creates a dict of dicts. Category_letters (keys) and treatment_dict (values) with treatment_id (keys) and treatment objects (values)
         """
@@ -122,18 +151,54 @@ class Driver:
             category_dict[c['category_letter']] = {}
 
         for t in treatments:
-            current_hcpcs_code = t['concept_code'][:1] 
-            if current_hcpcs_code in category_dict: # Only add treatments in established categories
-                category_dict[current_hcpcs_code[:1]][t['concept_code']] = Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name'])
+            current_category_letter = t['concept_code'][:1] 
+            if current_category_letter in category_letter_set: # Only add treatments in established categories
+                category_dict[current_category_letter][t['concept_code']] = Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name'])
+     
+        return category_dict
 
-        self.category_treatment_dict = category_dict         
+    @staticmethod
+    def create_price_dict(price_dataset):
+        """
+        Creates a dict of dicts. Gross/Cash/Min/Max (keys) and dict (keys) with "hospital_id concept_id" (values)
+        """
+        prices = CSVParser.readfile_to_dict(price_dataset)
+
+        price_dict = {}
+
+        price_dict['gross'] = {}
+        price_dict['cash'] = {}
+        price_dict['max'] = {}
+        price_dict['min'] = {}
+
+        for p in prices:
+            #price_dict[p['price']][1] = p['amount']
+            price_dict[p['price']][p['hospital_id']+" "+p['concept_id']] = p['amount']
+
+        return price_dict
+
+    @staticmethod
+    def create_category_treatment_list(category_treatment_dict):
+        """
+        Creates a dict of lists. Category letter key and value is dict of key as line number with value as the treatment object
+        """
+        category_dict = {}
+
+        for c in category_treatment_dict:
+            count = 0
+            category_dict[c] = []
+            for t in category_treatment_dict[c]: 
+                category_dict[c].insert(count,category_treatment_dict[c][t])
+                count = count + 1
+
         return category_dict
 
     @staticmethod
     def create_category_files(category_description_dataset, category_letter_set):
         """
         Creates files by category that contain HCPCS, short description, long description
-        **Needs a little work because there are spaces in the original descriptions file**
+        *Needs a little work because there are spaces in the original descriptions file*
+        **Updated the original treatment/category file to remove commas**
         """
         category_letter_dict = {} #dictionary of open files
         category_dict_list = {}
@@ -147,7 +212,7 @@ class Driver:
         for line in category_descriptions:
             current_hcpcs_code = line['hcpcs_code'][:1]   
             if current_hcpcs_code in category_letter_set:
-                category_dict_list[current_hcpcs_code[:1]].append(line['hcpcs_code'])
+                category_dict_list[current_hcpcs_code].append(line['hcpcs_code'])
                 category_letter_dict[current_hcpcs_code].write("%s %s %s \n" % (line['hcpcs_code'], line['short_description'], line['long_description']))
 
         for letter in category_letter_set: #close all files
@@ -208,7 +273,17 @@ class Driver:
     def get_hospital_by_id(hospital_id):
         pass
 
+    @staticmethod
+    def add_treatment_price_data_to_hospitals(prices_dataset, hospital_index):
+        prices_treatments = CSVParser.readfile_to_dict(prices_dataset)
 
+        # for entry in prices_treatments:
+        #     # each entry is a dict e.g {'hospital_id': '1', 'concept_id': '2101827', 'price': 'gross', 'amount': '9221'}
+        #     if 'hospital_id' in entry.keys():
+        #         if entry['hospital_id'] in hospital_index.keys():
+        #             hospital = hospital_index[entry['hospital_id']]
+        #             hospital.add_new_treatment_by_id(entry['concept_id'])
+   
 
 if __name__ == '__main__':
     
@@ -221,26 +296,27 @@ if __name__ == '__main__':
     driver.concepts_dataset = 'data/concept.csv'
     driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
     
-    treatment_list = driver.create_treatment_list(driver.concepts_dataset)
-    hospital_list = driver.create_hospital_list(driver.hospital_dataset)
-    category_list, category_name_set = driver.create_category_list(driver.categories_dataset)
+    driver.treatment_list = driver.create_treatment_list(driver.concepts_dataset)
+    driver.hospital_list = driver.create_hospital_list(driver.hospital_dataset)
+    driver.category_list, driver.category_name_set = driver.create_category_list(driver.categories_dataset)
+    driver.prices_dict = driver.create_price_dict(driver.prices_dataset)
 
-    hospital_index = hospital_index = driver.create_hospital_index(hospital_list)
-    treatment_index = treatment_index = driver.create_treatment_index(treatment_list)
-    category_index = category_index = driver.create_category_index(category_list)
+    hospital_index = hospital_index = driver.create_hospital_index(driver.hospital_list)
+    treatment_index = treatment_index = driver.create_treatment_index(driver.treatment_list)
+    category_index = category_index = driver.create_category_index(driver.category_list)
     #driver.add_treatment_price_data_to_hospitals(driver.prices_dataset, hospital_index)
-
     
     #create files by category that contain hcpcs, short description, long description separated by spaces. 
-    category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, category_name_set) 
+    driver.category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, driver.category_name_set) 
 
-    category_treatment_dict = driver.create_category_treatment_dict(driver.categories_dataset, driver.concepts_dataset)
-    category_treatment_dict_list = driver.create_category_treatment_list(category_treatment_dict)
+    driver.category_treatment_dict = driver.create_category_treatment_dict(driver.category_name_set, driver.categories_dataset, driver.concepts_dataset)
+    driver.category_treatment_dict_list = driver.create_category_treatment_list(driver.category_treatment_dict)
 
     # Output for logging and debugging
-    print(category_dict_list_hcpcs['A'][5])
-    print(category_treatment_dict['A']['2614613'].concept_code)
-    print(category_treatment_dict_list['A'][0].concept_code)
+    print(driver.category_dict_list_hcpcs['A'][5])
+    print(driver.category_treatment_dict['A'][driver.category_dict_list_hcpcs['A'][5]].treatment_name)
+    print(driver.category_treatment_dict['A']['A4462'].concept_code)
+    print(driver.category_treatment_dict_list['A'][0].concept_code)
     print(hospital_index['1'].name)
     print(treatment_index['43533189'])
 

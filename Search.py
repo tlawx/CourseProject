@@ -49,23 +49,40 @@ if __name__ == "__main__":
     driver.concepts_dataset = 'data/concept.csv'
     driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
     
-    treatment_list = driver.create_treatment_list(driver, driver.concepts_dataset)
-    category_list, category_name_set = driver.create_category_list(driver, driver.categories_dataset)
+    treatment_list = driver.create_treatment_list(driver.concepts_dataset)
+    driver.set_treatment_list(treatment_list)
+    category_list, category_name_set = driver.create_category_list(driver.categories_dataset)
+    driver.set_category_list(category_list)
+    driver.set_category_name_set(category_name_set)
+
 
     category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, category_name_set) 
-    category_treatment_dict = driver.create_category_treatment_dict(driver, driver.categories_dataset, driver.concepts_dataset)
-    category_treatment_dict_list = driver.create_category_treatment_list(driver, category_treatment_dict)
+    category_treatment_dict = driver.create_category_treatment_dict(driver.category_name_set, driver.categories_dataset, driver.concepts_dataset)
+    category_treatment_dict_list = driver.create_category_treatment_list(category_treatment_dict)
+    driver.set_category_dict_list_hcpcs(category_dict_list_hcpcs)
+    driver.set_category_treatment_dict(category_treatment_dict)
+    driver.set_category_treatment_dict_list(category_treatment_dict_list)
 
-    print(category_dict_list_hcpcs['A'][5])
+    test_category = "A"
+    test_query = "wind"
+    print("Test Query Category Letter: ", test_category)
+    print("Test Query: ", test_query)
+    
 
-    s = Search("A", "Rotary air transport")
+
+    s = Search(test_category, test_query)
     rel_treatment_tuples = s.find_possible_treatments()
-    print("here")
+
+    
     rel_treatment_list = s.get_treatment_list(rel_treatment_tuples)
-    for i in rel_treatment_list: 
-        print(category_dict_list_hcpcs['A'][i]+" "+category_treatment_dict['A'][category_dict_list_hcpcs['A'][i]].treatment_name)
 
-
+    if rel_treatment_list is []: 
+        print("Best Matches: ")
+        for i in rel_treatment_list: 
+            print(category_dict_list_hcpcs['A'][i]+" "+category_treatment_dict['A'][category_dict_list_hcpcs['A'][i]].treatment_name)
+    else: 
+        print("No Found Matches")
+    #for testing
     # test_treatment_codes = ['A0021', 'B4034', 'C1300'] # load list of treatment HCPCS
     # test_treatment_descriptions_long = ['Ambulance service, outside state per mile, transport (medicaid only)', 'Enteral feeding supply kit; syringe fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape','Hyperbaric oxygen under pressure, full body chamber, per 30 minute interval']
     # test_treatment_descriptions_short = ['Outside state ambulance serv', 'Enter feed supkit syr by day','Hyperbaric oxygen']
