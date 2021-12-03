@@ -4,13 +4,13 @@ from Search import Search
 def main():
 
     print("Hello! Welcome to the Search System For Hospital Transparency Data.")
-    patient_name = raw_input("Please enter your name: ")
-    patient_state = raw_input("Please enter the state you live in (abbreviation): ")
+    patient_name = input("Please enter your name: ")
+    patient_state = input("Please enter the state you live in (abbreviation): ")
 
     p = Patient(patient_name, patient_state)
 
     # need to update after getting all the categories we have
-    category_code = raw_input("What kind of service are you looking for today?\n"
+    category_code = input("What kind of service are you looking for today?\n"
                               "A - Transportation, Medical and Surgical Supplies, Miscellaneous and Experimental\n"
                               "B - Enteral and Parenteral Therapy\n"
                               "C - Temporary Hospital Outpatient Prospective Payment System\n"
@@ -66,7 +66,7 @@ def main():
     elif category_code == "V":
         category_name = "Vision/hearing services"
 
-    query = raw_input("What kind of " + category_name + " are you looking for? ")
+    query = input("What kind of " + category_name + " are you looking for? ")
 
     s = Search(category_code, query)
     s.find_possible_treatments()
