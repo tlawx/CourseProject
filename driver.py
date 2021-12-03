@@ -1,4 +1,5 @@
 from os import stat
+from collections import defaultdict
 import pandas
 from CSVParser import CSVParser
 from Hospital import Hospital
@@ -7,11 +8,11 @@ from Category import Category
 
 class Driver:
     def __init__(self):
-        self.hospital_dataset = ''
-        self.prices_dataset = ''
-        self.concepts_dataset = ''
-        self.categories_dataset = ''
-        self.category_description_dataset =''
+        #self.hospital_dataset = ''
+        #self.prices_dataset = ''
+        #self.concepts_dataset = ''
+        #self.categories_dataset = ''
+        #self.category_description_dataset =''
         self.hospital_list = []
         self.treatment_list = []
         self.category_list = []
@@ -22,6 +23,11 @@ class Driver:
         self.category_treatment_dict = {}
         self.category_treatment_dict_list = []
         self.category_dict_list_hcpcs = {}
+        self.categories_dataset = 'data/hcpcs_categories.csv'
+        self.hospital_dataset = 'data/hospital.csv'
+        self.prices_dataset = 'data/price.csv'
+        self.concepts_dataset = 'data/concept.csv'
+        self.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
 
 
     def set_treatment_list(self, treatment_list):
@@ -63,6 +69,16 @@ class Driver:
     def get_category_treatment_dict(self):
         return self.category_treatment_list  
     
+    def create_city_dict_of_hopital_list(self):
+        hospitals = CSVParser.readfile_to_dict(self.hospital_dataset)
+
+        city_dict = defaultdict(list)
+
+        for h in hospitals:
+            city_dict[h['city']].append(Hospital(h['hospital_id'], h['hospital_name'], h['hospital_npi'], h['city'], h['state'], h['affiliation'], h['disclosure']))
+ 
+        return city_dict
+
     @staticmethod
     def create_hospital_object(hospital_row):
         h = Hospital(hospital_row['hospital_id'], hospital_row['hospital_name'], hospital_row['hospital_npi'])
@@ -291,7 +307,7 @@ if __name__ == '__main__':
     
     # Add proper path checking and move these values to config 
     driver.categories_dataset = 'data/hcpcs_categories.csv'
-    driver.hospital_dataset = 'data/hospital.csv'
+    #driver.hospital_dataset = 'data/hospital.csv'
     driver.prices_dataset = 'data/price.csv'
     driver.concepts_dataset = 'data/concept.csv'
     driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
@@ -300,6 +316,11 @@ if __name__ == '__main__':
     driver.hospital_list = driver.create_hospital_list(driver.hospital_dataset)
     driver.category_list, driver.category_name_set = driver.create_category_list(driver.categories_dataset)
     driver.prices_dict = driver.create_price_dict(driver.prices_dataset)
+
+    city_dict = driver.create_city_dict_of_hopital_list()
+    for c in city_dict['New Bern']:
+        print(c.name)
+
 
     hospital_index = hospital_index = driver.create_hospital_index(driver.hospital_list)
     treatment_index = treatment_index = driver.create_treatment_index(driver.treatment_list)

@@ -1,7 +1,11 @@
 from Patient import Patient
 from Search import Search
+from driver import Driver
 
 def main():
+
+    driver = Driver()
+    city_dict = driver.create_city_dict_of_hopital_list()
 
     print("Hello! Welcome to the Search System For Hospital Transparency Data.")
     patient_name = input("Please enter your name: ")

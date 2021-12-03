@@ -12424,3 +12424,439 @@ T4544 Adlt disp und/pull on abv xl Adult sized disposable incontinence product p
 T4545 Incon disposable penile wrap Incontinence product disposable penile wrap each 
 T5001 Position seat spec orth need Positioning seat for persons with special orthopedic needs 
 T5999 Supply nos Supply not otherwise specified 
+T1000 Private duty/independent nsg Private duty / independent nursing service(s) - licensed up to 15 minutes 
+T1001 Nursing assessment/evaluatn Nursing assessment / evaluation 
+T1002 Rn services up to 15 minutes Rn services up to 15 minutes 
+T1003 Lpn/lvn services up to 15min Lpn/lvn services up to 15 minutes 
+T1004 Nsg aide service up to 15min Services of a qualified nursing aide up to 15 minutes 
+T1005 Respite care service 15 min Respite care services up to 15 minutes 
+T1006 Family/couple counseling Alcohol and/or substance abuse services family/couple counseling 
+T1007 Treatment plan development Alcohol and/or substance abuse services treatment plan development and/or modification 
+T1009 Child sitting services Child sitting services for children of the individual receiving alcohol and/or substance abuse services 
+T1010 Meals when receive services Meals for individuals receiving alcohol and/or substance abuse services (when meals not included in the program) 
+T1012 Alcohol/substance abuse skil Alcohol and/or substance abuse services skills development 
+T1013 Sign lang/oral interpreter Sign language or oral interpretive services per 15 minutes 
+T1014 Telehealth transmit per min Telehealth transmission per minute professional services bill separately 
+T1015 Clinic service Clinic visit/encounter all-inclusive 
+T1016 Case management Case management each 15 minutes 
+T1017 Targeted case management Targeted case management each 15 minutes 
+T1018 School-based iep ser bundled School-based individualized education program (iep) services bundled 
+T1019 Personal care ser per 15 min Personal care services per 15 minutes not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1020 Personal care ser per diem Personal care services per diem not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1021 Hh aide or cn aide per visit Home health aide or certified nurse assistant per visit 
+T1022 Contracted services per day Contracted home health agency services all services provided under contract per day 
+T1023 Program intake assessment Screening to determine the appropriateness of consideration of an individual for participation in a specified program project or treatment protocol per encounter 
+T1024 Team evaluation & management Evaluation and treatment by an integrated specialty team contracted to provide coordinated care to multiple or severely handicapped children per encounter 
+T1025 Ped compr care pkg per diem Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical mental and psychosocial impairments per diem 
+T1026 Ped compr care pkg per hour Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical medical and psychosocial impairments per hour 
+T1027 Family training & counseling Family training and counseling for child development per 15 minutes 
+T1028 Home environment assessment Assessment of home physical and family environment to determine suitability to meet patient's medical needs 
+T1029 Dwelling lead investigation Comprehensive environmental lead investigation not including laboratory analysis per dwelling 
+T1030 Rn home care per diem Nursing care in the home by registered nurse per diem 
+T1031 Lpn home care per diem Nursing care in the home by licensed practical nurse per diem 
+T1040 Comm bh clinic svc per diem Medicaid certified community behavioral health clinic services per diem 
+T1041 Comm bh clinic svc per month Medicaid certified community behavioral health clinic services per month 
+T1502 Medication admin visit Administration of oral intramuscular and/or subcutaneous medication by health care agency/professional per visit 
+T1503 Med admin not oral/inject Administration of medication other than oral and/or injectable by a health care agency/professional per visit 
+T1505 Elec med comp dev noc Electronic medication compliance management device includes all components and accessories not otherwise classified 
+T1999 Noc retail items andsupplies Miscellaneous therapeutic items and supplies retail purchases not otherwise classified; identify product in "remarks" 
+T2001 N-et; patient attend/escort Non-emergency transportation; patient attendant/escort 
+T2002 N-et; per diem Non-emergency transportation; per diem 
+T2003 N-et; encounter/trip Non-emergency transportation; encounter/trip 
+T2004 N-et; commerc carrier pass Non-emergency transport; commercial carrier multi-pass 
+T2005 N-et; stretcher van Non-emergency transportation; stretcher van 
+T2007 Non-emer transport wait time Transportation waiting time air ambulance and non-emergency vehicle one-half (1/2) hour increments 
+T2010 Pasrr level i Preadmission screening and resident review (pasrr) level i identification screening per screen 
+T2011 Pasrr level ii Preadmission screening and resident review (pasrr) level ii evaluation per evaluation 
+T2012 Habil ed waiver per diem Habilitation educational; waiver per diem 
+T2013 Habil ed waiver per hour Habilitation educational waiver; per hour 
+T2014 Habil prevoc waiver per d Habilitation prevocational waiver; per diem 
+T2015 Habil prevoc waiver per hr Habilitation prevocational waiver; per hour 
+T2016 Habil res waiver per diem Habilitation residential waiver; per diem 
+T2017 Habil res waiver 15 min Habilitation residential waiver; 15 minutes 
+T2018 Habil sup empl waiver/diem Habilitation supported employment waiver; per diem 
+T2019 Habil sup empl waiver 15min Habilitation supported employment waiver; per 15 minutes 
+T2020 Day habil waiver per diem Day habilitation waiver; per diem 
+T2021 Day habil waiver per 15 min Day habilitation waiver; per 15 minutes 
+T2022 Case management per month Case management per month 
+T2023 Targeted case mgmt per month Targeted case management; per month 
+T2024 Serv asmnt/care plan waiver Service assessment/plan of care development waiver 
+T2025 Waiver service nos Waiver services; not otherwise specified (nos) 
+T2026 Special childcare waiver/d Specialized childcare waiver; per diem 
+T2027 Spec childcare waiver 15 min Specialized childcare waiver; per 15 minutes 
+T2028 Special supply nos waiver Specialized supply not otherwise specified waiver 
+T2029 Special med equip noswaiver Specialized medical equipment not otherwise specified waiver 
+T2030 Assist living waiver/month Assisted living waiver; per month 
+T2031 Assist living waiver/diem Assisted living; waiver per diem 
+T2032 Res care nos waiver/month Residential care not otherwise specified (nos) waiver; per month 
+T2033 Res nos waiver per diem Residential care not otherwise specified (nos) waiver; per diem 
+T2034 Crisis interven waiver/diem Crisis intervention waiver; per diem 
+T2035 Utility services waiver Utility services to support medical equipment and assistive technology/devices waiver 
+T2036 Camp overnite waiver/session Therapeutic camping overnight waiver; each session 
+T2037 Camp day waiver/session Therapeutic camping day waiver; each session 
+T2038 Comm trans waiver/service Community transition waiver; per service 
+T2039 Vehicle mod waiver/service Vehicle modifications waiver; per service 
+T2040 Financial mgt waiver/15min Financial management self-directed waiver; per 15 minutes 
+T2041 Support broker waiver/15 min Supports brokerage self-directed waiver; per 15 minutes 
+T2042 Hospice routine home care Hospice routine home care; per diem 
+T2043 Hospice continuous home care Hospice continuous home care; per hour 
+T2044 Hospice respite care Hospice inpatient respite care; per diem 
+T2045 Hospice general care Hospice general inpatient care; per diem 
+T2046 Hospice long term care r&b Hospice long term care room and board only; per diem 
+T2048 Bh ltc res r&b per diem Behavioral health; long-term care residential (non-acute care in a residential treatment program where stay is typically longer than 30 days) with room and board per diem 
+T2049 N-et; stretcher van mileage Non-emergency transportation; stretcher van mileage; per mile 
+T2101 Breast milk proc/store/dist Human breast milk processing storage and distribution only 
+T4521 Adult size brief/diaper sm Adult sized disposable incontinence product brief/diaper small each 
+T4522 Adult size brief/diaper med Adult sized disposable incontinence product brief/diaper medium each 
+T4523 Adult size brief/diaper lg Adult sized disposable incontinence product brief/diaper large each 
+T4524 Adult size brief/diaper xl Adult sized disposable incontinence product brief/diaper extra large each 
+T4525 Adult size pull-on sm Adult sized disposable incontinence product protective underwear/pull-on small size each 
+T4526 Adult size pull-on med Adult sized disposable incontinence product protective underwear/pull-on medium size each 
+T4527 Adult size pull-on lg Adult sized disposable incontinence product protective underwear/pull-on large size each 
+T4528 Adult size pull-on xl Adult sized disposable incontinence product protective underwear/pull-on extra large size each 
+T4529 Ped size brief/diaper sm/med Pediatric sized disposable incontinence product brief/diaper small/medium size each 
+T4530 Ped size brief/diaper lg Pediatric sized disposable incontinence product brief/diaper large size each 
+T4531 Ped size pull-on sm/med Pediatric sized disposable incontinence product protective underwear/pull-on small/medium size each 
+T4532 Ped size pull-on lg Pediatric sized disposable incontinence product protective underwear/pull-on large size each 
+T4533 Youth size brief/diaper Youth sized disposable incontinence product brief/diaper each 
+T4534 Youth size pull-on Youth sized disposable incontinence product protective underwear/pull-on each 
+T4535 Disposable liner/shield/pad Disposable liner/shield/guard/pad/undergarment for incontinence each 
+T4536 Reusable pull-on any size Incontinence product protective underwear/pull-on reusable any size each 
+T4537 Reusable underpad bed size Incontinence product protective underpad reusable bed size each 
+T4538 Diaper serv reusable diaper Diaper service reusable diaper each diaper 
+T4539 Reuse diaper/brief any size Incontinence product diaper/brief reusable any size each 
+T4540 Reusable underpad chair size Incontinence product protective underpad reusable chair size each 
+T4541 Large disposable underpad Incontinence product disposable underpad large each 
+T4542 Small disposable underpad Incontinence product disposable underpad small size each 
+T4543 Adult disp brief/diap abv xl Adult sized disposable incontinence product protective brief/diaper above extra large each 
+T4544 Adlt disp und/pull on abv xl Adult sized disposable incontinence product protective underwear/pull-on above extra large each 
+T4545 Incon disposable penile wrap Incontinence product disposable penile wrap each 
+T5001 Position seat spec orth need Positioning seat for persons with special orthopedic needs 
+T5999 Supply nos Supply not otherwise specified 
+T1000 Private duty/independent nsg Private duty / independent nursing service(s) - licensed up to 15 minutes 
+T1001 Nursing assessment/evaluatn Nursing assessment / evaluation 
+T1002 Rn services up to 15 minutes Rn services up to 15 minutes 
+T1003 Lpn/lvn services up to 15min Lpn/lvn services up to 15 minutes 
+T1004 Nsg aide service up to 15min Services of a qualified nursing aide up to 15 minutes 
+T1005 Respite care service 15 min Respite care services up to 15 minutes 
+T1006 Family/couple counseling Alcohol and/or substance abuse services family/couple counseling 
+T1007 Treatment plan development Alcohol and/or substance abuse services treatment plan development and/or modification 
+T1009 Child sitting services Child sitting services for children of the individual receiving alcohol and/or substance abuse services 
+T1010 Meals when receive services Meals for individuals receiving alcohol and/or substance abuse services (when meals not included in the program) 
+T1012 Alcohol/substance abuse skil Alcohol and/or substance abuse services skills development 
+T1013 Sign lang/oral interpreter Sign language or oral interpretive services per 15 minutes 
+T1014 Telehealth transmit per min Telehealth transmission per minute professional services bill separately 
+T1015 Clinic service Clinic visit/encounter all-inclusive 
+T1016 Case management Case management each 15 minutes 
+T1017 Targeted case management Targeted case management each 15 minutes 
+T1018 School-based iep ser bundled School-based individualized education program (iep) services bundled 
+T1019 Personal care ser per 15 min Personal care services per 15 minutes not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1020 Personal care ser per diem Personal care services per diem not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1021 Hh aide or cn aide per visit Home health aide or certified nurse assistant per visit 
+T1022 Contracted services per day Contracted home health agency services all services provided under contract per day 
+T1023 Program intake assessment Screening to determine the appropriateness of consideration of an individual for participation in a specified program project or treatment protocol per encounter 
+T1024 Team evaluation & management Evaluation and treatment by an integrated specialty team contracted to provide coordinated care to multiple or severely handicapped children per encounter 
+T1025 Ped compr care pkg per diem Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical mental and psychosocial impairments per diem 
+T1026 Ped compr care pkg per hour Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical medical and psychosocial impairments per hour 
+T1027 Family training & counseling Family training and counseling for child development per 15 minutes 
+T1028 Home environment assessment Assessment of home physical and family environment to determine suitability to meet patient's medical needs 
+T1029 Dwelling lead investigation Comprehensive environmental lead investigation not including laboratory analysis per dwelling 
+T1030 Rn home care per diem Nursing care in the home by registered nurse per diem 
+T1031 Lpn home care per diem Nursing care in the home by licensed practical nurse per diem 
+T1040 Comm bh clinic svc per diem Medicaid certified community behavioral health clinic services per diem 
+T1041 Comm bh clinic svc per month Medicaid certified community behavioral health clinic services per month 
+T1502 Medication admin visit Administration of oral intramuscular and/or subcutaneous medication by health care agency/professional per visit 
+T1503 Med admin not oral/inject Administration of medication other than oral and/or injectable by a health care agency/professional per visit 
+T1505 Elec med comp dev noc Electronic medication compliance management device includes all components and accessories not otherwise classified 
+T1999 Noc retail items andsupplies Miscellaneous therapeutic items and supplies retail purchases not otherwise classified; identify product in "remarks" 
+T2001 N-et; patient attend/escort Non-emergency transportation; patient attendant/escort 
+T2002 N-et; per diem Non-emergency transportation; per diem 
+T2003 N-et; encounter/trip Non-emergency transportation; encounter/trip 
+T2004 N-et; commerc carrier pass Non-emergency transport; commercial carrier multi-pass 
+T2005 N-et; stretcher van Non-emergency transportation; stretcher van 
+T2007 Non-emer transport wait time Transportation waiting time air ambulance and non-emergency vehicle one-half (1/2) hour increments 
+T2010 Pasrr level i Preadmission screening and resident review (pasrr) level i identification screening per screen 
+T2011 Pasrr level ii Preadmission screening and resident review (pasrr) level ii evaluation per evaluation 
+T2012 Habil ed waiver per diem Habilitation educational; waiver per diem 
+T2013 Habil ed waiver per hour Habilitation educational waiver; per hour 
+T2014 Habil prevoc waiver per d Habilitation prevocational waiver; per diem 
+T2015 Habil prevoc waiver per hr Habilitation prevocational waiver; per hour 
+T2016 Habil res waiver per diem Habilitation residential waiver; per diem 
+T2017 Habil res waiver 15 min Habilitation residential waiver; 15 minutes 
+T2018 Habil sup empl waiver/diem Habilitation supported employment waiver; per diem 
+T2019 Habil sup empl waiver 15min Habilitation supported employment waiver; per 15 minutes 
+T2020 Day habil waiver per diem Day habilitation waiver; per diem 
+T2021 Day habil waiver per 15 min Day habilitation waiver; per 15 minutes 
+T2022 Case management per month Case management per month 
+T2023 Targeted case mgmt per month Targeted case management; per month 
+T2024 Serv asmnt/care plan waiver Service assessment/plan of care development waiver 
+T2025 Waiver service nos Waiver services; not otherwise specified (nos) 
+T2026 Special childcare waiver/d Specialized childcare waiver; per diem 
+T2027 Spec childcare waiver 15 min Specialized childcare waiver; per 15 minutes 
+T2028 Special supply nos waiver Specialized supply not otherwise specified waiver 
+T2029 Special med equip noswaiver Specialized medical equipment not otherwise specified waiver 
+T2030 Assist living waiver/month Assisted living waiver; per month 
+T2031 Assist living waiver/diem Assisted living; waiver per diem 
+T2032 Res care nos waiver/month Residential care not otherwise specified (nos) waiver; per month 
+T2033 Res nos waiver per diem Residential care not otherwise specified (nos) waiver; per diem 
+T2034 Crisis interven waiver/diem Crisis intervention waiver; per diem 
+T2035 Utility services waiver Utility services to support medical equipment and assistive technology/devices waiver 
+T2036 Camp overnite waiver/session Therapeutic camping overnight waiver; each session 
+T2037 Camp day waiver/session Therapeutic camping day waiver; each session 
+T2038 Comm trans waiver/service Community transition waiver; per service 
+T2039 Vehicle mod waiver/service Vehicle modifications waiver; per service 
+T2040 Financial mgt waiver/15min Financial management self-directed waiver; per 15 minutes 
+T2041 Support broker waiver/15 min Supports brokerage self-directed waiver; per 15 minutes 
+T2042 Hospice routine home care Hospice routine home care; per diem 
+T2043 Hospice continuous home care Hospice continuous home care; per hour 
+T2044 Hospice respite care Hospice inpatient respite care; per diem 
+T2045 Hospice general care Hospice general inpatient care; per diem 
+T2046 Hospice long term care r&b Hospice long term care room and board only; per diem 
+T2048 Bh ltc res r&b per diem Behavioral health; long-term care residential (non-acute care in a residential treatment program where stay is typically longer than 30 days) with room and board per diem 
+T2049 N-et; stretcher van mileage Non-emergency transportation; stretcher van mileage; per mile 
+T2101 Breast milk proc/store/dist Human breast milk processing storage and distribution only 
+T4521 Adult size brief/diaper sm Adult sized disposable incontinence product brief/diaper small each 
+T4522 Adult size brief/diaper med Adult sized disposable incontinence product brief/diaper medium each 
+T4523 Adult size brief/diaper lg Adult sized disposable incontinence product brief/diaper large each 
+T4524 Adult size brief/diaper xl Adult sized disposable incontinence product brief/diaper extra large each 
+T4525 Adult size pull-on sm Adult sized disposable incontinence product protective underwear/pull-on small size each 
+T4526 Adult size pull-on med Adult sized disposable incontinence product protective underwear/pull-on medium size each 
+T4527 Adult size pull-on lg Adult sized disposable incontinence product protective underwear/pull-on large size each 
+T4528 Adult size pull-on xl Adult sized disposable incontinence product protective underwear/pull-on extra large size each 
+T4529 Ped size brief/diaper sm/med Pediatric sized disposable incontinence product brief/diaper small/medium size each 
+T4530 Ped size brief/diaper lg Pediatric sized disposable incontinence product brief/diaper large size each 
+T4531 Ped size pull-on sm/med Pediatric sized disposable incontinence product protective underwear/pull-on small/medium size each 
+T4532 Ped size pull-on lg Pediatric sized disposable incontinence product protective underwear/pull-on large size each 
+T4533 Youth size brief/diaper Youth sized disposable incontinence product brief/diaper each 
+T4534 Youth size pull-on Youth sized disposable incontinence product protective underwear/pull-on each 
+T4535 Disposable liner/shield/pad Disposable liner/shield/guard/pad/undergarment for incontinence each 
+T4536 Reusable pull-on any size Incontinence product protective underwear/pull-on reusable any size each 
+T4537 Reusable underpad bed size Incontinence product protective underpad reusable bed size each 
+T4538 Diaper serv reusable diaper Diaper service reusable diaper each diaper 
+T4539 Reuse diaper/brief any size Incontinence product diaper/brief reusable any size each 
+T4540 Reusable underpad chair size Incontinence product protective underpad reusable chair size each 
+T4541 Large disposable underpad Incontinence product disposable underpad large each 
+T4542 Small disposable underpad Incontinence product disposable underpad small size each 
+T4543 Adult disp brief/diap abv xl Adult sized disposable incontinence product protective brief/diaper above extra large each 
+T4544 Adlt disp und/pull on abv xl Adult sized disposable incontinence product protective underwear/pull-on above extra large each 
+T4545 Incon disposable penile wrap Incontinence product disposable penile wrap each 
+T5001 Position seat spec orth need Positioning seat for persons with special orthopedic needs 
+T5999 Supply nos Supply not otherwise specified 
+T1000 Private duty/independent nsg Private duty / independent nursing service(s) - licensed up to 15 minutes 
+T1001 Nursing assessment/evaluatn Nursing assessment / evaluation 
+T1002 Rn services up to 15 minutes Rn services up to 15 minutes 
+T1003 Lpn/lvn services up to 15min Lpn/lvn services up to 15 minutes 
+T1004 Nsg aide service up to 15min Services of a qualified nursing aide up to 15 minutes 
+T1005 Respite care service 15 min Respite care services up to 15 minutes 
+T1006 Family/couple counseling Alcohol and/or substance abuse services family/couple counseling 
+T1007 Treatment plan development Alcohol and/or substance abuse services treatment plan development and/or modification 
+T1009 Child sitting services Child sitting services for children of the individual receiving alcohol and/or substance abuse services 
+T1010 Meals when receive services Meals for individuals receiving alcohol and/or substance abuse services (when meals not included in the program) 
+T1012 Alcohol/substance abuse skil Alcohol and/or substance abuse services skills development 
+T1013 Sign lang/oral interpreter Sign language or oral interpretive services per 15 minutes 
+T1014 Telehealth transmit per min Telehealth transmission per minute professional services bill separately 
+T1015 Clinic service Clinic visit/encounter all-inclusive 
+T1016 Case management Case management each 15 minutes 
+T1017 Targeted case management Targeted case management each 15 minutes 
+T1018 School-based iep ser bundled School-based individualized education program (iep) services bundled 
+T1019 Personal care ser per 15 min Personal care services per 15 minutes not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1020 Personal care ser per diem Personal care services per diem not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1021 Hh aide or cn aide per visit Home health aide or certified nurse assistant per visit 
+T1022 Contracted services per day Contracted home health agency services all services provided under contract per day 
+T1023 Program intake assessment Screening to determine the appropriateness of consideration of an individual for participation in a specified program project or treatment protocol per encounter 
+T1024 Team evaluation & management Evaluation and treatment by an integrated specialty team contracted to provide coordinated care to multiple or severely handicapped children per encounter 
+T1025 Ped compr care pkg per diem Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical mental and psychosocial impairments per diem 
+T1026 Ped compr care pkg per hour Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical medical and psychosocial impairments per hour 
+T1027 Family training & counseling Family training and counseling for child development per 15 minutes 
+T1028 Home environment assessment Assessment of home physical and family environment to determine suitability to meet patient's medical needs 
+T1029 Dwelling lead investigation Comprehensive environmental lead investigation not including laboratory analysis per dwelling 
+T1030 Rn home care per diem Nursing care in the home by registered nurse per diem 
+T1031 Lpn home care per diem Nursing care in the home by licensed practical nurse per diem 
+T1040 Comm bh clinic svc per diem Medicaid certified community behavioral health clinic services per diem 
+T1041 Comm bh clinic svc per month Medicaid certified community behavioral health clinic services per month 
+T1502 Medication admin visit Administration of oral intramuscular and/or subcutaneous medication by health care agency/professional per visit 
+T1503 Med admin not oral/inject Administration of medication other than oral and/or injectable by a health care agency/professional per visit 
+T1505 Elec med comp dev noc Electronic medication compliance management device includes all components and accessories not otherwise classified 
+T1999 Noc retail items andsupplies Miscellaneous therapeutic items and supplies retail purchases not otherwise classified; identify product in "remarks" 
+T2001 N-et; patient attend/escort Non-emergency transportation; patient attendant/escort 
+T2002 N-et; per diem Non-emergency transportation; per diem 
+T2003 N-et; encounter/trip Non-emergency transportation; encounter/trip 
+T2004 N-et; commerc carrier pass Non-emergency transport; commercial carrier multi-pass 
+T2005 N-et; stretcher van Non-emergency transportation; stretcher van 
+T2007 Non-emer transport wait time Transportation waiting time air ambulance and non-emergency vehicle one-half (1/2) hour increments 
+T2010 Pasrr level i Preadmission screening and resident review (pasrr) level i identification screening per screen 
+T2011 Pasrr level ii Preadmission screening and resident review (pasrr) level ii evaluation per evaluation 
+T2012 Habil ed waiver per diem Habilitation educational; waiver per diem 
+T2013 Habil ed waiver per hour Habilitation educational waiver; per hour 
+T2014 Habil prevoc waiver per d Habilitation prevocational waiver; per diem 
+T2015 Habil prevoc waiver per hr Habilitation prevocational waiver; per hour 
+T2016 Habil res waiver per diem Habilitation residential waiver; per diem 
+T2017 Habil res waiver 15 min Habilitation residential waiver; 15 minutes 
+T2018 Habil sup empl waiver/diem Habilitation supported employment waiver; per diem 
+T2019 Habil sup empl waiver 15min Habilitation supported employment waiver; per 15 minutes 
+T2020 Day habil waiver per diem Day habilitation waiver; per diem 
+T2021 Day habil waiver per 15 min Day habilitation waiver; per 15 minutes 
+T2022 Case management per month Case management per month 
+T2023 Targeted case mgmt per month Targeted case management; per month 
+T2024 Serv asmnt/care plan waiver Service assessment/plan of care development waiver 
+T2025 Waiver service nos Waiver services; not otherwise specified (nos) 
+T2026 Special childcare waiver/d Specialized childcare waiver; per diem 
+T2027 Spec childcare waiver 15 min Specialized childcare waiver; per 15 minutes 
+T2028 Special supply nos waiver Specialized supply not otherwise specified waiver 
+T2029 Special med equip noswaiver Specialized medical equipment not otherwise specified waiver 
+T2030 Assist living waiver/month Assisted living waiver; per month 
+T2031 Assist living waiver/diem Assisted living; waiver per diem 
+T2032 Res care nos waiver/month Residential care not otherwise specified (nos) waiver; per month 
+T2033 Res nos waiver per diem Residential care not otherwise specified (nos) waiver; per diem 
+T2034 Crisis interven waiver/diem Crisis intervention waiver; per diem 
+T2035 Utility services waiver Utility services to support medical equipment and assistive technology/devices waiver 
+T2036 Camp overnite waiver/session Therapeutic camping overnight waiver; each session 
+T2037 Camp day waiver/session Therapeutic camping day waiver; each session 
+T2038 Comm trans waiver/service Community transition waiver; per service 
+T2039 Vehicle mod waiver/service Vehicle modifications waiver; per service 
+T2040 Financial mgt waiver/15min Financial management self-directed waiver; per 15 minutes 
+T2041 Support broker waiver/15 min Supports brokerage self-directed waiver; per 15 minutes 
+T2042 Hospice routine home care Hospice routine home care; per diem 
+T2043 Hospice continuous home care Hospice continuous home care; per hour 
+T2044 Hospice respite care Hospice inpatient respite care; per diem 
+T2045 Hospice general care Hospice general inpatient care; per diem 
+T2046 Hospice long term care r&b Hospice long term care room and board only; per diem 
+T2048 Bh ltc res r&b per diem Behavioral health; long-term care residential (non-acute care in a residential treatment program where stay is typically longer than 30 days) with room and board per diem 
+T2049 N-et; stretcher van mileage Non-emergency transportation; stretcher van mileage; per mile 
+T2101 Breast milk proc/store/dist Human breast milk processing storage and distribution only 
+T4521 Adult size brief/diaper sm Adult sized disposable incontinence product brief/diaper small each 
+T4522 Adult size brief/diaper med Adult sized disposable incontinence product brief/diaper medium each 
+T4523 Adult size brief/diaper lg Adult sized disposable incontinence product brief/diaper large each 
+T4524 Adult size brief/diaper xl Adult sized disposable incontinence product brief/diaper extra large each 
+T4525 Adult size pull-on sm Adult sized disposable incontinence product protective underwear/pull-on small size each 
+T4526 Adult size pull-on med Adult sized disposable incontinence product protective underwear/pull-on medium size each 
+T4527 Adult size pull-on lg Adult sized disposable incontinence product protective underwear/pull-on large size each 
+T4528 Adult size pull-on xl Adult sized disposable incontinence product protective underwear/pull-on extra large size each 
+T4529 Ped size brief/diaper sm/med Pediatric sized disposable incontinence product brief/diaper small/medium size each 
+T4530 Ped size brief/diaper lg Pediatric sized disposable incontinence product brief/diaper large size each 
+T4531 Ped size pull-on sm/med Pediatric sized disposable incontinence product protective underwear/pull-on small/medium size each 
+T4532 Ped size pull-on lg Pediatric sized disposable incontinence product protective underwear/pull-on large size each 
+T4533 Youth size brief/diaper Youth sized disposable incontinence product brief/diaper each 
+T4534 Youth size pull-on Youth sized disposable incontinence product protective underwear/pull-on each 
+T4535 Disposable liner/shield/pad Disposable liner/shield/guard/pad/undergarment for incontinence each 
+T4536 Reusable pull-on any size Incontinence product protective underwear/pull-on reusable any size each 
+T4537 Reusable underpad bed size Incontinence product protective underpad reusable bed size each 
+T4538 Diaper serv reusable diaper Diaper service reusable diaper each diaper 
+T4539 Reuse diaper/brief any size Incontinence product diaper/brief reusable any size each 
+T4540 Reusable underpad chair size Incontinence product protective underpad reusable chair size each 
+T4541 Large disposable underpad Incontinence product disposable underpad large each 
+T4542 Small disposable underpad Incontinence product disposable underpad small size each 
+T4543 Adult disp brief/diap abv xl Adult sized disposable incontinence product protective brief/diaper above extra large each 
+T4544 Adlt disp und/pull on abv xl Adult sized disposable incontinence product protective underwear/pull-on above extra large each 
+T4545 Incon disposable penile wrap Incontinence product disposable penile wrap each 
+T5001 Position seat spec orth need Positioning seat for persons with special orthopedic needs 
+T5999 Supply nos Supply not otherwise specified 
+T1000 Private duty/independent nsg Private duty / independent nursing service(s) - licensed up to 15 minutes 
+T1001 Nursing assessment/evaluatn Nursing assessment / evaluation 
+T1002 Rn services up to 15 minutes Rn services up to 15 minutes 
+T1003 Lpn/lvn services up to 15min Lpn/lvn services up to 15 minutes 
+T1004 Nsg aide service up to 15min Services of a qualified nursing aide up to 15 minutes 
+T1005 Respite care service 15 min Respite care services up to 15 minutes 
+T1006 Family/couple counseling Alcohol and/or substance abuse services family/couple counseling 
+T1007 Treatment plan development Alcohol and/or substance abuse services treatment plan development and/or modification 
+T1009 Child sitting services Child sitting services for children of the individual receiving alcohol and/or substance abuse services 
+T1010 Meals when receive services Meals for individuals receiving alcohol and/or substance abuse services (when meals not included in the program) 
+T1012 Alcohol/substance abuse skil Alcohol and/or substance abuse services skills development 
+T1013 Sign lang/oral interpreter Sign language or oral interpretive services per 15 minutes 
+T1014 Telehealth transmit per min Telehealth transmission per minute professional services bill separately 
+T1015 Clinic service Clinic visit/encounter all-inclusive 
+T1016 Case management Case management each 15 minutes 
+T1017 Targeted case management Targeted case management each 15 minutes 
+T1018 School-based iep ser bundled School-based individualized education program (iep) services bundled 
+T1019 Personal care ser per 15 min Personal care services per 15 minutes not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1020 Personal care ser per diem Personal care services per diem not for an inpatient or resident of a hospital nursing facility icf/mr or imd part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant) 
+T1021 Hh aide or cn aide per visit Home health aide or certified nurse assistant per visit 
+T1022 Contracted services per day Contracted home health agency services all services provided under contract per day 
+T1023 Program intake assessment Screening to determine the appropriateness of consideration of an individual for participation in a specified program project or treatment protocol per encounter 
+T1024 Team evaluation & management Evaluation and treatment by an integrated specialty team contracted to provide coordinated care to multiple or severely handicapped children per encounter 
+T1025 Ped compr care pkg per diem Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical mental and psychosocial impairments per diem 
+T1026 Ped compr care pkg per hour Intensive extended multidisciplinary services provided in a clinic setting to children with complex medical physical medical and psychosocial impairments per hour 
+T1027 Family training & counseling Family training and counseling for child development per 15 minutes 
+T1028 Home environment assessment Assessment of home physical and family environment to determine suitability to meet patient's medical needs 
+T1029 Dwelling lead investigation Comprehensive environmental lead investigation not including laboratory analysis per dwelling 
+T1030 Rn home care per diem Nursing care in the home by registered nurse per diem 
+T1031 Lpn home care per diem Nursing care in the home by licensed practical nurse per diem 
+T1040 Comm bh clinic svc per diem Medicaid certified community behavioral health clinic services per diem 
+T1041 Comm bh clinic svc per month Medicaid certified community behavioral health clinic services per month 
+T1502 Medication admin visit Administration of oral intramuscular and/or subcutaneous medication by health care agency/professional per visit 
+T1503 Med admin not oral/inject Administration of medication other than oral and/or injectable by a health care agency/professional per visit 
+T1505 Elec med comp dev noc Electronic medication compliance management device includes all components and accessories not otherwise classified 
+T1999 Noc retail items andsupplies Miscellaneous therapeutic items and supplies retail purchases not otherwise classified; identify product in "remarks" 
+T2001 N-et; patient attend/escort Non-emergency transportation; patient attendant/escort 
+T2002 N-et; per diem Non-emergency transportation; per diem 
+T2003 N-et; encounter/trip Non-emergency transportation; encounter/trip 
+T2004 N-et; commerc carrier pass Non-emergency transport; commercial carrier multi-pass 
+T2005 N-et; stretcher van Non-emergency transportation; stretcher van 
+T2007 Non-emer transport wait time Transportation waiting time air ambulance and non-emergency vehicle one-half (1/2) hour increments 
+T2010 Pasrr level i Preadmission screening and resident review (pasrr) level i identification screening per screen 
+T2011 Pasrr level ii Preadmission screening and resident review (pasrr) level ii evaluation per evaluation 
+T2012 Habil ed waiver per diem Habilitation educational; waiver per diem 
+T2013 Habil ed waiver per hour Habilitation educational waiver; per hour 
+T2014 Habil prevoc waiver per d Habilitation prevocational waiver; per diem 
+T2015 Habil prevoc waiver per hr Habilitation prevocational waiver; per hour 
+T2016 Habil res waiver per diem Habilitation residential waiver; per diem 
+T2017 Habil res waiver 15 min Habilitation residential waiver; 15 minutes 
+T2018 Habil sup empl waiver/diem Habilitation supported employment waiver; per diem 
+T2019 Habil sup empl waiver 15min Habilitation supported employment waiver; per 15 minutes 
+T2020 Day habil waiver per diem Day habilitation waiver; per diem 
+T2021 Day habil waiver per 15 min Day habilitation waiver; per 15 minutes 
+T2022 Case management per month Case management per month 
+T2023 Targeted case mgmt per month Targeted case management; per month 
+T2024 Serv asmnt/care plan waiver Service assessment/plan of care development waiver 
+T2025 Waiver service nos Waiver services; not otherwise specified (nos) 
+T2026 Special childcare waiver/d Specialized childcare waiver; per diem 
+T2027 Spec childcare waiver 15 min Specialized childcare waiver; per 15 minutes 
+T2028 Special supply nos waiver Specialized supply not otherwise specified waiver 
+T2029 Special med equip noswaiver Specialized medical equipment not otherwise specified waiver 
+T2030 Assist living waiver/month Assisted living waiver; per month 
+T2031 Assist living waiver/diem Assisted living; waiver per diem 
+T2032 Res care nos waiver/month Residential care not otherwise specified (nos) waiver; per month 
+T2033 Res nos waiver per diem Residential care not otherwise specified (nos) waiver; per diem 
+T2034 Crisis interven waiver/diem Crisis intervention waiver; per diem 
+T2035 Utility services waiver Utility services to support medical equipment and assistive technology/devices waiver 
+T2036 Camp overnite waiver/session Therapeutic camping overnight waiver; each session 
+T2037 Camp day waiver/session Therapeutic camping day waiver; each session 
+T2038 Comm trans waiver/service Community transition waiver; per service 
+T2039 Vehicle mod waiver/service Vehicle modifications waiver; per service 
+T2040 Financial mgt waiver/15min Financial management self-directed waiver; per 15 minutes 
+T2041 Support broker waiver/15 min Supports brokerage self-directed waiver; per 15 minutes 
+T2042 Hospice routine home care Hospice routine home care; per diem 
+T2043 Hospice continuous home care Hospice continuous home care; per hour 
+T2044 Hospice respite care Hospice inpatient respite care; per diem 
+T2045 Hospice general care Hospice general inpatient care; per diem 
+T2046 Hospice long term care r&b Hospice long term care room and board only; per diem 
+T2048 Bh ltc res r&b per diem Behavioral health; long-term care residential (non-acute care in a residential treatment program where stay is typically longer than 30 days) with room and board per diem 
+T2049 N-et; stretcher van mileage Non-emergency transportation; stretcher van mileage; per mile 
+T2101 Breast milk proc/store/dist Human breast milk processing storage and distribution only 
+T4521 Adult size brief/diaper sm Adult sized disposable incontinence product brief/diaper small each 
+T4522 Adult size brief/diaper med Adult sized disposable incontinence product brief/diaper medium each 
+T4523 Adult size brief/diaper lg Adult sized disposable incontinence product brief/diaper large each 
+T4524 Adult size brief/diaper xl Adult sized disposable incontinence product brief/diaper extra large each 
+T4525 Adult size pull-on sm Adult sized disposable incontinence product protective underwear/pull-on small size each 
+T4526 Adult size pull-on med Adult sized disposable incontinence product protective underwear/pull-on medium size each 
+T4527 Adult size pull-on lg Adult sized disposable incontinence product protective underwear/pull-on large size each 
+T4528 Adult size pull-on xl Adult sized disposable incontinence product protective underwear/pull-on extra large size each 
+T4529 Ped size brief/diaper sm/med Pediatric sized disposable incontinence product brief/diaper small/medium size each 
+T4530 Ped size brief/diaper lg Pediatric sized disposable incontinence product brief/diaper large size each 
+T4531 Ped size pull-on sm/med Pediatric sized disposable incontinence product protective underwear/pull-on small/medium size each 
+T4532 Ped size pull-on lg Pediatric sized disposable incontinence product protective underwear/pull-on large size each 
+T4533 Youth size brief/diaper Youth sized disposable incontinence product brief/diaper each 
+T4534 Youth size pull-on Youth sized disposable incontinence product protective underwear/pull-on each 
+T4535 Disposable liner/shield/pad Disposable liner/shield/guard/pad/undergarment for incontinence each 
+T4536 Reusable pull-on any size Incontinence product protective underwear/pull-on reusable any size each 
+T4537 Reusable underpad bed size Incontinence product protective underpad reusable bed size each 
+T4538 Diaper serv reusable diaper Diaper service reusable diaper each diaper 
+T4539 Reuse diaper/brief any size Incontinence product diaper/brief reusable any size each 
+T4540 Reusable underpad chair size Incontinence product protective underpad reusable chair size each 
+T4541 Large disposable underpad Incontinence product disposable underpad large each 
+T4542 Small disposable underpad Incontinence product disposable underpad small size each 
+T4543 Adult disp brief/diap abv xl Adult sized disposable incontinence product protective brief/diaper above extra large each 
+T4544 Adlt disp und/pull on abv xl Adult sized disposable incontinence product protective underwear/pull-on above extra large each 
+T4545 Incon disposable penile wrap Incontinence product disposable penile wrap each 
+T5001 Position seat spec orth need Positioning seat for persons with special orthopedic needs 
+T5999 Supply nos Supply not otherwise specified 
