@@ -1,10 +1,12 @@
 from os import stat
-from collections import defaultdict
+from collections import defaultdict, namedtuple
+from typing import Dict, NamedTuple
 import pandas
 from CSVParser import CSVParser
 from Hospital import Hospital
 from Treatment import Treatment
 from Category import Category
+from Price import Price
 
 class Driver:
     def __init__(self):
@@ -28,6 +30,7 @@ class Driver:
         self.prices_dataset = 'data/price.csv'
         self.concepts_dataset = 'data/concept.csv'
         self.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
+        self.hospital_index = None
 
 
     def set_treatment_list(self, treatment_list):
@@ -75,7 +78,7 @@ class Driver:
         city_dict = defaultdict(list)
 
         for h in hospitals:
-            city_dict[h['city']].append(Hospital(h['hospital_id'], h['hospital_name'], h['hospital_npi'], h['city'], h['state'], h['affiliation'], h['disclosure']))
+            city_dict[h['city']].append(h)
  
         return city_dict
 
@@ -86,6 +89,7 @@ class Driver:
         h.state = hospital_row['state']
         return h
 
+    # clean up - not used
     @staticmethod
     def create_hospital_list(hospital_dataset):
         hospitals = CSVParser.readfile_to_dict(hospital_dataset)
@@ -272,6 +276,7 @@ class Driver:
 
         return category_index
 
+    # clean up
     @staticmethod
     def create_index_with_given_key(id_field, obj_list):
         """
@@ -283,34 +288,77 @@ class Driver:
             index[obj.__dataclass_fields__[id_field]] = obj
 
         return index
+    
+    def create_hospital_treatment_filtered_dict(self, city):
+        """
+        Creates a dict of dicts of treatment_id (concept_id) keys and a dict value as all matching hospitals for that treatment with value as tuple (hospita, price) objects
+
+        This will only fetch treatments belonging to hospitals in the city parameter using city-hospital index
+
+        output_dict = {
+            treatment_id : {
+                hospital_id: (hospital_object, price_object),
+                hospital_id: (hospital_object, price_object),
+                ...
+            },
+            treatment_id : {
+                hospital_id: (hospital_object, price_object),
+                hospital_id: (hospital_object, price_object),
+                ...
+            },
+            ...
+            ...
+        }
+        """
+        if not self.hospital_index:
+            self.hospital_index = self.create_hospital_index(driver.hospital_list)
+
+        hospitals_in_city_list = self.create_city_dict_of_hopital_list()[city]
+
+        prices = CSVParser.readfile_to_dict(self.prices_dataset)
+
+        prices_filtered = []
+        hospital_id_set = set([h['hospital_id'] for h in hospitals_in_city_list])
+        
+        # Getting only price entries for hospital IDs in city parameter
+        for entry in prices:
+            if entry['hospital_id'] in hospital_id_set:
+                prices_filtered.append(entry)
 
 
-    @staticmethod
-    def get_hospital_by_id(hospital_id):
-        pass
+        print("Treatments avaialble in this city:", len(prices_filtered))
+        
+        # build {treatment_id: {hospital_id: (hospital, price)} dict of dicts
+        treatment_hospital = {}
+        for entry in prices_filtered:
+            treatment_code, hospital_id, price_type, amount = entry['concept_id'], entry['hospital_id'], entry['price'], entry['amount']
+            
+            hospital_obj = self.hospital_index[hospital_id]
+            
+            if hospital_id not in treatment_hospital:
+                p = Price()
+                p.set_price_amount(price_type.lower(), amount)
 
-    @staticmethod
-    def add_treatment_price_data_to_hospitals(prices_dataset, hospital_index):
-        prices_treatments = CSVParser.readfile_to_dict(prices_dataset)
+                treatment_hospital[treatment_code] = dict()
+                treatment_hospital[treatment_code][hospital_id] = (hospital_obj, p)
+            else:
+                hospital_obj, p = treatment_hospital[treatment_code][hospital_id]
+                p.set_price_amount(price_type.lower(), amount)
+                treatment_hospital[treatment_code][hospital_id] = (hospital_obj, p)
 
-        # for entry in prices_treatments:
-        #     # each entry is a dict e.g {'hospital_id': '1', 'concept_id': '2101827', 'price': 'gross', 'amount': '9221'}
-        #     if 'hospital_id' in entry.keys():
-        #         if entry['hospital_id'] in hospital_index.keys():
-        #             hospital = hospital_index[entry['hospital_id']]
-        #             hospital.add_new_treatment_by_id(entry['concept_id'])
+        return treatment_hospital
    
 
 if __name__ == '__main__':
     
     driver = Driver()
     
-    # Add proper path checking and move these values to config 
-    driver.categories_dataset = 'data/hcpcs_categories.csv'
+    # driver.categories_dataset = 'data/hcpcs_categories.csv'
     #driver.hospital_dataset = 'data/hospital.csv'
-    driver.prices_dataset = 'data/price.csv'
-    driver.concepts_dataset = 'data/concept.csv'
-    driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
+    # driver.prices_dataset = 'data/price.csv'
+    # driver.concepts_dataset = 'data/concept.csv'
+    # driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
+
     
     driver.treatment_list = driver.create_treatment_list(driver.concepts_dataset)
     driver.hospital_list = driver.create_hospital_list(driver.hospital_dataset)
@@ -318,14 +366,14 @@ if __name__ == '__main__':
     driver.prices_dict = driver.create_price_dict(driver.prices_dataset)
 
     city_dict = driver.create_city_dict_of_hopital_list()
-    for c in city_dict['New Bern']:
-        print(c.name)
+    for c in city_dict['Hickory']:
+        print(c)
 
 
     hospital_index = hospital_index = driver.create_hospital_index(driver.hospital_list)
     treatment_index = treatment_index = driver.create_treatment_index(driver.treatment_list)
     category_index = category_index = driver.create_category_index(driver.category_list)
-    #driver.add_treatment_price_data_to_hospitals(driver.prices_dataset, hospital_index)
+
     
     #create files by category that contain hcpcs, short description, long description separated by spaces. 
     driver.category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, driver.category_name_set) 
@@ -341,3 +389,4 @@ if __name__ == '__main__':
     print(hospital_index['1'].name)
     print(treatment_index['43533189'])
 
+    print(driver.create_hospital_treatment_filtered_dict("Winston-Salem", None, None))
