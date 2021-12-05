@@ -9,9 +9,9 @@ def main():
 
     print("Hello! Welcome to the Search System For Hospital Transparency Data.")
     patient_name = input("Please enter your name: ")
-    patient_state = input("Please enter the state you live in (abbreviation): ")
+    patient_city = input("Please enter the city you live in: ")
 
-    p = Patient(patient_name, patient_state)
+    p = Patient(patient_name, patient_city)
 
     # need to update after getting all the categories we have
     category_code = input("What kind of service are you looking for today?\n"
