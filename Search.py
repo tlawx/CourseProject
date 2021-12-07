@@ -1,11 +1,16 @@
 from meta import Meta
 from driver import Driver
-
+from CSVParser import CSVParser
+from Treatment import Treatment
 
 class Search:
     treatment_codes = []  # one dim
     treatment_long_description_list = []  # two (2) dims ?
     categories = []
+    treatment_object_list = []
+    category_dataset = 'data/hcpcs_categories.csv'
+    category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
+    concepts_dataset = 'data/concept.csv'
 
     def __init__(self, category_code, query):
         self.category_code = category_code
@@ -40,8 +45,54 @@ class Search:
         for tup in treatments: 
             index_list.append(tup[0])
         return index_list
+    
+    def create_treatment_hcpcs_index(treatment_obj_list): 
+        """
+        Creates a dict of treatment_id (keys) and treatment objects (values)
+        """
+        treatment_index = {}
+
+        for treatment_obj in treatment_obj_list:
+            treatment_index[treatment_obj.concept_code] = treatment_obj
+
+        return treatment_index
+
+    def get_treatment_objects(self, rel_treatment_list):
+        # TODO: 
+        treatments = CSVParser.readfile_to_dict(self.concepts_dataset)
+        treatment_obj_index = {}
+
+        for t in treatments:
+            treatment_obj_index[t['concept_code']] = Treatment(t['concept_id'], t['concept_code'], t['vocabulary_id'], t['concept_name'])
+ 
+        categories = CSVParser.readfile_to_dict(self.category_dataset)
+        category_name_set = set()
+        for line in categories:
+            category_name_set.add(line['category_letter'])
+
+        category_descriptions = CSVParser.readfile_to_dict(self.category_description_dataset)
+        index_treatment_objs = []
+        relevant_treatment_objs = []
+        #f = (open('files_for_config/all_treatments.csv', 'a'))
+
+        for l in category_descriptions: 
+            index_treatment_objs.append(treatment_obj_index[l['hcpcs_code']])
+            #f.write("%s %s %s \n" % (l['hcpcs_code'], l['short_description'], l['long_description']))
+        
+        #f.close()
+        if rel_treatment_list is not []: 
+            print("Best Matches: ")
+            for i in rel_treatment_list: 
+                print(index_treatment_objs[i].treatment_name)
+                relevant_treatment_objs.append(index_treatment_objs[i].treatment_name)
+        else: 
+            print("No Found Matches")
+
+        return relevant_treatment_objs
 
 if __name__ == "__main__":
+
+    
 
     driver = Driver()
 
@@ -64,24 +115,25 @@ if __name__ == "__main__":
     driver.set_category_treatment_dict_list(category_treatment_dict_list)
 
     test_category = "A"
-    test_query = "wind"
+    test_query = "air"
     print("Test Query Category Letter: ", test_category)
     print("Test Query: ", test_query)
     
-
-
     s = Search(test_category, test_query)
     rel_treatment_tuples = s.find_possible_treatments()
-
     
     rel_treatment_list = s.get_treatment_list(rel_treatment_tuples)
+    rel_treatment_objects = s.get_treatment_objects(rel_treatment_list)
 
-    if rel_treatment_list is []: 
-        print("Best Matches: ")
-        for i in rel_treatment_list: 
-            print(category_dict_list_hcpcs['A'][i]+" "+category_treatment_dict['A'][category_dict_list_hcpcs['A'][i]].treatment_name)
-    else: 
-        print("No Found Matches")
+
+    #if rel_treatment_list is []: 
+     #   print("Best Matches: ")
+      #  for i in rel_treatment_list: 
+       #     print(category_dict_list_hcpcs['A'][i]+" "+category_treatment_dict['A'][category_dict_list_hcpcs['A'][i]].treatment_name)
+    #else: 
+     #   print("No Found Matches")
+
+
     #for testing
     # test_treatment_codes = ['A0021', 'B4034', 'C1300'] # load list of treatment HCPCS
     # test_treatment_descriptions_long = ['Ambulance service, outside state per mile, transport (medicaid only)', 'Enteral feeding supply kit; syringe fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape','Hyperbaric oxygen under pressure, full body chamber, per 30 minute interval']
