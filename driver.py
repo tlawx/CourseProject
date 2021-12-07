@@ -1,4 +1,5 @@
 from os import stat
+import re
 from collections import defaultdict, namedtuple
 from typing import Dict, NamedTuple
 import pandas
@@ -78,7 +79,7 @@ class Driver:
         city_dict = defaultdict(list)
 
         for h in hospitals:
-            city_dict[h['city']].append(h)
+            city_dict[re.sub('[^\w\s]'," ",h['city'])].append(h)
  
         return city_dict
 
@@ -312,7 +313,7 @@ class Driver:
         }
         """
         if not self.hospital_index:
-            self.hospital_index = self.create_hospital_index(driver.hospital_list)
+            self.hospital_index = self.create_hospital_index(self.hospital_list)
 
         hospitals_in_city_list = self.create_city_dict_of_hopital_list()[city]
 
