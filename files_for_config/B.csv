@@ -5898,3 +5898,853 @@ B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable
 B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
 B9998 Enteral supp not otherwise c Noc for enteral supplies 
 B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
+B4034 Enter feed supkit syr by day Enteral feeding supply kit; syringe fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4035 Enteral feed supp pump per d Enteral feeding supply kit; pump fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4036 Enteral feed sup kit grav by Enteral feeding supply kit; gravity fed per day includes but not limited to feeding/flushing syringe administration set tubing dressings tape 
+B4081 Enteral ng tubing w/ stylet Nasogastric tubing with stylet 
+B4082 Enteral ng tubing w/o stylet Nasogastric tubing without stylet 
+B4083 Enteral stomach tube levine Stomach tube - levine type 
+B4087 Gastro/jejuno tube std Gastrostomy/jejunostomy tube standard any material any type each 
+B4088 Gastro/jejuno tube low-pro Gastrostomy/jejunostomy tube low-profile any material any type each 
+B4100 Food thickener oral Food thickener administered orally per ounce 
+B4102 Ef adult fluids and electro Enteral formula for adults used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4103 Ef ped fluid and electrolyte Enteral formula for pediatrics used to replace fluids and electrolytes (e.g. clear liquids) 500 ml = 1 unit 
+B4104 Additive for enteral formula Additive for enteral formula (e.g. fiber) 
+B4105 Enzyme cartridge enteral nut In-line cartridge containing digestive enzyme(s) for enteral feeding each 
+B4149 Ef blenderized foods Enteral formula manufactured blenderized natural foods with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4150 Ef complet w/intact nutrient Enteral formula nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4152 Ef calorie dense>/=1.5kcal Enteral formula nutritionally complete calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4153 Ef hydrolyzed/amino acids Enteral formula nutritionally complete hydrolyzed proteins (amino acids and peptide chain) includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4154 Ef spec metabolic noninherit Enteral formula nutritionally complete for special metabolic needs excludes inherited disease of metabolism includes altered composition of proteins fats carbohydrates vitamins and/or minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4155 Ef incomplete/modular Enteral formula nutritionally incomplete/modular nutrients includes specific nutrients carbohydrates (e.g. glucose polymers) proteins/amino acids (e.g. glutamine arginine) fat (e.g. medium chain triglycerides) or combination administered through an enteral feeding tube 100 calories = 1 unit 
+B4157 Ef special metabolic inherit Enteral formula nutritionally complete for special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4158 Ef ped complete intact nut Enteral formula for pediatrics nutritionally complete with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4159 Ef ped complete soy based Enteral formula for pediatrics nutritionally complete soy based with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber and/or iron administered through an enteral feeding tube 100 calories = 1 unit 
+B4160 Ef ped caloric dense>/=0.7kc Enteral formula for pediatrics nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4161 Ef ped hydrolyzed/amino acid Enteral formula for pediatrics hydrolyzed/amino acids and peptide chain proteins includes fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4162 Ef ped specmetabolic inherit Enteral formula for pediatrics special metabolic needs for inherited disease of metabolism includes proteins fats carbohydrates vitamins and minerals may include fiber administered through an enteral feeding tube 100 calories = 1 unit 
+B4164 Parenteral 50% dextrose solu Parenteral nutrition solution: carbohydrates (dextrose) 50% or less (500 ml = 1 unit) - home mix 
+B4168 Parenteral sol amino acid 3. Parenteral nutrition solution; amino acid 3.5% (500 ml = 1 unit) - home mix 
+B4172 Parenteral sol amino acid 5. Parenteral nutrition solution; amino acid 5.5% through 7% (500 ml = 1 unit) - home mix 
+B4176 Parenteral sol amino acid 7- Parenteral nutrition solution; amino acid 7% through 8.5% (500 ml = 1 unit) - home mix 
+B4178 Parenteral sol amino acid > Parenteral nutrition solution: amino acid greater than 8.5% (500 ml = 1 unit) - home mix 
+B4180 Parenteral sol carb > 50% Parenteral nutrition solution; carbohydrates (dextrose) greater than 50% (500 ml = 1 unit) - home mix 
+B4185 Pn soln nos 10 grams lipids Parenteral nutrition solution not otherwise specified 10 grams lipids 
+B4187 Omegaven 10 grams lipids Omegaven 10 grams lipids 
+B4189 Parenteral sol amino acid & Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 10 to 51 grams of protein - premix 
+B4193 Parenteral sol 52-73 gm prot Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 52 to 73 grams of protein - premix 
+B4197 Parenteral sol 74-100 gm pro Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength 74 to 100 grams of protein - premix 
+B4199 Parenteral sol > 100gm prote Parenteral nutrition solution; compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength over 100 grams of protein - premix 
+B4216 Parenteral nutrition additiv Parenteral nutrition; additives (vitamins trace elements heparin electrolytes) home mix per day 
+B4220 Parenteral supply kit premix Parenteral nutrition supply kit; premix per day 
+B4222 Parenteral supply kit homemi Parenteral nutrition supply kit; home mix per day 
+B4224 Parenteral administration ki Parenteral nutrition administration kit per day 
+B5000 Parenteral sol renal-amirosy Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength renal-aminosyn-rf nephramine renamine-premix 
+B5100 Parenteral solution hepatic Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength hepatic hepatamine-premix 
+B5200 Parenteral sol hepatic fream Parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes trace elements and vitamins including preparation any strength stress-branch chain amino acids-freamine-hbc-premix 
+B9000 Enter infusion pump w/o alrm Enteral nutrition infusion pump - without alarm 
+B9002 Enter nutr inf pump any type Enteral nutrition infusion pump any type 
+B9004 Parenteral infus pump portab Parenteral nutrition infusion pump portable 
+B9006 Parenteral infus pump statio Parenteral nutrition infusion pump stationary 
+B9998 Enteral supp not otherwise c Noc for enteral supplies 
+B9999 Parenteral supp not othrws c Noc for parenteral supplies 
