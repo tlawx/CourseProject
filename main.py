@@ -1,3 +1,4 @@
+import re
 from Patient import Patient
 from Search import Search
 from driver import Driver
@@ -8,6 +9,7 @@ def main():
     print("Hello! Welcome to the Search System For Hospital Transparency Data.")
     patient_name = input("Please enter your name: ")
     patient_city = input("Please enter the city you live in: ")
+    patient_city = re.sub('[^\w\s]'," ",patient_city)
 
     p = Patient(patient_name, patient_city)
 
