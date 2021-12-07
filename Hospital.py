@@ -66,7 +66,7 @@ class Hospital:
         return self.rating
 
     def __str__(self):
-        return "id: {}, name: {}".format(self.hospital_id, self.name)
+        return "Hospital NPI: {}, Hospital Name: {}".format(self.npi, self.name)
 
     def __repr__(self):
-        return "id: {}, name: {}".format(self.hospital_id, self.name)
+        return "Hospital NPI: {}, Hospital Name: {}".format(self.npi, self.name)
