@@ -7558,3 +7558,1403 @@ P9603 One-way allow prorated miles Travel allowance one way in connection with m
 P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
 P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
 P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 
+P2028 Cephalin floculation test Cephalin floculation blood 
+P2029 Congo red blood test Congo red blood 
+P2031 Hair analysis Hair analysis (excluding arsenic) 
+P2033 Blood thymol turbidity Thymol turbidity blood 
+P2038 Blood mucoprotein Mucoprotein blood (seromucoid) (medical necessity procedure) 
+P3000 Screen pap by tech w md supv Screening papanicolaou smear cervical or vaginal up to three smears by technician under physician supervision 
+P3001 Screening pap smear by phys Screening papanicolaou smear cervical or vaginal up to three smears requiring interpretation by physician 
+P7001 Culture bacterial urine Culture bacterial urine; quantitative sensitivity study 
+P9010 Whole blood for transfusion Blood (whole) for transfusion per unit 
+P9011 Blood split unit Blood split unit 
+P9012 Cryoprecipitate each unit Cryoprecipitate each unit 
+P9016 Rbc leukocytes reduced Red blood cells leukocytes reduced each unit 
+P9017 Plasma 1 donor frz w/in 8 hr Fresh frozen plasma (single donor) frozen within 8 hours of collection each unit 
+P9019 Platelets each unit Platelets each unit 
+P9020 Plaelet rich plasma unit Platelet rich plasma each unit 
+P9021 Red blood cells unit Red blood cells each unit 
+P9022 Washed red blood cells unit Red blood cells washed each unit 
+P9023 Frozen plasma pooled sd Plasma pooled multiple donor solvent/detergent treated frozen each unit 
+P9031 Platelets leukocytes reduced Platelets leukocytes reduced each unit 
+P9032 Platelets irradiated Platelets irradiated each unit 
+P9033 Platelets leukoreduced irrad Platelets leukocytes reduced irradiated each unit 
+P9034 Platelets pheresis Platelets pheresis each unit 
+P9035 Platelet pheres leukoreduced Platelets pheresis leukocytes reduced each unit 
+P9036 Platelet pheresis irradiated Platelets pheresis irradiated each unit 
+P9037 Plate pheres leukoredu irrad Platelets pheresis leukocytes reduced irradiated each unit 
+P9038 Rbc irradiated Red blood cells irradiated each unit 
+P9039 Rbc deglycerolized Red blood cells deglycerolized each unit 
+P9040 Rbc leukoreduced irradiated Red blood cells leukocytes reduced irradiated each unit 
+P9041 Albumin (human)5% 50ml Infusion albumin (human) 5% 50 ml 
+P9043 Plasma protein fract5%50ml Infusion plasma protein fraction (human) 5% 50 ml 
+P9044 Cryoprecipitatereducedplasma Plasma cryoprecipitate reduced each unit 
+P9045 Albumin (human) 5% 250 ml Infusion albumin (human) 5% 250 ml 
+P9046 Albumin (human) 25% 20 ml Infusion albumin (human) 25% 20 ml 
+P9047 Albumin (human) 25% 50ml Infusion albumin (human) 25% 50 ml 
+P9048 Plasmaprotein fract5%250ml Infusion plasma protein fraction (human) 5% 250 ml 
+P9050 Granulocytes pheresis unit Granulocytes pheresis each unit 
+P9051 Blood l/r cmv-neg Whole blood or red blood cells leukocytes reduced cmv-negative each unit 
+P9052 Platelets hla-m l/r unit Platelets hla-matched leukocytes reduced apheresis/pheresis each unit 
+P9053 Plt pher l/r cmv-neg irr Platelets pheresis leukocytes reduced cmv-negative irradiated each unit 
+P9054 Blood l/r froz/degly/wash Whole blood or red blood cells leukocytes reduced frozen deglycerol washed each unit 
+P9055 Plt aph/pher l/r cmv-neg Platelets leukocytes reduced cmv-negative apheresis/pheresis each unit 
+P9056 Blood l/r irradiated Whole blood leukocytes reduced irradiated each unit 
+P9057 Rbc frz/deg/wsh l/r irrad Red blood cells frozen/deglycerolized/washed leukocytes reduced irradiated each unit 
+P9058 Rbc l/r cmv-neg irrad Red blood cells leukocytes reduced cmv-negative irradiated each unit 
+P9059 Plasma frz between 8-24hour Fresh frozen plasma between 8-24 hours of collection each unit 
+P9060 Fr frz plasma donor retested Fresh frozen plasma donor retested each unit 
+P9070 Pathogen reduced plasma pool Plasma pooled multiple donor pathogen reduced frozen each unit 
+P9071 Pathogen reduced plasma sing Plasma (single donor) pathogen reduced frozen each unit 
+P9072 Plate path red/rapid bac tes Platelets pheresis pathogen reduced or rapid bacterial tested each unit 
+P9073 Platelets pheresis path redu Platelets pheresis pathogen-reduced each unit 
+P9099 Blood component/product noc Blood component or product not otherwise classified 
+P9100 Pathogen test for platelets Pathogen(s) test for platelets 
+P9603 One-way allow prorated miles Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated miles actually travelled 
+P9604 One-way allow prorated trip Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge 
+P9612 Catheterize for urine spec Catheterization for collection of specimen single patient all places of service 
+P9615 Urine specimen collect mult Catheterization for collection of specimen(s) (multiple patients) 

@@ -19,10 +19,14 @@ class Search:
     def find_possible_treatments(self):
         m = Meta()
         relevant_treatments = m.search_inverted_index(self.query)
-        return relevant_treatments
-
-        # 3. print out treatments, their hospitals, price, hospital link, etc, in a nice format
-        # print_treatment_info(relevant_treatments)
+    
+        if len(relevant_treatments):
+            print("We've found a treatment!")
+        else: 
+            print("Did not find treatment. You'll need try again and enter with another description or HCPCS code.")
+        rel_treatment_objects = self.get_treatment_objects(self.get_treatment_list(relevant_treatments))
+        
+        return rel_treatment_objects
 
     def find_treatments(self):
         if self.query in self.treatment_codes: # HOLD : assume passed HCPCS code
@@ -73,14 +77,21 @@ class Search:
         category_descriptions = CSVParser.readfile_to_dict(self.category_description_dataset)
         index_treatment_objs = []
         relevant_treatment_objs = []
-        #f = (open('files_for_config/all_treatments.csv', 'a'))
+        index_treatment_set = set()
+        f = (open('files_for_config/all_treatments.csv', 'a'))
 
         for l in category_descriptions: 
+            index_treatment_set.add(l['hcpcs_code'])
             index_treatment_objs.append(treatment_obj_index[l['hcpcs_code']])
-            #f.write("%s %s %s \n" % (l['hcpcs_code'], l['short_description'], l['long_description']))
+            f.write("%s %s %s \n" % (l['hcpcs_code'], l['short_description'], l['long_description']))
         
-        #f.close()
-        if rel_treatment_list is not []: 
+        for j in treatments: 
+            if j['concept_code'] not in index_treatment_set:
+                index_treatment_objs.append(treatment_obj_index[j['concept_code']])
+                f.write("%s %s \n" % (j['concept_code'], j['concept_name']))
+
+        f.close()
+        if len(rel_treatment_list) != 0: 
             print("Best Matches: ")
             for i in rel_treatment_list: 
                 print(index_treatment_objs[i].treatment_name)
@@ -122,8 +133,8 @@ if __name__ == "__main__":
     s = Search(test_category, test_query)
     rel_treatment_tuples = s.find_possible_treatments()
     
-    rel_treatment_list = s.get_treatment_list(rel_treatment_tuples)
-    rel_treatment_objects = s.get_treatment_objects(rel_treatment_list)
+    #rel_treatment_list = s.get_treatment_list(rel_treatment_tuples)
+    #rel_treatment_objects = s.get_treatment_objects(rel_treatment_list)
 
 
     #if rel_treatment_list is []: 

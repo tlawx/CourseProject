@@ -73,7 +73,8 @@ def main():
     query = input("What kind of " + category_name + " are you looking for? ")
 
     s = Search(category_code, query)
-    s.find_possible_treatments()
+    relevant_treatment_objects_list = s.find_possible_treatments()
+
 
 if __name__ == "__main__":
     main()
