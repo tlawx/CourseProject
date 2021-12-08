@@ -83,7 +83,7 @@ class Search:
 
         f.close()
         if len(rel_treatment_list) != 0: 
-            print("We Found Treatment Matches! ")
+            #print("We Found Treatment Matches! ")
             for i in rel_treatment_list: 
                 #print(index_treatment_objs[i].concept_id)
                 #relevant_treatment_objs[index_treatment_objs[i].concept_code] = index_treatment_objs[i]

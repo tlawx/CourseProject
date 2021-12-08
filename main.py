@@ -19,22 +19,28 @@ def main():
         s = Search(query)
         relevant_treatment_objects = s.find_possible_treatments()
 
-        if len(relevant_treatment_objects) == 0:
-            break
+        if relevant_treatment_objects != 1:
+            print("We found treatments. Now we're checking the hospitals in your city.")
+            driver = Driver()
+            relevant_treatments_hospitals = driver.create_hospital_treatment_filtered_dict(patient_city, relevant_treatment_objects)
+            
+            d = driver.create_treatment_dict()
+            h = driver.create_hospital_dict()
 
-        driver = Driver()
-        relevant_treatments_hospitals = driver.create_hospital_treatment_filtered_dict(patient_city, relevant_treatment_objects)
-        
-        #print(relevant_treatments_hospitals)
-        d = driver.create_treatment_dict()
-        #h = driver.create_hospital_dict()
-        #for k, v in relevant_treatments_hospitals.items():
-         #   print("  ",d[k].concept_code, ": ", d[k].treatment_name)
-          #  print("     ", v)
-
-        print(json.dumps(relevant_treatments_hospitals, sort_keys = False, indent = 3, default=str))
-
-        
+            print("")
+            print("Matched Treatments:")
+            for treatment, hosp_list in relevant_treatments_hospitals.items():
+                print("")
+                print("  Treatment Name: ", d[treatment].treatment_name)
+                for hosp, tup in hosp_list.items():
+                    print("    Hospital Name: ", tup[0].name)
+                    print("      NPI: ", tup[0].npi)
+                    print("      Cash Price:", tup[1].cash)
+                    print("      Gross Price:", tup[1].gross)
+                    print("      Min Price:", tup[1].min)
+                    print("      Max Price:", tup[1].max)
+                    #print(json.dumps(tup, sort_keys= False , indent = 3, default=str))
+            print("")
         var = input("Do you want to find another treatment? (Yes/Y or No/N) ")
         if var.lower() == "yes" or var.lower() == "y": 
             continue_searching = 1
