@@ -2,6 +2,7 @@ from meta import Meta
 from driver import Driver
 from CSVParser import CSVParser
 from Treatment import Treatment
+import json
 
 class Search:
     treatment_codes = []  # one dim
@@ -12,18 +13,19 @@ class Search:
     category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
     concepts_dataset = 'data/concept.csv'
 
-    def __init__(self, category_code, query):
-        self.category_code = category_code
+    def __init__(self, query):
+        #self.category_code = category_code
         self.query = query
 
     def find_possible_treatments(self):
         m = Meta()
         relevant_treatments = m.search_inverted_index(self.query)
     
-        if len(relevant_treatments):
-            print("We've found a treatment!")
-        else: 
+        if len(relevant_treatments) == 0:
+#            #print("We've found a treatment!")
+#        else: 
             print("Did not find treatment. You'll need try again and enter with another description or HCPCS code.")
+            return 1
         rel_treatment_objects = self.get_treatment_objects(self.get_treatment_list(relevant_treatments))
         
         return rel_treatment_objects
@@ -81,11 +83,11 @@ class Search:
 
         f.close()
         if len(rel_treatment_list) != 0: 
-            print("Best Matches: ")
+            print("We Found Treatment Matches! ")
             for i in rel_treatment_list: 
-                print(index_treatment_objs[i].treatment_name)
+                #print(index_treatment_objs[i].concept_id)
                 #relevant_treatment_objs[index_treatment_objs[i].concept_code] = index_treatment_objs[i]
-                relevant_treatment_objs.append(index_treatment_objs[i].concept_code)
+                relevant_treatment_objs.append(index_treatment_objs[i].concept_id)
         else: 
             print("No Found Matches")
 
@@ -93,32 +95,31 @@ class Search:
 
 if __name__ == "__main__":
 
-    driver = Driver()
+    #driver = Driver()
 
-    driver.categories_dataset = 'data/hcpcs_categories.csv'
-    driver.concepts_dataset = 'data/concept.csv'
-    driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
+    #driver.categories_dataset = 'data/hcpcs_categories.csv'
+    #driver.concepts_dataset = 'data/concept.csv'
+    #driver.category_description_dataset = 'data/hcpcs_descriptions_2020.csv'
     
-    treatment_list = driver.create_treatment_list(driver.concepts_dataset)
-    driver.set_treatment_list(treatment_list)
-    category_list, category_name_set = driver.create_category_list(driver.categories_dataset)
-    driver.set_category_list(category_list)
-    driver.set_category_name_set(category_name_set)
+    #treatment_list = driver.create_treatment_list(driver.concepts_dataset)
+    #driver.set_treatment_list(treatment_list)
+    #category_list, category_name_set = driver.create_category_list(driver.categories_dataset)
+    #driver.set_category_list(category_list)
+    #driver.set_category_name_set(category_name_set)
 
 
-    category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, category_name_set) 
-    category_treatment_dict = driver.create_category_treatment_dict(driver.category_name_set, driver.categories_dataset, driver.concepts_dataset)
-    category_treatment_dict_list = driver.create_category_treatment_list(category_treatment_dict)
-    driver.set_category_dict_list_hcpcs(category_dict_list_hcpcs)
-    driver.set_category_treatment_dict(category_treatment_dict)
-    driver.set_category_treatment_dict_list(category_treatment_dict_list)
+    #category_dict_list_hcpcs = driver.create_category_files(driver.category_description_dataset, category_name_set) 
+    #category_treatment_dict = driver.create_category_treatment_dict(driver.category_name_set, driver.categories_dataset, driver.concepts_dataset)
+    #category_treatment_dict_list = driver.create_category_treatment_list(category_treatment_dict)
+    #driver.set_category_dict_list_hcpcs(category_dict_list_hcpcs)
+    #driver.set_category_treatment_dict(category_treatment_dict)
+    #driver.set_category_treatment_dict_list(category_treatment_dict_list)
 
-    test_category = "A"
-    test_query = "air"
-    print("Test Query Category Letter: ", test_category)
+    test_query = "office visits"
     print("Test Query: ", test_query)
     
-    s = Search(test_category, test_query)
+    s = Search(test_query)
     rel_treatment_tuples = s.find_possible_treatments()
+    print(json.dumps(rel_treatment_tuples, sort_keys = False, indent = 3))
 
         
