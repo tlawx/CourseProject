@@ -156,6 +156,7 @@ class Driver:
         
         # build {treatment_id: {hospital_id: (hospital, price)} dict of dicts
         treatment_hospital = dict()
+        d = self.create_treatment_dict() #added this
         for entry in prices_filtered:
             treatment_code, hospital_id, price_type, amount = entry['concept_id'], entry['hospital_id'], entry['price'], entry['amount']
             
@@ -167,11 +168,14 @@ class Driver:
                     p = Price()
                     p.set_price_amount(price_type.lower(), amount)
 
+                    #treatment_hospital[d[treatment_code].concept_code] = dict()         
                     treatment_hospital[treatment_code] = dict()
+                    #treatment_hospital[d[treatment_code].concept_code][hospital_id] = (hospital_obj, p)
                     treatment_hospital[treatment_code][hospital_id] = (hospital_obj, p)
                 else:
                     hospital_obj, p = treatment_hospital[treatment_code][hospital_id]
                     p.set_price_amount(price_type.lower(), amount)
+                    #treatment_hospital[d[treatment_code].concept_code][hospital_id] = (hospital_obj, p)
                     treatment_hospital[treatment_code][hospital_id] = (hospital_obj, p)
 
         return treatment_hospital
