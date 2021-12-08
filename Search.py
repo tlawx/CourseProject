@@ -64,6 +64,7 @@ class Search:
 
         category_descriptions = CSVParser.readfile_to_dict(self.category_description_dataset)
         index_treatment_objs = []
+        #relevant_treatment_objs = {}
         relevant_treatment_objs = []
         index_treatment_set = set()
         f = (open('files_for_config/all_treatments.csv', 'a'))
@@ -83,7 +84,8 @@ class Search:
             print("Best Matches: ")
             for i in rel_treatment_list: 
                 print(index_treatment_objs[i].treatment_name)
-                relevant_treatment_objs.append(index_treatment_objs[i].treatment_name)
+                #relevant_treatment_objs[index_treatment_objs[i].concept_code] = index_treatment_objs[i]
+                relevant_treatment_objs.append(index_treatment_objs[i].concept_code)
         else: 
             print("No Found Matches")
 
