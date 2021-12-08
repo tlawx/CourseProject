@@ -9,12 +9,4 @@ class Treatment:
         self.category = category
         self.hospitals = hospitals
 
-    def get_treatment_name(self):
-        return self.treatment_name
-
-    def get_treatment_price(self):
-        return self.treatment_price
-
-    def add_hospital_dict(self, hospital_id, hospital_object):
-        self.hospitals[hospital_id] = hospital_object
 
