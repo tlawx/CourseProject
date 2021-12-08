@@ -1,6 +1,7 @@
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, select, text, Table, MetaData
 import requests
 import time
+import csv
 
 def read_records_from_table(table_name, number_of_records):
     # database name should always _ instead fo non alphanumeric characters
@@ -20,7 +21,7 @@ def execute_sql(tablename, sql_query):
 
     with engine.begin() as conn:
         print("Querying Database")
-        result = conn.execute(sql_query).fetchone()
+        result = conn.execute(sql_query).fetch()
 
     return result
 
@@ -39,13 +40,36 @@ def api_poll(sleep_time, total_records_fetch):
 
     return result
 
+def query_hospitals_in_city(city):
+    city = text(city.title())
+    table=text('hospitals')
+    # query_str = "select npi_number, name, url, street_address, city, state, zip_code, publish_date FROM hospitals WHERE city = '{}'".format(city.title())
+
+    engine = create_engine("mysql+pymysql://root@localhost/hospital_price_transparency")
+    connection = engine.connect()
+    metadata = MetaData()
+    hospitals = Table('hospitals', metadata, autoload=True, autoload_with=engine)
+
+    query = select([hospitals])
+
+    result = connection.execute(query)
+    resultSet = result.fetchmany(10)
+    return resultSet
+
+def write_to_csv_file(data):
+    with open('test.csv','wb') as out:
+        csv_out=csv.writer(out)
+        for row in data:
+            row = row[:-2]
+            print(row)
+            csv_out.writerow(row)
 
 if __name__ == '__main__':
-    #result = read_records_from_table("cpt_hcpcs", 100)
-
-
-
+    # result = read_records_from_table("cpt_hcpcs", 100)
     # print(result)
 
-    result_api = api_poll(1.1, 10)
-    print(result_api)
+    # result_api = api_poll(1.1, 10)
+    # print(result_api)
+
+    data = query_hospitals_in_city("chicago")
+    write_to_csv_file(data)
