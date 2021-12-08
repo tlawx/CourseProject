@@ -6,7 +6,6 @@ import pandas
 from CSVParser import CSVParser
 from Hospital import Hospital
 from Treatment import Treatment
-from Category import Category
 from Price import Price
 
 class Driver:
