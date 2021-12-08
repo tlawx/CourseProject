@@ -146,9 +146,9 @@ class Driver:
         
         # Parser concept dataset and generate a dict of objects to later in matching concept_code to concept_id
         treatment_dict = self.create_treatment_dict(self.concepts_dataset)
-        concept_id_to_concept_code_dict = {}
-        for k, v in treatment_dict.items():
-            concept_id_to_concept_code_dict[v.concept_id] = v.concept_code
+        # concept_id_to_concept_code_dict = {}
+        # for k, v in treatment_dict.items():
+        #     concept_id_to_concept_code_dict[v.concept_id] = v.concept_code
 
         
         prices_filtered = []
