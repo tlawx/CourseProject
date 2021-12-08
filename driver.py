@@ -141,15 +141,28 @@ class Driver:
 
         hospitals_in_city_list = self.create_city_dict_of_hopital_list()[city]
 
+        # Parse prices dataset that links between treatment/hospital/price columns
         prices = CSVParser.readfile_to_dict(self.prices_dataset)
+        
+        # Parser concept dataset and generate a dict of objects to later in matching concept_code to concept_id
+        treatment_dict = self.create_treatment_dict(self.concepts_dataset)
+        concept_id_to_concept_code_dict = {}
+        for k, v in treatment_dict.items():
+            concept_id_to_concept_code_dict[v.concept_id] = v.concept_code
 
+        
         prices_filtered = []
         hospital_id_set = set([h['hospital_id'] for h in hospitals_in_city_list])
         
+
         # Getting only price entries for hospital IDs in city parameter
         for entry in prices:
             if entry['hospital_id'] in hospital_id_set:
                 prices_filtered.append(entry)
+            # Matching concept code entries with concept id entries
+            if entry['concept_id'] in treatment_dict:
+                entry['concept_code'] = treatment_dict[entry['concept_id']].concept_code
+
 
 
         print("Treatments avaialble in this city:", len(prices_filtered))
@@ -159,7 +172,7 @@ class Driver:
         d = self.create_treatment_dict() #added this
         for entry in prices_filtered:
             treatment_code, hospital_id, price_type, amount = entry['concept_id'], entry['hospital_id'], entry['price'], entry['amount']
-            
+            #print(entry)
             # Making sure we are only fetching treatments that match treatment code entries from search output
             if treatment_code in treatments_list_from_search:      
                 hospital_obj = self.hospital_index[hospital_id]
