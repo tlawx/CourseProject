@@ -9,13 +9,13 @@ def main():
     print("Hello! Welcome to the Search System For Hospital Transparency Data.")
     patient_name = input("Please enter your name: ")
     patient_city = input("Please enter the city you live in: ")
-    patient_city = re.sub('[^\w\s]'," ",patient_city)
+    patient_city = re.sub('[^\w\s]'," ",patient_city.lower())
 
     p = Patient(patient_name, patient_city)
 
     continue_searching = 1
     while continue_searching: 
-        query = input("What kind of treatment are you looking for today? (For example you could try \"office visit\", \"mri\", \"ct scan\", or \"ambulance\"): ")
+        query = input("What kind of treatment are you looking for today? ") # (For example you could try \"office visit\", \"mri\", \"ct scan\", or \"ambulance\"): ")
         s = Search(query)
         relevant_treatment_objects = s.find_possible_treatments()
 
@@ -28,7 +28,7 @@ def main():
             h = driver.create_hospital_dict()
 
             print("")
-            print("Matched Treatments:")
+            print("Best Matched Treatments:")
             for treatment, hosp_list in relevant_treatments_hospitals.items():
                 print("")
                 print("  Treatment Name: ", d[treatment].treatment_name)

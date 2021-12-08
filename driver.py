@@ -79,7 +79,7 @@ class Driver:
         city_dict = defaultdict(list)
 
         for h in hospitals:
-            city_dict[re.sub('[^\w\s]'," ",h['city'])].append(h)
+            city_dict[re.sub('[^\w\s]'," ",h['city'].lower())].append(h)
  
         return city_dict
 
