@@ -393,4 +393,4 @@ if __name__ == '__main__':
     print(hospital_index['1'].name)
 
     mocked_treatment_code_list = ["44781957", "2721272", "44782131", "44786590", "2615330", "2718775", "915797"]
-    print(driver.create_hospital_treatment_filtered_dict("Winston-Salem", mocked_treatment_code_list))
+    print(driver.create_hospital_treatment_filtered_dict("Winston Salem", mocked_treatment_code_list))
