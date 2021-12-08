@@ -8,10 +8,12 @@ def main():
 
     print("Hello! Welcome to the Search System For Hospital Transparency Data.")
     patient_name = input("Please enter your name: ")
-    patient_city = input("Please enter the city you live in: ")
-    patient_city = re.sub('[^\w\s]'," ",patient_city.lower())
 
-    p = Patient(patient_name, patient_city)
+    # additional functionality to filter results based upon city. Need larger dataset first. 
+    #patient_city = input("Please enter the city you live in: ")
+    #patient_city = re.sub('[^\w\s]'," ",patient_city.lower())
+
+    p = Patient(patient_name)
 
     continue_searching = 1
     while continue_searching: 
@@ -32,13 +34,16 @@ def main():
             for treatment, hosp_list in relevant_treatments_hospitals.items():
                 print("")
                 print("  Treatment Name: ", d[treatment].treatment_name)
+                count = 0
                 for hosp, tup in hosp_list.items():
-                    print("    Hospital Name: ", tup[0].name)
-                    print("      NPI: ", tup[0].npi)
-                    print("      Cash Price:", tup[1].cash)
-                    print("      Gross Price:", tup[1].gross)
-                    print("      Min Price:", tup[1].min)
-                    print("      Max Price:", tup[1].max)
+                    if count < 5: 
+                        print("    Hospital Name: ", tup[0].name)
+                        print("      NPI: ", tup[0].npi)
+                        print("      Cash Price:", tup[1].cash)
+                        print("      Gross Price:", tup[1].gross)
+                        print("      Min Price:", tup[1].min)
+                        print("      Max Price:", tup[1].max)
+                        count = count + 1
                     #print(json.dumps(tup, sort_keys= False , indent = 3, default=str))
             print("")
         var = input("Do you want to find another treatment? (Yes/Y or No/N) ")
