@@ -27,4 +27,12 @@ Suggested treatments to search: "mri", "ct scans", "air", "transport", "ambulanc
 * dolthub Hospital Price Transparency [link](https://www.dolthub.com/repositories/dolthub/hospital-price-transparency)
 * Kaggle Dataset hospital-price-transparency [link](https://www.kaggle.com/natesutton/hospitalpricetransparency?select=concept.csv)
 
+### Future Improvements
+
 Due to the limitations of the dataset we used, our search was limited to hospitals in North Carolina. There significantly larger datasets available but they also needed to be purchased or granted access. 
+
+* Develop a larger dataset
+* Add Ranker function that utilized the Patient information obtained from searches
+* Rank the hospitals, import Health Grade dataset
+
+### Please see documentation pdf for additional information as per requirements of CS410 project
