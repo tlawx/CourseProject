@@ -22,9 +22,10 @@ def main():
         relevant_treatment_objects = s.find_possible_treatments()
 
         if relevant_treatment_objects != 1:
-            print("We found treatments. Now we're checking the hospitals in your city.")
+            print("")
+            print("We found treatments. Now we're now checking the hospitals offering this service.")
             driver = Driver()
-            relevant_treatments_hospitals = driver.create_hospital_treatment_filtered_dict(patient_city, relevant_treatment_objects)
+            relevant_treatments_hospitals = driver.create_hospital_treatment_filtered_dict(relevant_treatment_objects)
             
             d = driver.create_treatment_dict()
             h = driver.create_hospital_dict()
@@ -33,17 +34,20 @@ def main():
             print("Best Matched Treatments:")
             for treatment, hosp_list in relevant_treatments_hospitals.items():
                 print("")
-                print("  Treatment Name: ", d[treatment].treatment_name)
+                print(" Treatment Name: ", d[treatment].treatment_name)
                 count = 0
                 for hosp, tup in hosp_list.items():
-                    if count < 5: 
-                        print("    Hospital Name: ", tup[0].name)
-                        print("      NPI: ", tup[0].npi)
-                        print("      Cash Price:", tup[1].cash)
-                        print("      Gross Price:", tup[1].gross)
-                        print("      Min Price:", tup[1].min)
-                        print("      Max Price:", tup[1].max)
-                        count = count + 1
+                    if hosp != None and tup != None:
+                        if count < 5: 
+                            print("   Hospital Name: ", tup[0].name)
+                            print("      NPI: ", tup[0].npi)
+                            print("      Cash Price:", tup[1].cash)
+                            print("      Gross Price:", tup[1].gross)
+                            print("      Min Price:", tup[1].min)
+                            print("      Max Price:", tup[1].max)
+                            count = count + 1
+                    #else: 
+                    #    print("No Hospitals Found")
                     #print(json.dumps(tup, sort_keys= False , indent = 3, default=str))
             print("")
         var = input("Do you want to find another treatment? (Yes/Y or No/N) ")

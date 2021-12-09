@@ -208,7 +208,9 @@ class Driver:
                             treatment_code_short = concept_code
                         else:
                             treatment_code_short = treatment_code
-                        treatment_hospital[treatment_code]["Hospital Not Found"] = "No Hospitals Found for Treatment {} in Your Area".format(treatment_code_short)
+                        #treatment_hospital[treatment_code]["Hospital Not Found"] = "No Hospitals Found for Treatment {} in Your Area".format(treatment_code_short)
+                        treatment_hospital[treatment_code]["Hospital Not Found"] = None
+
 
         return treatment_hospital
 
