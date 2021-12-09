@@ -1,3 +1,4 @@
+from json.encoder import JSONEncoder
 from os import stat
 import re
 from collections import defaultdict, namedtuple
@@ -7,6 +8,7 @@ from CSVParser import CSVParser
 from Hospital import Hospital
 from Treatment import Treatment
 from Price import Price
+import json
 
 class Driver:
     def __init__(self):
@@ -116,7 +118,7 @@ class Driver:
         return h
     
 
-    def create_hospital_treatment_filtered_dict(self, city, treatments_list_from_search):
+    def create_hospital_treatment_filtered_dict(self, treatments_list_from_search):
         """
         Creates a dict of dicts of treatment_id (concept_id) keys and a dict value as all matching hospitals for that treatment with value as tuple (hospita, price) objects
 
@@ -137,45 +139,52 @@ class Driver:
             ...
         }
         """
+        
+        # Create a list of hospital objects from hospital dataset enties
         self.hospital_list = self.create_hospital_list(self.hospital_dataset)
 
         if not self.hospital_index:
             self.hospital_index = self.create_hospital_index(self.hospital_list)
 
-        hospitals_in_city_list = self.create_city_dict_of_hopital_list()[city]
+        # This logic is meant for using the city to make sure hospital list is only mapped to selected city
+        #hospitals_in_city_list = self.create_city_dict_of_hopital_list()[city]
 
         # Parse prices dataset that links between treatment/hospital/price columns
         prices = CSVParser.readfile_to_dict(self.prices_dataset)
         
         # Parser concept dataset and generate a dict of objects to later in matching concept_code to concept_id
         treatment_dict = self.create_treatment_dict()
+        
         # concept_id_to_concept_code_dict = {}
         # for k, v in treatment_dict.items():
         #     concept_id_to_concept_code_dict[v.concept_id] = v.concept_code
 
         
         prices_filtered = []
-        hospital_id_set = set([h['hospital_id'] for h in hospitals_in_city_list])
-        
+        hospital_id_set = set(self.hospital_index.keys())
 
-        # Getting only price entries for hospital IDs in city parameter
+        
         for entry in prices:
-            if entry['hospital_id'] in hospital_id_set:
-                prices_filtered.append(entry)
+            # Getting only price entries for hospital IDs in city parameter
+            # if entry['hospital_id'] in hospital_id_set:
+            #     prices_filtered.append(entry)
+            
             # Matching concept code entries with concept id entries
             if entry['concept_id'] in treatment_dict:
                 entry['concept_code'] = treatment_dict[entry['concept_id']].concept_code
+        
 
-
-
-        print("Treatments avaialble in this city:", len(prices_filtered))
+        
         
         # build {treatment_id: {hospital_id: (hospital, price)} dict of dicts
         treatment_hospital = dict()
         d = self.create_treatment_dict() #added this
-        for entry in prices_filtered:
-            treatment_code, hospital_id, price_type, amount = entry['concept_id'], entry['hospital_id'], entry['price'], entry['amount']
-            #print(entry)
+        for entry in prices:
+            treatment_code, hospital_id, price_type, amount, concept_code = entry['concept_id'], entry['hospital_id'], entry['price'], entry['amount'], None
+            if 'concept_code' in entry.keys():
+                concept_code = entry['concept_code']
+            # print(entry)
+
             # Making sure we are only fetching treatments that match treatment code entries from search output
             if treatment_code in treatments_list_from_search:      
                 hospital_obj = self.hospital_index[hospital_id]
@@ -189,10 +198,17 @@ class Driver:
                     #treatment_hospital[d[treatment_code].concept_code][hospital_id] = (hospital_obj, p)
                     treatment_hospital[treatment_code][hospital_id] = (hospital_obj, p)
                 else:
-                    hospital_obj, p = treatment_hospital[treatment_code][hospital_id]
-                    p.set_price_amount(price_type.lower(), amount)
-                    #treatment_hospital[d[treatment_code].concept_code][hospital_id] = (hospital_obj, p)
-                    treatment_hospital[treatment_code][hospital_id] = (hospital_obj, p)
+                    if hospital_id in treatment_hospital[treatment_code]:
+                        hospital_obj, p = treatment_hospital[treatment_code][hospital_id]
+                        p.set_price_amount(price_type.lower(), amount)
+                        treatment_hospital[treatment_code][hospital_id] = (hospital_obj, p)
+                    else:
+                        treatment_code_short = ""
+                        if concept_code:
+                            treatment_code_short = concept_code
+                        else:
+                            treatment_code_short = treatment_code
+                        treatment_hospital[treatment_code]["Hospital Not Found"] = "No Hospitals Found for Treatment {} in Your Area".format(treatment_code_short)
 
         return treatment_hospital
 
@@ -235,4 +251,4 @@ if __name__ == '__main__':
 
     #mocked_treatment_code_list = ["45754689", "45754690", "40661570"]
     mocked_treatment_code_list = ["44781957", "2721272", "44782131", "44786590", "2615330", "2718775", "915797"]
-    print(driver.create_hospital_treatment_filtered_dict("Winston Salem", mocked_treatment_code_list))
+    print(driver.create_hospital_treatment_filtered_dict(mocked_treatment_code_list))
