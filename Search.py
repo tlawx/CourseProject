@@ -29,27 +29,12 @@ class Search:
         rel_treatment_objects = self.get_treatment_objects(self.get_treatment_list(relevant_treatments))
         
         return rel_treatment_objects
-
-    def print_treatment_info(treatments):
-        # TODO: print (for each treatment) treatment name, treatment price, hospital name, hospital location, hospital link
-        pass
     
     def get_treatment_list(self, treatments):
         index_list = []
         for tup in treatments: 
             index_list.append(tup[0])
         return index_list
-    
-    def create_treatment_hcpcs_index(treatment_obj_list): 
-        """
-        Creates a dict of treatment_id (keys) and treatment objects (values)
-        """
-        treatment_index = {}
-
-        for treatment_obj in treatment_obj_list:
-            treatment_index[treatment_obj.concept_code] = treatment_obj
-
-        return treatment_index
 
     def get_treatment_objects(self, rel_treatment_list):
         # TODO: 
