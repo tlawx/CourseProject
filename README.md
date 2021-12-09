@@ -6,7 +6,7 @@ Healthcare costs make up one of individuals and employers largest expenses and p
 
 This project allows users to query/search of medical service and provide a list of hospitals that are ranked according to reported prices and their ratings 
 
-![alt text](https://github.com/tlawx/CourseProject/blob/main/Hospital_Transparency_Flow_Chart.jpg?raw=true)
+![alt text](https://github.com/tlawx/CourseProject/main/Hospital_Transparency_Flow_Chart.jpg?raw=true)
 
 ### Dataset  
 
