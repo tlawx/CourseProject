@@ -15,10 +15,10 @@ See below for the general flow of our code.
 
 Requirements: 
 * python 3.5
-* meta
+`pip install -r requirments.txt`
 
 On command line, enter:
-"python main.py"
+`python main.py`
 
 Suggested treatments to search: "mri", "ct scans", "air", "transport", "ambulance"
 
