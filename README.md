@@ -1,9 +1,9 @@
 # CourseProject
 
 ## Search System For Hospital Transparency Data
-Tony Law, Morgan Whitman, Aareana Reze
+Tony Law, Morgan Whitman, Aareana Reza
 
-Healthcare costs make up one of individuals and employers largest expenses and prices continue to rise. New legislation in recent years has required hospitals to provide standard prices on a publicly available websites. This data is accessible on hospital or health system websites but not easily accessible to individuals searching by service. 
+Healthcare costs make up one of individuals and employers largest expenses. Prices continue to rise and put burden on individuals and health plans. New legislation in recent years has required hospitals to provide standard prices on a publicly available websites. This data is accessible on hospital or health system websites but not easily accessible to individuals searching by service. 
 
 This project allows users to query/search medical services and returns a list of relevant treatments and hospitals with these reported services. Our code also has the additional functionality to input a city and limit the results of the search to hospitals within a certain city. We opted to comment out this due to the limited dataset. 
 
